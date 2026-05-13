@@ -42,12 +42,26 @@ async function fetchNews() {
 
   console.log(`Fetching AI legal tech news for ${today}...`);
 
-  const prompt = `Today is ${today}. Search the web for the 20 most important AI legal tech news articles from the past 48 hours. Focus on: AI legal research tools, contract AI, e-discovery AI, legal AI startups, law firm AI adoption, legaltech funding rounds, AI regulation for the legal industry, law firm AI strategy, legal AI product launches.
+  const prompt = `Today is ${today}. You are a legal tech news analyst. Perform multiple web searches to find the 25 most important and recent AI legal tech news articles from the past 48-72 hours.
 
-Return ONLY a raw JSON array — no markdown, no code fences, no explanation. Start with [ and end with ]. Use this exact shape for each item:
-{"title":"...","source":"Publication name","date":"${today}","summary":"One or two sentence summary of what this article covers.","url":"https://...","tags":["tag"]}
+Search specifically for news about:
+- Legal AI startups: Harvey, Clio, Legora, EvenUp, Spellbook, Ironclad, Luminance, Relativity, Everlaw, CaseText, Lexis+ AI, Westlaw AI
+- Law firm AI adoption and strategy announcements
+- Legal AI product launches and updates
+- Legaltech startup funding rounds and acquisitions
+- Contract AI and CLM tools
+- E-discovery AI tools
+- AI regulation affecting the legal industry
+- AI hallucination cases in court
+- In-house legal team AI adoption
+- Legal research AI tools
 
-Tags must be one or more from: funding, product, regulation, research, acquisition, enterprise. Each article gets 1-2 tags. Return the raw JSON array only, nothing else.`;
+Prioritize sources: Artificial Lawyer, Law360, Legal IT Insider, Legaltech News, Above the Law, Bloomberg Law, Am Law Daily, Legal Futures, TechCrunch, Reuters.
+
+Return ONLY a raw JSON array of 25 articles — no markdown, no code fences, no explanation, no preamble. Start with [ and end with ]. Use this exact shape:
+{"title":"...","source":"Publication name","date":"${today}","summary":"Two sentence summary of what happened and why it matters for legal tech.","url":"https://...","tags":["tag"]}
+
+Tags must be one or more from: funding, product, regulation, research, acquisition, enterprise. Each article gets 1-2 tags. Only include real articles with real URLs. Return the raw JSON array only.`;
 
   try {
     const response = await axios.post(
