@@ -42,23 +42,19 @@ const QUERIES = [
   'in-house+counsel+AI+OR+general+counsel+AI',
 ];
 
-// Must match at least one of these to be included
 const REQUIRED_KEYWORDS = [
   'legal', 'law firm', 'lawyer', 'attorney', 'legaltech', 'legal tech',
   'harvey', 'clio', 'legora', 'ironclad', 'luminance', 'everlaw', 'relativity',
   'evenup', 'spellbook', 'casetext', 'lexisnexis', 'westlaw', 'thomson reuters',
   'e-discovery', 'ediscovery', 'contract ai', 'clm', 'in-house counsel',
-  'general counsel', 'law school', 'biglaw', 'litigation ai', 'legal ops',
-  'court', 'judge', 'lawsuit', 'litigation'
+  'general counsel', 'biglaw', 'litigation', 'court', 'judge', 'legal ops'
 ];
 
-// Must NOT match any of these
 const EXCLUDE_KEYWORDS = [
   'sports', 'football', 'basketball', 'soccer', 'nfl', 'nba', 'mlb', 'nhl',
-  'celebrity', 'entertainment', 'music', 'movie', 'fashion', 'recipe', 'food',
-  'travel', 'weather', 'stock market', 'crypto', 'bitcoin', 'real estate',
-  'health', 'medical', 'hospital', 'vaccine', 'climate', 'election',
-  'politics', 'president', 'congress', 'senate'
+  'celebrity', 'entertainment', 'music', 'movie', 'fashion', 'recipe',
+  'travel', 'weather', 'crypto', 'bitcoin', 'real estate',
+  'hospital', 'vaccine', 'climate'
 ];
 
 function isRelevant(article) {
@@ -114,25 +110,33 @@ function isRecent(pubDate) {
   }
 }
 
-async function tagArticles(articles) {
+async function tagAndScoreArticles(articles) {
   const list = articles.map((a, i) =>
     `${i + 1}. "${a.title}" — ${a.source}`
   ).join('\n');
 
-  const prompt = `You are tagging legal tech news articles. For each article, assign 1-2 tags based on these rules:
+  const prompt = `You are analyzing legal tech news articles. For each article do two things:
 
-- "funding" = startup funding rounds, venture capital, investment, valuation, Series A/B/C
-- "product" = new product launch, feature release, software update, new tool, beta launch
+1. Assign 1-2 tags from ONLY these options:
+- "funding" = startup funding, venture capital, investment, valuation, Series A/B/C
+- "product" = new product launch, feature release, software update, new tool, beta
 - "regulation" = laws, regulations, court rules, AI policy, government, compliance, ethics, sanctions
-- "research" = studies, surveys, reports, analysis, statistics, trends, predictions
+- "research" = studies, surveys, reports, analysis, statistics, trends
 - "acquisition" = mergers, acquisitions, buyouts, partnerships, deals
-- "enterprise" = law firm adoption, in-house legal, BigLaw strategy, legal ops, client work
+- "enterprise" = law firm adoption, in-house legal, BigLaw strategy, legal ops
+
+2. Assign a heat score 1-10 for how directly relevant this is to AI legal tech:
+- 9-10 = directly about AI tools, funding, or strategy in legal industry
+- 7-8 = about AI in law firms or legal departments
+- 5-6 = about legal industry with some AI angle
+- 3-4 = loosely related to legal tech
+- 1-2 = barely relevant, general legal news
 
 Articles:
 ${list}
 
-Return ONLY a JSON array, one object per article:
-[{"index":1,"tags":["product"]},{"index":2,"tags":["funding","enterprise"]}]
+Return ONLY a JSON array:
+[{"index":1,"tags":["product"],"heat":9},{"index":2,"tags":["funding"],"heat":7}]
 No markdown, no explanation. JSON only.`;
 
   const response = await axios.post(
@@ -172,43 +176,38 @@ async function fetchNews() {
   });
   console.log(`Fetching AI legal tech news for ${today}...`);
 
-  // Step 1: Pull RSS feeds
   let allArticles = [];
   for (const query of QUERIES) {
     console.log(`Fetching: ${query}`);
     const items = await fetchRSS(query);
     const recent = items.filter(a => isRecent(a.pubDate));
-    console.log(`  → ${recent.length} recent articles`);
+    console.log(`  -> ${recent.length} recent articles`);
     allArticles = allArticles.concat(recent);
     await sleep(500);
   }
 
-  // Step 2: Deduplicate
   allArticles = deduplicateArticles(allArticles);
-  console.log(`✓ ${allArticles.length} unique articles before filtering`);
-
-  // Step 3: Relevance filter
+  console.log(`Total unique: ${allArticles.length}`);
   allArticles = allArticles.filter(isRelevant);
-  console.log(`✓ ${allArticles.length} articles after relevance filter`);
+  console.log(`After relevance filter: ${allArticles.length}`);
 
   if (!allArticles.length) {
     console.error('No relevant articles found');
     process.exit(1);
   }
 
-  // Step 4: Tag with Claude Haiku
-  console.log('Tagging articles...');
-  let tags = [];
+  console.log('Tagging and scoring articles...');
+  let results = [];
   try {
-    tags = await tagArticles(allArticles);
-    console.log(`✓ Tagged ${tags.length} articles`);
+    results = await tagAndScoreArticles(allArticles);
+    console.log(`Tagged and scored ${results.length} articles`);
   } catch (e) {
     console.log('Tagging failed, using defaults:', e.message);
-    tags = allArticles.map((_, i) => ({ index: i + 1, tags: ['enterprise'] }));
+    results = allArticles.map((_, i) => ({ index: i + 1, tags: ['enterprise'], heat: 5 }));
   }
 
-  const tagMap = {};
-  tags.forEach(t => { tagMap[t.index] = t.tags; });
+  const resultMap = {};
+  results.forEach(r => { resultMap[r.index] = r; });
 
   const finalArticles = allArticles.map((a, i) => ({
     title: a.title,
@@ -216,10 +215,12 @@ async function fetchNews() {
     date: today,
     summary: a.summary || 'Click to read the full article.',
     url: a.url,
-    tags: tagMap[i + 1] || ['enterprise']
+    tags: resultMap[i + 1]?.tags || ['enterprise'],
+    heat: resultMap[i + 1]?.heat || 5
   }));
 
-  // Step 5: Save
+  finalArticles.sort((a, b) => b.heat - a.heat);
+
   const data = readData();
   const dateKey = new Date().toISOString().split('T')[0];
   data.fetches = data.fetches.filter(f => f.date !== dateKey);
@@ -232,10 +233,10 @@ async function fetchNews() {
   data.fetches = data.fetches.slice(0, 90);
   writeData(data);
 
-  console.log(`✓ Saved ${finalArticles.length} articles`);
-  console.log(`✓ Total days in history: ${data.fetches.length}`);
+  console.log(`Saved ${finalArticles.length} articles`);
+  console.log(`Total days in history: ${data.fetches.length}`);
   finalArticles.forEach((a, i) => {
-    console.log(`${i + 1}. [${a.tags.join(', ')}] ${a.title}`);
+    console.log(`${i + 1}. [heat:${a.heat}] [${a.tags.join(', ')}] ${a.title}`);
   });
 }
 
