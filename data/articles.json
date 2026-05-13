@@ -2,51 +2,42 @@
   "fetches": [
     {
       "date": "2026-05-13",
-      "fetchedAt": "2026-05-13T07:26:01.024Z",
-      "articleCount": 81,
+      "fetchedAt": "2026-05-13T07:46:27.119Z",
+      "articleCount": 49,
       "articles": [
         {
-          "title": "The AI legal services industry is heating up — Anthropic is getting in on the action - TechCrunch",
+          "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
           "source": "TechCrunch",
           "date": "May 13, 2026",
           "summary": "The AI legal services industry is heating up — Anthropic is getting in on the action&nbsp;&nbsp;TechCrunch",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNam1oY292SDJ6bmU0cWI3QjV5QnNEb2ZVM0NuMjZ2SDZNUk5RM0Y5QWoxMjdVSlRXM2RLU3RneUVfaWx6SnRSeERyUVRySWQ1S2ZHVTNSTVFiWXBZT3J3OXl3a2Utc3BqTXVtRTVVcVVIMzRsc1V5S3FMeU5Xd0c0TmpiMGJoWVJtUkZrU2NIVUJKaHFSelREeTlYWHE0R3FjdlFvOXVQTFc1Vk1BZ2VjRTJ5LUotenQ4?oc=5",
           "tags": [
-            "enterprise"
+            "product"
           ]
         },
         {
-          "title": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
+          "title": "Anthropic expands Claude's AI tools for law firms, lawyers",
           "source": "Reuters",
           "date": "May 13, 2026",
           "summary": "Anthropic expands Claude's AI tools for law firms, lawyers&nbsp;&nbsp;Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5",
           "tags": [
+            "product",
             "enterprise"
           ]
         },
         {
-          "title": "Why Most Legal AI Tools Make Junior Lawyers Worse, Not Better - Above the Law",
+          "title": "Why Most Legal AI Tools Make Junior Lawyers Worse, Not Better",
           "source": "Above the Law",
           "date": "May 13, 2026",
           "summary": "Why Most Legal AI Tools Make Junior Lawyers Worse, Not Better&nbsp;&nbsp;Above the Law",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSklvNkM1VS1RbHdSMTRmRmVYbE53cDVRTE1NbHR4T0ZHaFgtQ3dUdGhXTTdoQld5b1d3ZzNfM1dvMFI5djJaUjhXNVVkRWc1eENwUFc0b1hDd1l5dTNpcG1sdnpSMzBoOGZCWlctMDNTLUlCWHRiLVhKYkNfc01MY2tYclNCTEF0OUVCRWl4alZFd1B1VkJhZg?oc=5",
           "tags": [
-            "enterprise"
+            "research"
           ]
         },
         {
-          "title": "Debevoise Harnesses Client Practice, Internal Experimentation to Navigate AI Era - Law.com",
-          "source": "Law.com",
-          "date": "May 13, 2026",
-          "summary": "Debevoise Harnesses Client Practice, Internal Experimentation to Navigate AI Era&nbsp;&nbsp;Law.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWJZS25obzJiWGV0ZmVHNTQ3aERGeU9tdnM4Y3EtY25WZFZLQ3YwRDJXRE5NLTJ3WGlaY1ZBSWMtRWJpR1I4LWZPTDFGeU5JZFdtOUt6T0poM3hPbjFNYUg4aVRaZW5LdlRvRy1JQ2p3cndtOHZ2al9GR1lVbGtVNE9melNwT0RicjExVVF3UzVaUXBGWExVLVF5enM3X01RWFBfbVpuXzRJZGxKQjVubVphOVc1S2NXSndFRjBWbVVHMERLd3c?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "AI Billing Transparency Tells a Story That’s Good for Law Firms - Bloomberg Law News",
+          "title": "AI Billing Transparency Tells a Story That’s Good for Law Firms",
           "source": "Bloomberg Law News",
           "date": "May 13, 2026",
           "summary": "AI Billing Transparency Tells a Story That’s Good for Law Firms&nbsp;&nbsp;Bloomberg Law News",
@@ -56,157 +47,147 @@
           ]
         },
         {
-          "title": "Hinshaw GC Steve Puiszis Discusses Protecting Attorney-Client Privilege in an AI Age - Hinshaw & Culbertson LLP",
+          "title": "Hinshaw GC Steve Puiszis Discusses Protecting Attorney-Client Privilege in an AI Age",
           "source": "Hinshaw & Culbertson LLP",
           "date": "May 13, 2026",
           "summary": "Hinshaw GC Steve Puiszis Discusses Protecting Attorney-Client Privilege in an AI Age&nbsp;&nbsp;Hinshaw & Culbertson LLP",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVWlqZnhwUjRnYXd3Mi1YbUlCNFdpN0dIRHdTQlR3cldBbUpFaktndEFadlFiRHN0emVoNWZFWXlKc1lraGVQYWFxODdkNTJGRWJWMmVYQlBrcTFaRGZva0t4d0MwQ0ZvQ3QxcXRoRVpyd3dXX3R1czBOc2h5dEx1SlBSTDBPM3R6d1VqY1FCZmR1TEY0NFZCeGpPUUtkUG1UbkJwYmFhTkx3S1ZCMXJLS0VQcm5FR1Y5TnExSWxUMm1Mci1SSS02Z3hwc0ZsQldW?oc=5",
           "tags": [
-            "enterprise"
+            "regulation"
           ]
         },
         {
-          "title": "Create An AI Policy Before Your Firm Falls Further Behind - Above the Law",
-          "source": "Above the Law",
-          "date": "May 13, 2026",
-          "summary": "Create An AI Policy Before Your Firm Falls Further Behind&nbsp;&nbsp;Above the Law",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3RZZXZuTkkxckVnOG9JTFUzOERPS0RwZ2FjYjRTUjhvZWNoYkp5c215d3FQTWczbW9QTWlSVUdHUFdtWTZPNnhaX0pUN2Nod2xRb0hlWmZhTU16V2RXdmlZeUxUX250TVNTSU9JQVhrYUhVYkJ6QjNvQjA3QVlNS1FqVUdDdE9mYXVRZm9IOWNXakNE?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Nearly All Legal Professionals Now Use AI, but Most Organizations Aren't Ready for What Comes Next, According to Survey - Law.com",
+          "title": "Nearly All Legal Professionals Now Use AI, but Most Organizations Aren't Ready for What Comes Next, According to Survey",
           "source": "Law.com",
           "date": "May 13, 2026",
           "summary": "Nearly All Legal Professionals Now Use AI, but Most Organizations Aren't Ready for What Comes Next, According to Survey&nbsp;&nbsp;Law.com",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcTR5aEZySHFOLV96ODlKQUJ3YTFVajFvMGEtTFFOejJjLUo5by1YajZQTTBWRl9hUDUxT0p4Mk1yS0FuSFowTG85MUU0ck5DUktROTAxZ1RMSjFGMGl3cXNHajRuY25vR2Q4Sm1xQkt3UjFjTDJ6SDRpLVAzbjFpVGVOLVJ2RG9wT2NyZnQ4dU5lMmk3dDQwNGpQV1diaWJsS1RNbjlYYnh4Sm56WHktaXI1Tk54TS1hOUFpdXp5cW1wdkQyU2dGSC1sSHFyeFJuV01VWDdSanEtbW1ZUjZOdzM1bFJHM3BqcllHdEl5dUE4UQ?oc=5",
           "tags": [
-            "enterprise"
+            "research"
           ]
         },
         {
-          "title": "New tool to catch AI hallucinations being in legal citations - Digital Journal",
+          "title": "New tool to catch AI hallucinations being in legal citations",
           "source": "Digital Journal",
           "date": "May 13, 2026",
           "summary": "New tool to catch AI hallucinations being in legal citations&nbsp;&nbsp;Digital Journal",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmZzMVBqLU9RVzR5enY2YVRjek1yZGlyOFVZaERILUhXRWRqTDZOTU9rMDJSaWVFSEVTWHpFcFJMb3NrVUJLVnMxbG5rUDQ2ZThFamZQRkhNdEdlNF9ZOFFzX1pGUld3cWhCX1dScHNnVE5lOW9abkphalVESjhqZ0d4clA4ckFIQmhkODJ4cm5IZWpKeTAzR3RNUE83UHZ5djFfMVI2dw?oc=5",
           "tags": [
-            "enterprise"
+            "product"
           ]
         },
         {
-          "title": "AI for lawyers: top tools, common pitfalls, and practical tips - Law Times News",
+          "title": "AI for lawyers: top tools, common pitfalls, and practical tips",
           "source": "Law Times News",
           "date": "May 13, 2026",
           "summary": "AI for lawyers: top tools, common pitfalls, and practical tips&nbsp;&nbsp;Law Times News",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeUFXcDBNaXFyaldpa1hkS1o5ME1KMFBJWW5oMXY1SjYzb095YWg3SjJkQnUyS0lDeWM2RDF6aXdTX1dEQ29CMXd2SUlnWUs2TnV3UGVmUEVtSWo1WGFHbXZnNHhBMFh5RWV2MGRqTVdhV2lWZ2RLZU5rSC0tZXhZZFIzRjBFSUdFVTlJX2lvbDlzM01TUDRwR1lSYUg4YlJEbWFoa0hzSzItVlcxWUEza0lnUDJHbDJhR2tLTDBZaTJhNTA?oc=5",
           "tags": [
-            "enterprise"
+            "research"
           ]
         },
         {
-          "title": "How attorneys are using AI to transform the practice of law - AZ Big Media",
+          "title": "How attorneys are using AI to transform the practice of law",
           "source": "AZ Big Media",
           "date": "May 13, 2026",
           "summary": "How attorneys are using AI to transform the practice of law&nbsp;&nbsp;AZ Big Media",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY3d0UW9ZdTlnNXhqLWI3RmNDUVM0MzItUElEQ05uNlhtcWxyTGVNejk5YkNRcy0xaWZOVjh1ZkNVSldxWEdRNUtfVVFaNlc4ZGQ0QklpSVFFeFZBdUR0b1dmOTlMYlFGV0EyNjZRQjV6Rl96NlQwSngzTXQ2a0FWaF9iNEs5SmF1bEFCbVVKVHQ4ZmFLMHdB?oc=5",
           "tags": [
-            "enterprise"
+            "research"
           ]
         },
         {
-          "title": "Smokeball Redefines AI for Modern Law Firms with Launch of \"Archie AI: Next Generation.\" - PR Newswire",
+          "title": "Smokeball Redefines AI for Modern Law Firms with Launch of \"Archie AI: Next Generation.\"",
           "source": "PR Newswire",
           "date": "May 13, 2026",
           "summary": "Smokeball Redefines AI for Modern Law Firms with Launch of \"Archie AI: Next Generation.\"&nbsp;&nbsp;PR Newswire",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX3AwWXM4MWRDUWdzcGtfM2VTVUt6dGhUM3pkNzhrYUN3Nk0ySm1DUWVRREhGX18yRWhST3FyQVRtYWpwRXBrMlUwV0puc2IxS2pTeHdMLU9QZlVFUW1qTENoZGV6TFVIeXNhdWQ4VkppUWV0ZVFkaExfQUkwNW9udzNqUW1VS0FUWjU4eUZMLTVDZGk1MnIya20zZW1EOFY4Mmo3MTRXak80aHMyMTQwaUw4ZXdkQWRKWmVzUnk1YmdHbGlWUk5JV0I1TTdvWjNCRVMyUWhNcw?oc=5",
           "tags": [
-            "enterprise"
+            "product"
           ]
         },
         {
-          "title": "Law Society Says AI Court Guidance Lags Behind Rising Use - Law360",
+          "title": "Law Society Says AI Court Guidance Lags Behind Rising Use",
           "source": "Law360",
           "date": "May 13, 2026",
           "summary": "Law Society Says AI Court Guidance Lags Behind Rising Use&nbsp;&nbsp;Law360",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkl5Y2JjUTdyOGtBU1k5Y0NLLXBTRUViZW9VdVp4RWhMTUdfUmtGdjBocmRpSHBoZElialVOVGk3U3FpWUlobjZwSTkyQ0Fpa2dsYndOaENDc25TZ3d0eVlhczZvenRhRTFiY0Y4V21DUnJ2ZWRYSDdIWHhfaTBFZ0hLUXIwYkhhZWFYaUViY2JHT01hbUk4ZGotTE5iQdIBVkFVX3lxTE5MRlgtNlRQYTBPMm41NElMRXd4ZEplUS1ibTBoR01reUd6d1hvcVVGeW5iZVowX21WN1J0VzdFbHVTaUZoU24yWGowUVI3dDhNSUxxZXRn?oc=5",
           "tags": [
-            "enterprise"
+            "regulation"
           ]
         },
         {
-          "title": "Aderant Introduces Agentic Law Firm Operations AI Agent Center - Business Wire",
+          "title": "Aderant Introduces Agentic Law Firm Operations AI Agent Center",
           "source": "Business Wire",
           "date": "May 13, 2026",
           "summary": "Aderant Introduces Agentic Law Firm Operations AI Agent Center&nbsp;&nbsp;Business Wire",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONk1haHhoTE5zZjVDZklDdC05WDZnNFdsLWJuMXZPbzM4WVgyWm1scWhfTUkxRl9yQXNZQTBybTROckRBY1gxREhyT1Baam4zVW10UEVsUTRxNnhKd3NPVDF2Rkx6U285cVhtNTd2dXAyb2xMdDZIOEw3Rlk2UlF1VllWVk1Val9FU3owSTB1Mk44R0JzU0Z5LTk2Uk5DNFJCRG1UaVpYVmhOdmI2c2hHVjhXTFZZbEdGOFFR?oc=5",
           "tags": [
-            "enterprise"
+            "product"
           ]
         },
         {
-          "title": "Law Firms' Misleading Ads, Privacy Breaches Spark Outcry - 조선일보",
+          "title": "Law Firms' Misleading Ads, Privacy Breaches Spark Outcry",
           "source": "조선일보",
           "date": "May 13, 2026",
           "summary": "Law Firms' Misleading Ads, Privacy Breaches Spark Outcry&nbsp;&nbsp;조선일보",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUZvS1h5RmxoRHk5RUpWYjRNbE9oZEZHbGxBcDltUnZPc3lWZko5UnBMR2VFUnVlMzRuWHVwY0JWR19TSnlCT3lHS0M4MzB4RUhTMnN5QjZzXzZ6RmhneFhCRE9mRE42Mk5lUmhzbG1Hckc5UDFHRmJhZW9rVDNVdm9vZG9TSmQx?oc=5",
           "tags": [
-            "enterprise"
+            "regulation"
           ]
         },
         {
-          "title": "“All Those A.I. Note Takers? They’re Making Lawyers Very Nervous.” - Dykema",
+          "title": "‘It doesn’t feel like a bubble’: Law Society CEO on the opportunities and risks of artificial intelligence",
+          "source": "The Global Legal Post",
+          "date": "May 13, 2026",
+          "summary": "‘It doesn’t feel like a bubble’: Law Society CEO on the opportunities and risks of artificial intelligence&nbsp;&nbsp;The Global Legal Post",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSzRpOEJqcHUzMVhlU25IYWFNeGh5SnRfM0JjMGthc1c2QmhndjdzSmhVbjltalFKZWxpR3A0UGNDOXotZTVDaHc4VWxPVFVwVldQNEQ2T0tkY0t4NUhMWW1aNmV1cThRTXp1RzRUZXBEX0I4d3JTX0h6TXg2NVR0djkyWm5jUDZ3UndqNXh2OVNxWk9nbV9vQmY5bGZ5VWtubmZvZ1hnMy1DMmJGLVdjbjdDTGxxTVZ6YTNUU1Y4YkcxRDdkQVB1WlE4b2Q4SkRxWG9HZ3lEQV9jblVNZF93aGFUZFQ?oc=5",
+          "tags": [
+            "research"
+          ]
+        },
+        {
+          "title": "“All Those A.I. Note Takers? They’re Making Lawyers Very Nervous.”",
           "source": "Dykema",
           "date": "May 13, 2026",
           "summary": "“All Those A.I. Note Takers? They’re Making Lawyers Very Nervous.”&nbsp;&nbsp;Dykema",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZWdqRkkwN1RGQ3dxRTYxYS11WTh4NnNUMDFNV2ZVeWFFMnJjdml3VFlURm0wcWxNT3I5eV9aRnpSUWxqSXJPUk52TlMyMXBtbkExQUxrenFtVUxmT1FGbUVnanJSRUpkMFB4NEtqd25qWGdkLUFCcTVmUW9faG9MYU1LekFQVkRsZmhfS3FMcE9BSG1iUWUtUFhibGprdG5SUkJj?oc=5",
           "tags": [
-            "enterprise"
+            "regulation"
           ]
         },
         {
-          "title": "Law firms’ biggest cybersecurity missteps according to online security and legal tech experts - Canadian Lawyer Mag",
+          "title": "Law firms’ biggest cybersecurity missteps according to online security and legal tech experts",
           "source": "Canadian Lawyer Mag",
           "date": "May 13, 2026",
           "summary": "Law firms’ biggest cybersecurity missteps according to online security and legal tech experts&nbsp;&nbsp;Canadian Lawyer Mag",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUDV4Q0llZFJuZl9jWndvYVJEQVE4Si1NdjJNRlBjaTNGOTVYejVUdnQ3T2dHUExyci1OQmlNNEUtWHRiakY3djJNeTZLZDFaRWFaZkxxME9RZ1FMaUlQdjdIaHpoLUNWbE1zSGZKS0lvYjg3M2ZvdVA3aWNzSWdFQTFGS3p5OTA0NnprOGMxaExBMWM5R3luOU0xcmNFTXVWQkVsVFp0ZE9ySXFqdzFrYzZZdUdZRlNPVEdkRkNZb05rZHYwbWZlQnRTaXFJQUpoX3VmQ1pjaUlXY29lQmp2dUlWT0dnNnhTZ0RadHVLbw?oc=5",
           "tags": [
-            "enterprise"
+            "research"
           ]
         },
         {
-          "title": "Anthropic Announces Legal Practice Plug-Ins for Claude, Legal Tech Integrations - Law.com",
+          "title": "Anthropic Announces Legal Practice Plug-Ins for Claude, Legal Tech Integrations",
           "source": "Law.com",
           "date": "May 13, 2026",
           "summary": "Anthropic Announces Legal Practice Plug-Ins for Claude, Legal Tech Integrations&nbsp;&nbsp;Law.com",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUy1RaUw5R1BhNXF4ZXdjVUFPNjMzMHJjNXhnWnBvX3ZyVzJNc2ZnbzQ4eExrSVczUGdmZ1ZQOUVicFI1a2UtY0ZhRDlUVUVNN3I3TjNkVXA3eHhJOE5XUUotUExQYnl0Ty1Va09NSVpfRnNGMXVoYUFlR1lmb0w1VXg0RXc3VlJWeUdmeXFKa1VGenhta3E5aUdFZ1pOWTJyMW5IRGU4c0d3aWZQRkNwcTc2dkowT2g1RloydnAxajE1UQ?oc=5",
           "tags": [
-            "enterprise"
+            "product"
           ]
         },
         {
-          "title": "Claude For Legal Launches, May Reshape the Legal Tech World - Artificial Lawyer",
+          "title": "Claude For Legal Launches, May Reshape the Legal Tech World",
           "source": "Artificial Lawyer",
           "date": "May 13, 2026",
           "summary": "Claude For Legal Launches, May Reshape the Legal Tech World&nbsp;&nbsp;Artificial Lawyer",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3Nob0RhMzhBbTVjQmFiNHpwWDlFNU5BS3F4Q1dXd3dpSnlsRzVGLUNQeWdIMzRWTVpUbk5NQ2xjR3Vjblg4M0VBQWc5UjFtbnNIdkJBSXR3eDZHN2c5T292N01LdXNwU3BocXcyZEhSaFpLT29pMlhQdmpLVTVkN25yLVgwZkxCR0NkLVJBZEEyUjY4NVI2cXAwZUVySTR3aHNYYlVB?oc=5",
           "tags": [
-            "enterprise"
+            "product"
           ]
         },
         {
-          "title": "Major Developments Put Colorado’s AI Law on Ice Ahead of Implementation - The National Law Review",
-          "source": "The National Law Review",
-          "date": "May 13, 2026",
-          "summary": "Major Developments Put Colorado’s AI Law on Ice Ahead of Implementation&nbsp;&nbsp;The National Law Review",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWtxQjlvdmRTTTk1VlRzc2dfbmF3a3VRVHNJaEZoTF9HUF9QTTd5YkVXWVlGam9lbGpzSjdBUG52ZjVWcXpBYldCbGNaT1lHS0RDTWM3dVVEbzVFX1hEam1LYkJzbHA3WENFVFRldXdQVXBucTJnRlYwdUZTSGNBZ2tWdm83YTc1NXRsSUQ4WlJoZE5LT3JyU1owWDNVQdIBowFBVV95cUxPOHN5NmN0a1VidzhiSllOLXpNNWd4RnVnUU5iRU5ad0VDWTJuMm05YWZXWUZjem1kN2xBLVA0bmI5X0pMTWxJZ0QzUjVqNHRhbUtrTXJOUjZQOHVrMm90MFpTdFY4RkUyMlRLZWxQb0pudTF6b050bEJyRENiV0M2U1pMUWd1ZUVmY3UzRFNOQVhpVUhzX2QteFBiUm1rLTRCOTFJ?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Pinsent Masons recruits AI adoption specialist from BCLP - The Global Legal Post",
+          "title": "Pinsent Masons recruits AI adoption specialist from BCLP",
           "source": "The Global Legal Post",
           "date": "May 13, 2026",
           "summary": "Pinsent Masons recruits AI adoption specialist from BCLP&nbsp;&nbsp;The Global Legal Post",
@@ -216,602 +197,306 @@
           ]
         },
         {
-          "title": "Threads tests a Meta AI integration that works similarly to Grok - TechCrunch",
-          "source": "TechCrunch",
-          "date": "May 13, 2026",
-          "summary": "Threads tests a Meta AI integration that works similarly to Grok&nbsp;&nbsp;TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOREFnbjBDMU42SDRSYjJQalBpMDZzd3JkZWRxTFRvaVpaT0wtZHZ6cVdhRXFwd3hReVBYb3MzclJYbllQSlEwT1IzZ3A4dWRpRWxCWHpwMEtfUEJtMHJKV09zb3JIaGJqVE0tWnRSU05SV0VjVEVuV0FkTU9VSWFxYm1OeWlIdmNGMmtGZkMweVJuZ3hxSkthRTU4RkRvTlg5?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "AI automation hits young professionals hardest - AFR",
-          "source": "AFR",
-          "date": "May 13, 2026",
-          "summary": "AI automation hits young professionals hardest&nbsp;&nbsp;AFR",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeFBrQWJJcGtzZHBQSlBCcFJLZ2lMc1ZlUzVGSDNndFdocW9JbzhsSl9iRV9zQkhkUFVqUWVQNGkzU2toOEh0UW1mTmRoemhMWVQ1OUE2Ui1HUXd2M1FpSk91ZlRSZ1Q1WjE3dnF6R1IzblVPMDJrYlh6YVlPR0dwS1RfdHplZm1Hc1NueUNhREZfaHdnRmVlU1hkeDhuTE9fdGJhOVhXdEZVTWtXYUNkZjVlcVE?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Even as hallucinations show up in legal filings, Big Law goes all in on AI with new Anthropic release - Fortune",
+          "title": "Even as hallucinations show up in legal filings, Big Law goes all in on AI with new Anthropic release",
           "source": "Fortune",
           "date": "May 13, 2026",
           "summary": "Even as hallucinations show up in legal filings, Big Law goes all in on AI with new Anthropic release&nbsp;&nbsp;Fortune",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNC1pY3hCOHEwUTAxSU0xamRjd01RZEx5blNISmcxMUcyeGN6ZXg4Mm5SOUtmN3AzX0laSWh4N19TLUVaSGRmd0tOUjJtUVVNdE5LWmg1VzFrUUlrRmIzaFJqWkxnVmxxOVRmWXFvOUFKQ3dEVGVlSXh0WkIxcThZLU8yZ0hnZDZrNkhoRm1R?oc=5",
           "tags": [
-            "enterprise"
+            "product",
+            "regulation"
           ]
         },
         {
-          "title": "TED, Meet Harvey … - Above the Law",
+          "title": "TED, Meet Harvey …",
           "source": "Above the Law",
           "date": "May 13, 2026",
           "summary": "TED, Meet Harvey …&nbsp;&nbsp;Above the Law",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HdElmU2lGVnJMWnVLcDJXckdlbVU4SUh2RlVGaEhqeGdfMGNDYVpyaElQOFQydTJ1bVVzUWxUTVl6M3dxN0F0RFNMRU9OVHBVaFJJUzRRUjFVYzA5?oc=5",
           "tags": [
-            "enterprise"
+            "research"
           ]
         },
         {
-          "title": "Anthropic expands Claude legal AI tools for law firms - qz.com",
+          "title": "Anthropic expands Claude legal AI tools for law firms",
           "source": "qz.com",
           "date": "May 13, 2026",
           "summary": "Anthropic expands Claude legal AI tools for law firms&nbsp;&nbsp;qz.com",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2ZFpQWEhHYV9vVWltYllNLUVwQ0dZWVRsUWNjUzJyQ2VpQTd5TGx2U2dqdTZqQ05EOURpRG4waHgwdTVNNFNhOE82N2c5MlRnOVN0SXE4c2c3a1lmMXJ2ak1hOEEzMEUxaDF6QngwVXI?oc=5",
           "tags": [
-            "enterprise"
+            "product"
           ]
         },
         {
-          "title": "Anthropic Expands Push Into Legal Industry With New AI Tools - Bloomberg",
-          "source": "Bloomberg",
+          "title": "Anthropic Expands Push Into Legal Industry With New AI Tools",
+          "source": "Bloomberg.com",
           "date": "May 13, 2026",
-          "summary": "Anthropic Expands Push Into Legal Industry With New AI Tools&nbsp;&nbsp;Bloomberg",
+          "summary": "Anthropic Expands Push Into Legal Industry With New AI Tools&nbsp;&nbsp;Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOExhSm03dzBCcTVfZnprUm9FcURjU0FVczV4VC1vUVZON0trZ3lRR3RzaTBIOVJMTGJNRVRSTUlIZ3kxMjZSYTlMT3RwQ1k0U0MtMWNNdUZIejg4cXdPWmZicW9zakl1Q1dWOF92aUZzYWhxNmNVUDY4YkxUWC0zQ3lGV0NkVU5OcmkyelZfNWpzUVVLSkJjbWJWRVVpSUpyLXpyX3dHQzJQYWF2QTE4VA?oc=5",
           "tags": [
-            "enterprise"
+            "product"
           ]
         },
         {
-          "title": "Anthropic Goes All-In on Legal, Releasing More Than 20 Connectors and 12 Practice-Area Plugins for Claude - LawSites",
+          "title": "Anthropic Goes All-In on Legal, Releasing More Than 20 Connectors and 12 Practice-Area Plugins for Claude",
           "source": "LawSites",
           "date": "May 13, 2026",
           "summary": "Anthropic Goes All-In on Legal, Releasing More Than 20 Connectors and 12 Practice-Area Plugins for Claude&nbsp;&nbsp;LawSites",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX19KNVMwRHMyM2lxaTlPMzExMjlIN21ZSldsVUo0RUVtVFFuYmV0S29DMmRtNDdsRjRnUWg3OFpJenRManVRVGhSaThlTUFKQnJPZUVUdGxwaF9URi1fd1dadkRIbG1CeGoybzdINGFUYjl5VjdhbGJxazNlTnBwY0taTlk3dUptdkZLU25PYzNqRTVsejhmRXVUelJtQWpubDNiemt2ekliMnY2RnBCWmQ1cHRMcjJRUEpmLXN0NTR6R2J5dVpRODF0RThkLW9Cb2Y0Q2pHNGY?oc=5",
           "tags": [
-            "enterprise"
+            "product"
           ]
         },
         {
-          "title": "Neal Katyal, Harvey AI and the Supreme Court TED‑Gate - LawFuel",
+          "title": "Neal Katyal, Harvey AI and the Supreme Court TED‑Gate",
           "source": "LawFuel",
           "date": "May 13, 2026",
           "summary": "Neal Katyal, Harvey AI and the Supreme Court TED‑Gate&nbsp;&nbsp;LawFuel",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmhrdHQtbVA4WXRQUXlCUlZIcjVGa2tMMHFUQ0YyRTVPcVROemhvdy0tX1lRb3lJR1E5UmZhS2hFM1NZMTBqZW01TUlZVS1IaXNBSWZZRFlPQjVkTngxMHV5YWFOT1otaHdNXzB0ckIwTE1MV3B1Qk1rVzJrVlJsbmsxdw?oc=5",
           "tags": [
-            "enterprise"
+            "research"
           ]
         },
         {
-          "title": "The AI legal services industry is heating up. Anthropic is getting in on the action. - MSN",
+          "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
           "source": "MSN",
           "date": "May 13, 2026",
           "summary": "The AI legal services industry is heating up. Anthropic is getting in on the action.&nbsp;&nbsp;MSN",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRGI3SzE0a1IwNFlyeGhjeTY1VXNJdkFOWG5VRENFbVNDTWV2ZlI5ZTh4THQyY1BCeUtnSGVIbkowb2c1b1lUY09FRmJjQzcxQUdiQkxCbTlvTHZTUGtlWXAtcXZnZUZsOG5nMXZscS1OVnRGOF9PRm5nNzhoNl8tT1EtZTZhMXJ1eXNsc0lhbjNKdG5xUUJ1N2pJblA0cUFScmJpcXdMZExKVUh2dmkyM3diUURUVWd1UkVTYkVKTjVfOTNJeUR5UVY4eFBlcWxKRk9LM3Fvejk2QjlhaVllRThrR1Qzbmdyd2kzOEFlRWUyTHVaTGt6ODltZUxBN3hjVkE?oc=5",
           "tags": [
-            "enterprise"
+            "product"
           ]
         },
         {
-          "title": "Tac Infosec Says Cyberscope Launches Cyberscan AI, AI-Powered Smart Contract Security Scanning Product - TradingView",
-          "source": "TradingView",
+          "title": "Harvey and Legora have a data problem",
+          "source": "The Lawyer",
           "date": "May 13, 2026",
-          "summary": "Tac Infosec Says Cyberscope Launches Cyberscan AI, AI-Powered Smart Contract Security Scanning Product&nbsp;&nbsp;TradingView",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTlJ2OEpwUzcxWVphcUcwVlM4MEhpcmhJRmcyZzZ4TUNYWnUtZzRoQnBwTmdDSXplOEExdFJ4cnhHeWYycF9EWHVJVkpjb2VCaG8wODBqME1ueENVRXFYLWdCTENDQmM4aURJU1NUa0c0bk93OHBuOUVSS1dvdzdXQmhEdDFveDdqclFmUnRobVZ5aVRraUoxeDlCT05QdS13anZ0V0cwUHRnUVhzUllZVl9zNV94bVpKSXYtLVNPaFNPVllOX21lRFRfZWJQRHZPbGk0WnFKVldTdzhuRnIteXF1amJUOWRacjhlMmZsS0c4c2NvNkRleFR5VXlqRG1D?oc=5",
+          "summary": "Harvey and Legora have a data problem&nbsp;&nbsp;The Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yVGtuMzZoQ3IydUk5NzVNbHFsVTF6LVI2SVF5NHNWUzl5a280TnE4SjY3a0RVZEk5dklYWEV2UExvaXBsc2xjaUgzMVRyRVhXSUJRZE1mbVpLa3h0YS14Nm5meE4yOE14Z1NmMm8wYlFHdw?oc=5",
           "tags": [
-            "enterprise"
+            "research"
           ]
         },
         {
-          "title": "AI protections and a merged pension plan: SAG-AFTRA leaders tout gains for members - Los Angeles Times",
-          "source": "Los Angeles Times",
-          "date": "May 13, 2026",
-          "summary": "AI protections and a merged pension plan: SAG-AFTRA leaders tout gains for members&nbsp;&nbsp;Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmNwSWNxNXJvQ2ZEZVVwOXZfLXhuRkV0UFZZbWtRQUtPT0xBbVlKRnBQOGdkRTI2eUpkX05ZR0FIYW5EQ0ZWWDBhcXFHRGdlRGFNWGhqTXlwTFBGdHM5bEd3aXJBbWJyQUxkbTJTaHNaT3VNamg4RUNOZTNSanRVZHdYX1c1YnBsVlBCRXNJbDMyLVNZUzNsME9sRHJKLVZnTVFlSE9NelFpdlNWQUE?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "SAG-AFTRA Deal Stirs Concerns on Artificial Intelligence and Pensions - Variety",
-          "source": "Variety",
-          "date": "May 13, 2026",
-          "summary": "SAG-AFTRA Deal Stirs Concerns on Artificial Intelligence and Pensions&nbsp;&nbsp;Variety",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVENKUTFJOE1Qb2dPd1ktR1FRWUMtcDBvSnVKcTNqdkhEVjdYcWhrbWwwbWVlc1RGdk5ILXp1SElqeDVJNE5qSzBBb2NFWlRXNUYxLTZGa2JzR21UTmUyS2l5VWd1a05aZ0xLOFVLc0JxZXVRaTROVEp2eW1sV0JhTUpSYlFoS0tvRGFJVTdhU2JGWXJoTWIwNkd0XzZTX3M?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "DealCloser Integrates CoCounsel For AI Doc Review - Artificial Lawyer",
+          "title": "DealCloser Integrates CoCounsel For AI Doc Review",
           "source": "Artificial Lawyer",
           "date": "May 13, 2026",
           "summary": "DealCloser Integrates CoCounsel For AI Doc Review&nbsp;&nbsp;Artificial Lawyer",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcjd6VnhQZ0NwRnNqQXBmNGoyb3Z3OERiSzk3QkVSMHlIMWppWDdHRzZ3cVVrZ0loY2NQMXRXTE9kQktJMWpMOTVwSVQ3anF6OFFRc1ROQ0FMQlJsN1pQMjNjWllBVWhIdnlzOWpjZnB1b2hyaTRpU0s0LWdlcTBYeE1ILWhfejhOMndjeUpMZ3NYYkFLWi1YSW5R?oc=5",
           "tags": [
-            "enterprise"
+            "acquisition"
           ]
         },
         {
-          "title": "SAG-AFTRA Leaders On What They Did — And Didn’t — Get in Their 2026 Negotiations - The Hollywood Reporter",
-          "source": "The Hollywood Reporter",
-          "date": "May 13, 2026",
-          "summary": "SAG-AFTRA Leaders On What They Did — And Didn’t — Get in Their 2026 Negotiations&nbsp;&nbsp;The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT0ZGbGdCZHNoV2JqalVyeTdJUmVHeUhOLXZKS042U0lZWnRkRFpLMHZlc2tHczdyYmxCWE9VSXpBU2FpZG9JVkFxY3Axd09SaDhmRGdickdNZWhaSDlSSVU1TFFmRXMwUHFKN3RVTDYydlJESFFDSjZYdGxEM2hwWURibkp0ZW9EdzR1Qi1sRUo1b244c0pHeUExdVhjV005dGpuR1BETFlRTS1EdlV4NkJYZTlFVnlzcnFpMWxvOA?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "AI labs should pass safety review to get US government contracts, group says - Reuters",
-          "source": "Reuters",
-          "date": "May 13, 2026",
-          "summary": "AI labs should pass safety review to get US government contracts, group says&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVTFMUlljVDZyUXczUFVJZjMxVVVfUW9jTmZJNU1Edk55R1lYSnhCT3RpNTBiR3dTU1h5ckpvbHlUUEZuM0ZqMmtBcWFpc3BqUHh5YzhnUjJzSHR1S3BwVHpEeDNldmtTQ19HV0YtOXpYRHlySG9oYVFKdFJNcS1oRlVxc1NZdTlINk9fYWJLX3dXczBFWnNQa2t6aXBOZXNIeGZHS3BSN25rbV9JUDdHTWtnY0RZOHpMSGJOTlJsUFVNblk?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "TON’s new AI-ready toolchain accelerates smart contract development 10x - Crypto Briefing",
-          "source": "Crypto Briefing",
-          "date": "May 13, 2026",
-          "summary": "TON’s new AI-ready toolchain accelerates smart contract development 10x&nbsp;&nbsp;Crypto Briefing",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IVkF1SWhtbnlEUWN1LVRhd2JYb0ZjM28xdXZBQ2p4U3RpRXRHTmtnV2dGRWhVNTJpMTVlenBBbXgtVDk3MTJDMXZPWXUxZ0xGSHlvR1c0SVA0c2lSdXE4aE1qaXRwZjg2aTk2SGhDRFctUFMz?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Renegotiating the Education Social Contract for the Age of AI (SSIR) - Stanford Social Innovation Review",
-          "source": "Stanford Social Innovation Review",
-          "date": "May 13, 2026",
-          "summary": "Renegotiating the Education Social Contract for the Age of AI (SSIR)&nbsp;&nbsp;Stanford Social Innovation Review",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Mcll0Y2l5anY2SGlsMkMyQ3B4V2dud0pjd01JRGZEbUFWNnM5OFRLZU9ZLTJQa1p2NHF2dVE1NDlYT21xbDJPVlVCbmQ5YlFsY0NQM2FlSlVFbThkOE9qYXlWLUV6Z3h0c2ZHY1NDaTg?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Ribo, Insilico Medicine to Partner on AI-Driven siRNA Drug Development - Contract Pharma",
-          "source": "Contract Pharma",
-          "date": "May 13, 2026",
-          "summary": "Ribo, Insilico Medicine to Partner on AI-Driven siRNA Drug Development&nbsp;&nbsp;Contract Pharma",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFVYaUxsOVBxVDVEYlIzbl9DTFlNM0QxMkZmRUtvbDlydWtQTWxWRWtfVDBfMHJGZ2Z3STJpLVdIdzBlLVZpQUZZd3VkTkZIT2xhdWFXdzNYR1FTR0x3WnNTckNwdjJQY0VNd0xJZXNaMnUwOExUQzNaT0ZySU1VSTlwXzROUXl5dDZHSU5yVjlmZlNwWUJuQjhNb0M4S2E2aFBDVzBhcE9qUC10MGhQUHc0a3B0UQ?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Unnamed AI lab books $32.2M of Canadian NVIDIA B200 capacity - Stock Titan",
-          "source": "Stock Titan",
-          "date": "May 13, 2026",
-          "summary": "Unnamed AI lab books $32.2M of Canadian NVIDIA B200 capacity&nbsp;&nbsp;Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGx0R2VvMEg0SENGQmdyb0haYXpRcUI5RVpRSDZOdWo1dmlva2lraXM2bFpKQ2l6bXZRMlJSaTJaTHZMLVF0SzNvV3VyeXZiREJ2eHRsTUhtM2VTQ0kwRExZTDhhaDEyaVVJclo3b0FVZUF2QW5ULUF6anprYU8yT193OER3dW9fZERxZzE3eTVYT3FMblZSem9HUXg3anFJS0JBSEtNX2FOdTB5WmVGQWx0Z2FZbm8?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Contracts 365 Launches Governed AI Negotiation Companion for Microsoft 365 Enterprises - The National Law Review",
-          "source": "The National Law Review",
-          "date": "May 13, 2026",
-          "summary": "Contracts 365 Launches Governed AI Negotiation Companion for Microsoft 365 Enterprises&nbsp;&nbsp;The National Law Review",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVU5hVFJBSTIzMDNqX0JQSEZUT2tKcUMyWFdvYkk0Q2lGV1Bwb0FlRTBiRi00WWJvZnNJMmN6TEo1NGU4MndmcGEyREZDM0ZNaXRVanZsOTVBNi1hcUNJclBvT2VmcVJYT2hKUVJNVzlRMjdpZ0loT08tSFpTOUdaeURvbkVRbVQxM1drOG1lZFIzUndFXzMtMF9qM3dPRW1RZ2dmNVVoYXZZN2JoeXJR?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "SAG-AFTRA Recommends Four-Year Deal, Raises AI Concerns - Let's Data Science",
-          "source": "Let's Data Science",
-          "date": "May 13, 2026",
-          "summary": "SAG-AFTRA Recommends Four-Year Deal, Raises AI Concerns&nbsp;&nbsp;Let's Data Science",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOamxZWlk4X2hIUHRJeW1mS29weFlXczM0aTdJRnNzOXExZmRDWEEtenZOLXhyVGduVVUtOUU4ckpDX1Z6YkJtWXBfSm9acGxiSUU0and4QUgzNXpjNWd1Z3dnd2FVUWhXbzRSV25oQ2tWT2JvVGZpTUdSQ3ZOUDRmWmhocmtac0lTQktGWXZMY2RkaGdOVDVaQ09hNl8?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "City Jails Renew Contract With Phone Provider Amid Concerns of AI Snooping on Detainee Calls - THE CITY - NYC News",
-          "source": "THE CITY - NYC News",
-          "date": "May 13, 2026",
-          "summary": "City Jails Renew Contract With Phone Provider Amid Concerns of AI Snooping on Detainee Calls&nbsp;&nbsp;THE CITY - NYC News",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeElSelNzc21RVjBxR0tzQldNUUFPWTFRN3lpMHNleUQwS3Y5SDIzUE1HLWhJc2syWGNvTmJQekFpaDFHYUdFZlcyZnViTnJZWXluaGx1MklvVUxQd1JGaWFkaHIxRFZySjZLMWMzSmIwSzhDQmdpTGhZRG1LTXdTczk1Zw?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Palantir Ukraine AI Deal Puts Battlefield Data At Center Of Growth Narrative - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "date": "May 13, 2026",
-          "summary": "Palantir Ukraine AI Deal Puts Battlefield Data At Center Of Growth Narrative&nbsp;&nbsp;Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSWl4WEd5dGFPRHB0aHR4Y1V0UGpXekNmbzhGX2txeVZpaFVJR0NITU9kSnBVTnIyZEVwUEt4V1pCaHF6Q3dZb2JJeG1HR2hBRnRWUzNwekJzRkxlbjkzQ25FUWp0WkJhZkhwTXozRFVYSzIyX0tQRmJaX2J2bHdGZzgwSUZHdFV4ZkdXdE13Qk9kQkhfbkI2QUl3?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Docusign and Legora Partner to Deliver Connected AI Workflows Across the Contract Lifecycle - PR Newswire",
+          "title": "Docusign and Legora Partner to Deliver Connected AI Workflows Across the Contract Lifecycle",
           "source": "PR Newswire",
           "date": "May 13, 2026",
           "summary": "Docusign and Legora Partner to Deliver Connected AI Workflows Across the Contract Lifecycle&nbsp;&nbsp;PR Newswire",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdWIzak5LaDdkVjJqdUg1enlLQ0x2SUpOSFlreUY2MExVVU8zUXhrNFhFTjFzS3JrZnk3WHdjNGZlanhsd0xqT0lmWUxKN3FBVXNQZ2ZQRVJuT3VRNFQyUldCSnQ5UXZ2RHNYMks4Um96cG90NS1qNGp5OW9vYU82RnZMZzI4Q3N5bFFWZ29tcUU3NDNJSzV5WFE0UzllUFVGVml5NG5jN180aTZOZWtGMGplelc3czU1VjdXOUh5ZFZMc3hKMlNMQzVEU204THdGdnlvWTRyekx3NVlnb3hpQQ?oc=5",
           "tags": [
-            "enterprise"
+            "acquisition"
           ]
         },
         {
-          "title": "iManage Playbook Analysis Strengthens AI Contract Strategy - Artificial Lawyer",
+          "title": "iManage Playbook Analysis Strengthens AI Contract Strategy",
           "source": "Artificial Lawyer",
           "date": "May 13, 2026",
           "summary": "iManage Playbook Analysis Strengthens AI Contract Strategy&nbsp;&nbsp;Artificial Lawyer",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGJNd092UnpRNlBPY3drOTVMTDJENlZoOXBNd1VhQTIta2N4aDdoZkxmNWJIR1JTR1VMdHZrd0gyQzZNUzNzNVo2N3VVeTUweURuckEwS3ByVjQxb2UtMTFWT1U3VUZ0TTlfdHQtVUVISUZub3JYTmNJdlpwRzJjdXdNdjRQbkNUSU94NDZJZExSQVRScVNlZ2NUcjI1NzdwVzFrZlhR?oc=5",
           "tags": [
-            "enterprise"
+            "product"
           ]
         },
         {
-          "title": "New AI Protections and a Merged Pension Plan: Inside SAG-AFTRA’s Four-Year Deal With Studios - The Hollywood Reporter",
-          "source": "The Hollywood Reporter",
-          "date": "May 13, 2026",
-          "summary": "New AI Protections and a Merged Pension Plan: Inside SAG-AFTRA’s Four-Year Deal With Studios&nbsp;&nbsp;The Hollywood Reporter",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUFpVXNCbzJOWC1yd1o0SkR2RWNKVnJ3UjF1eHNwNnlOT1Z6azhabDVXdTl5ZlVXTldHdGJoWm5RaVAyaE1NWjcwNFNlZEZaaVJGWXRhV2I4TWcyWVhfa2hyczBnQTFwUXI4cGEtVDRTMkRBanZGNnNBdVBOenRyQ25meXlRZ1ZlR1E1UGg5Y3BNYW12bXI4Zm5ybGliTmlZNzBiYWMtRm1UMHlUaTlwdWhUcFNSOGwtX3p1SQ?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Jacobs awarded EPCM contract to deliver second Hut 8 AI data center in Texas - Messenger-Inquirer",
-          "source": "Messenger-Inquirer",
-          "date": "May 13, 2026",
-          "summary": "Jacobs awarded EPCM contract to deliver second Hut 8 AI data center in Texas&nbsp;&nbsp;Messenger-Inquirer",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVkVqOGlldEVfSW0wQ25jc3BLdV9KVThNcl81Wk9VWmk2TmpWOVJsZzg1bmdpOHpxS0pseE1mTXY3a0RkbFVoZ2JZc2xkMDV4bm13WG9DTGJZQ2c3NGhXX3ZSTnVHMk9tcHdGOTlQWUctSVlVRVM2X0dYX0wzbzJDVnJlbUFNZjBWcEVqeDhQbS1MbDNYcFJBWERrdUwxTmd6Nkc1bjQxZEMyQzQwQTFiS2RxbXlTYXZJcnEtRWxFMnYzaEFmd1U2NWRVR3I2TlNtM0xyM1hPTXJycUlLYW5UWU9aeWx2aGs0SlpScGxWSjhkQzE3UmRGMUhKSUtVNVNBVGVfcQ?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Applied Digital (APLD) Is Up 25.1% After $7.5 Billion AI Deal And New Debt Facility - Has The Bull Case Changed? - Yahoo Finance Australia",
-          "source": "Yahoo Finance Australia",
-          "date": "May 13, 2026",
-          "summary": "Applied Digital (APLD) Is Up 25.1% After $7.5 Billion AI Deal And New Debt Facility - Has The Bull Case Changed?&nbsp;&nbsp;Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QTExIRWo2ZjJwSjVMNTl5RklsZTVTaXZjT2Vldmk1cE9yT0kzZEJSXzRuT3hILWlVVDFld0FpRFBZNE9fQk4wM2VUSW1ZTEJhc0h5b1FqaWVyeW9YTFlQeENpMkxrUTdZT0pBNlo2S0w3Wng0R3BMWW9YWVktNUU?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Versent brings agentic AI to mid-market with five-year AWS deal - ARNnet",
-          "source": "ARNnet",
-          "date": "May 13, 2026",
-          "summary": "Versent brings agentic AI to mid-market with five-year AWS deal&nbsp;&nbsp;ARNnet",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU2ZlMWI2T3FHTzNKZ1M0WFJBR3M4THBwbE9nS0N1RDhJYTY5U3U0ZkM1eTZhUG90ODNxYzlxZllBSWJxTk1PZWpyR3dXYXJNOEdDUmdDMS03bFdQcmFmQ2phQTNKR2w5OHVKblhVcTQ1aUY2anlKOUtQUHpWVHRsMFBtUzdKMVpqcTkyRnlUeVdydzNvUDZ6Q2NYWmdPSU1vdHAxVnhuQnd1YlZzSGN3?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Suno opposes disclosure of Warner Music deal in AI copyright case - Music In Africa |",
-          "source": "Music In Africa |",
-          "date": "May 13, 2026",
-          "summary": "Suno opposes disclosure of Warner Music deal in AI copyright case&nbsp;&nbsp;Music In Africa |",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0o2cHQ1NWkxbVBnWkZQRmdkTVVfZEtMMkVYZW1sNmRGanpNTUphLTN3SXYxX29uWldiUDFKZFowdXhMcWcyYjRTQWpKSmpZNGwtZF9yNm5wTTlLZzZMMjJ6U1IxYTVfcmhCamxuZ19jNW1sd0RDUzdJYTFjcEVnT2hXTlByQTdBNTZjNC1sMWFBelN0eGQzaDJ1ZWdwYUU?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Elon Musk’s Grok Is Losing Ground in AI Race - WSJ",
-          "source": "WSJ",
-          "date": "May 13, 2026",
-          "summary": "Elon Musk’s Grok Is Losing Ground in AI Race&nbsp;&nbsp;WSJ",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBRDNiLUhRajZYcjRHY05vbWhxZm9uLXVHNXItanQyMzc4azZEdGhqTUk0dTNPV0J6d0ZXV2N0N2t6dUlIWmdscGpoVWJLX1hSMnFKZmR0VGc1a0FfNEpsMHVpbVAzZUhNRzVXbjFvNExDWDhkQlk2UEdBUQ?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "NVIDIA’s Next Frontier: $2.1 Billion Deal With IREN Redefines AI Data Center Economics - CarbonCredits.com",
-          "source": "CarbonCredits.com",
-          "date": "May 13, 2026",
-          "summary": "NVIDIA’s Next Frontier: $2.1 Billion Deal With IREN Redefines AI Data Center Economics&nbsp;&nbsp;CarbonCredits.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdFBQdXExRGU5UjRqRno1VkV4TEdBMklCZndGUlRFTU40QS1CRmdHWFZwTE1KLTN1Qmxyalp1d2JvOWdKQXR2MGtSQVUzd2Y5aTZNVUtfSFlSWVNfZ3dzYWduRm9HRU9rM1hUOVRodVl2eG91dFRkMV9zeFlERjhfOE9vNkF4WWFMYTZPWEthdkJJZHFqb0ZIa0l4SVBlS0lOclh0b2NfYXNEVTgzaHVN?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "New Docusign AI helps in-house lawyers review and close contracts faster - Stock Titan",
+          "title": "New Docusign AI helps in-house lawyers review and close contracts faster",
           "source": "Stock Titan",
           "date": "May 13, 2026",
           "summary": "New Docusign AI helps in-house lawyers review and close contracts faster&nbsp;&nbsp;Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYXFmWVRMRkRqNEhJa0t5TjFnd1lOWTBQdkphbExLMlpmS2lseVZ4TFhaRlg5TmVSbV8xM1piM0l6a3RBYU9nZHlXVlZRTmd6Q1FISUZJRFM3d2VraFBjT1R6TWhLaTQ0aG91YzNlbUdVM0g4SU5KVzViT0NuRjgzS3hIMUlHMmY4VUM4Q0RHcHdTVkp0U0RENVJFNzlEcDIyUzF6Q1c1UkppTmc4WE56dkFhbk5qRm9yaTNR?oc=5",
           "tags": [
+            "product",
             "enterprise"
           ]
         },
         {
-          "title": "KOPN Stock Jumps As AI And Defense Contracts Pile Up - StocksToTrade",
-          "source": "StocksToTrade",
-          "date": "May 13, 2026",
-          "summary": "KOPN Stock Jumps As AI And Defense Contracts Pile Up&nbsp;&nbsp;StocksToTrade",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WUXdhSzNtX0FUbl84THNmWkhIRmVIMXVFMVF2eUdEcERPMTk1Y1o1VWFGOHM3Q0lsWVFxRGhGQTduM1J0dmJ2YXFad1JiOWVMT21uckt6OHdYemFMRmQ3SFNSbnhLV3JqcElQbmJUR095RExxMEhDZXB3?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Microsoft AI Deal Puts Nasdaq Composite Index In Focus - Kalkine Media",
-          "source": "Kalkine Media",
-          "date": "May 13, 2026",
-          "summary": "Microsoft AI Deal Puts Nasdaq Composite Index In Focus&nbsp;&nbsp;Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUjZhRFEtejJHNEJEclhWMlhPQmpTWjlDNUc1N3pWU1VXSVBpclpSel9SMXFKYUV3ZU82eFVEOFNISmtmdG5DTWhPWnk1MTVNcEpSNnJscHdDLXYzaFZodVVIRnBwVWxtNFF4akFiSkpoZlJDUEhEZGNLdlRRc0JoUjl2U1JVVG1sd0ZrazlrSFBtQVlDdzdrOVpfR2Z4OXhvanc?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Sonilo signs Shutterstock deal to train its ‘video-to-music’ AI - Music Ally",
-          "source": "Music Ally",
-          "date": "May 13, 2026",
-          "summary": "Sonilo signs Shutterstock deal to train its ‘video-to-music’ AI&nbsp;&nbsp;Music Ally",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmdKeEk5SEp2MVpVUGx1OEJEUEVNNVhPM2lGMFRSSE84amViNnBodzkxRnFrbmw3SGdGMVRQQzFUdmljTnJQc1pMZFBleGc4R09sTjk4dnFFS0doQndLaFN5MXJOeVF0RU56QTROcnJ5QTZZWUxHLTVrVjNvbVF3aUN3M2ZCaUlGT1lYbUZzSGNPV1RFcTQ1Yi1Faw?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "AI Startup “Spakona” Wins ATLA Contract for UAV Teaming Technology - Asian Military Review",
-          "source": "Asian Military Review",
-          "date": "May 13, 2026",
-          "summary": "AI Startup “Spakona” Wins ATLA Contract for UAV Teaming Technology&nbsp;&nbsp;Asian Military Review",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdGc1d3huN3piQmtjVG5VMTJXRGhOVm1IUWNuZl9icHZqRlUyRVhlTlJQUFhiVEpBMkg5Q0VMT3pYdjM4dVhCZjRQTVluUzBDT1Z5ZkQ4MjhyRjZlYWszVGV3akNVb3pFWE5EZUYza19OSUpNTXNYaUFZQzZ2TkRCWmlpbVRINnpPdG8xWUJ6WXQ4eG9Id0g5RnB1OG1JTVBJVVYxRElSMzEwcEpOMlhSTTVfVzU?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Anthropic secures $1.8bn cloud deal with Akamai for AI expansion - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "date": "May 13, 2026",
-          "summary": "Anthropic secures $1.8bn cloud deal with Akamai for AI expansion&nbsp;&nbsp;Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdmtVTVRrX01CSkVEZjhBdFBPWDc2OGFmZUhSNkIzVWgwVXBFNk1PTmk1NHBkdV9wek9DWkI1Uy1QV2l4SEZha3F6NHZnbzluNWxWRFBQQW5HMlNsWGJSeElvaEM2OXpLSHVLZnlKV2Fwdnc1UENjQ0VRVkpxVV9Sb3RBdlFkZzhleFlfcmsyRVl3Qm5QN2tMLWlHeHdfbnM?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "NYC Eyes Securus Rikers Phone Contract Amid AI Concerns - Hoodline",
-          "source": "Hoodline",
-          "date": "May 13, 2026",
-          "summary": "NYC Eyes Securus Rikers Phone Contract Amid AI Concerns&nbsp;&nbsp;Hoodline",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTWJ5RUpjV08tYWp1a24xeXVtbjgwU1VteUVKLWZ2OFlKeHJWa2YwRlNmV1NmT3h6b2JEZDd3UWxsalk5NFpITDBOS0xybjAzaE1SQlF3NXNaSmY4RFJBS2NQSG1wNlVSSVUxWlZFMWpNS25XTElxSXRZaGZzbXA0TmZTb1dCOUpJRnF3bGdXS1NQSWNRX2RBNFpsc2Fldw?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "BigBear.ai Stock Down 26% YTD – Should You Invest in BBAI Stock in 2026? Can the Ask Sage Deal Lead to a Rebound? - TradingKey",
-          "source": "TradingKey",
-          "date": "May 13, 2026",
-          "summary": "BigBear.ai Stock Down 26% YTD – Should You Invest in BBAI Stock in 2026? Can the Ask Sage Deal Lead to a Rebound?&nbsp;&nbsp;TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR0l5aE91ZDA0bllwM3ZZM2E1d0c1RGhtLUxEd0x1MXBLc2ZfT25qbkprS2h3eFBqVHNkNmE5RjFHRkYzMHRtLTVGNUdmUFd5REFEek41ME5DOF9CajhYSE1SdUxRR3djNF9ORjBqT29BV3FVS0tnRk0zdnZUdWRsWlpHQkgyeWI4Z2pLOVRybnFvUEZmMTZ1Ukg4eVRLYk1xZWtaNVZCWGMtTlhN?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Eos Targets AI Data Center Power With New Turbine X Storage Deal - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "date": "May 13, 2026",
-          "summary": "Eos Targets AI Data Center Power With New Turbine X Storage Deal&nbsp;&nbsp;Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGpncTN3U2JBb0FscW8xZDI3bjN2MlJKWGJvWV9iRUU1dWxvalZ5bHNSb1FBb185NFo1am00UV9qMjF4b1Q2bjM3RnRka3FfU0ozakdyQXh6ZTI1S3dZYWk2alA1LS1BQjFPaktaTEhyTWV2Yld2SGhrTG13X3hIVjluOXdjeXFDQmFJLXc5SHJDeGVYQnc?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Hut 8 (HUT) Draws Bullish Call After Major AI Data Center Deal - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "date": "May 13, 2026",
-          "summary": "Hut 8 (HUT) Draws Bullish Call After Major AI Data Center Deal&nbsp;&nbsp;Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXNzOGlOX3Jrc2hrVV9INVh2V1BkV1gzX1VWWGdxaklHRlN4emw4R2pWbDhDdG1NeXBudlA4cEd5YzFicDdvSHRGV3BxOFpvUDlBeUdNV2Y5aEVYT2t0Wm1QMDA3Q2JGd2d6b2J2NXZCbmdSYndkYW9kcVhDbDZpNlQxVDlUMW0yVXZWZmEwVTdZZw?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "IREN Stock Slips as Nvidia Deal Runs Into the Price of Building AI Capacity - TechStock²",
-          "source": "TechStock²",
-          "date": "May 13, 2026",
-          "summary": "IREN Stock Slips as Nvidia Deal Runs Into the Price of Building AI Capacity&nbsp;&nbsp;TechStock²",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTJEWFFPXzUtQzlTVjJjZWE0NWNLbk9SWTRTX2x4NWNVTGxpWnU1ZzRkOHV2V3BPcmIwdVFuSm41bUhxQnE3cmtGUllFbGxjSHdPTWtqR2xxdi1TS19pMzcydW5RQXlnRkFHSVViMnR5S0FZalhDRGVJZy1KejFub19NSWhPZUN6YWVtNzJHYWlZQUJmLW5PZnQ0MEY?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Datavault AI Targets Gold Tokenization Deal With King Mining - MyChesCo",
-          "source": "MyChesCo",
-          "date": "May 13, 2026",
-          "summary": "Datavault AI Targets Gold Tokenization Deal With King Mining&nbsp;&nbsp;MyChesCo",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObDJwR285MUxmOV9CQXBfOHh4YXE5T0N5bjdUVnVtdHF3cU56Wl9KYmdxMlZVRWNxRktCdmxvQV9QajZXNTdKZkFXOTU4N3pIeUJrZGJPeERZQTg1S3RYSWFyWE4zdkZYTEl3dllpSWRDZGhOcWE5Wkp6dlhPOUFpbzBOSGpOS3cxangxV1dHZy1kR2FOZzNDamFQRThKVDNpS3hDWA?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Docusign launches AI tools for in-house legal teams - IT Brief Australia",
+          "title": "Docusign launches AI tools for in-house legal teams",
           "source": "IT Brief Australia",
           "date": "May 13, 2026",
           "summary": "Docusign launches AI tools for in-house legal teams&nbsp;&nbsp;IT Brief Australia",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRW9RWTExNUpDYmZjZkFQbDdjUXFySXZGUGRTVC1maHlwUW1fLS14WGFvaWNDVjJSSGQwN1o3bDF6dk5tUV9wNGlGSVpQYTdKMFdPRVU3SFpyYmhMQW1HV01qUEc4c2o3YTg4WUdDUmFKY3FHQkg1SWFQbHBSekVYWXJmQmF2Y3M?oc=5",
           "tags": [
+            "product",
             "enterprise"
           ]
         },
         {
-          "title": "Anthropic’s New Deal With Elon Musk’s SpaceX Could Be a Real AI Game Changer - 24/7 Wall St.",
-          "source": "24/7 Wall St.",
-          "date": "May 13, 2026",
-          "summary": "Anthropic’s New Deal With Elon Musk’s SpaceX Could Be a Real AI Game Changer&nbsp;&nbsp;24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWR1V29SR3hrajhBWEI1VF8xcGpkWThhNEV6MER5aEtNeFl5dmJUbUlpOF9SUGo0dTk0WHY3dkVVdE8tSkp6bXNZVkpPZkZwLXpNVlRJb1c1WTFuaGFfYVB1Q3J2dkI4Y0VneHZkb1FMMFRUM1ctM0xUN3RiMnVjTWhEa3Mwc2p5ek5wSDJpMU81bC1md2hQRVB0bHlMTk1UbjhfT3Z1TENCVkFJeGNObVJDWmt2TkhXakE?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Docusign Turns Legal Agreements Into Live Business Actions With AI Agents - AIM Media House",
+          "title": "Docusign Turns Legal Agreements Into Live Business Actions With AI Agents",
           "source": "AIM Media House",
           "date": "May 13, 2026",
           "summary": "Docusign Turns Legal Agreements Into Live Business Actions With AI Agents&nbsp;&nbsp;AIM Media House",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbldXdFN2SVB3aEREcUUzVDNDeGlHMlFra2Vjd0NkZFpYUjJfal93VHdvTW5PNHZEYWItSmxGVXE3dnRqUXppckJQZnRmejJnQU4yZFZBR3lrWGtUbk01OXlYdDVkRGx0a2RkNWN1ZTQ5X1hhd0FUSFFpaU54UGxDek16T3cza1BXZzFwWkMzcTRTSzhWLXJHSTVZSnl1RWNvaHFIYTc2cnhxUl9Ka2pwVUF4cw?oc=5",
           "tags": [
-            "enterprise"
+            "product"
           ]
         },
         {
-          "title": "EU lawmakers agree provisional deal on simplified AI rules - CoinGeek",
-          "source": "CoinGeek",
-          "date": "May 13, 2026",
-          "summary": "EU lawmakers agree provisional deal on simplified AI rules&nbsp;&nbsp;CoinGeek",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYncxS1lxb1VqY3l3M1dIekZNMmVUNzU1NmFJanJiM25semdlNkR5UWxuTHV2SUpWcGdwLUVoYTh5WW5aM2VmNV9rRHlpUHRPeHV1bGo1VXQ5NWtWWWFveTVIMWpERnZmelMtcE9PaGkxZWZSRWhXVENOcHJBSVVUSHJrWDBIRUk?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Alpha Compute Closes $32.2 Million Revenue Contract with AI Lab Customer - The Manila Times",
-          "source": "The Manila Times",
-          "date": "May 13, 2026",
-          "summary": "Alpha Compute Closes $32.2 Million Revenue Contract with AI Lab Customer&nbsp;&nbsp;The Manila Times",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZHRLUVFMVlowblBaOWNKaDl3cjkwOUtqcWYyaGE0bkNqQVN1X1c0RGUxdW1nUXczUEd2cC1GVU9GcnRyZzBPSTh1amFBcG4ySTE3bTlRWFRBZlpOamk0dUtXVEo1WHNNcFJMdEY4eWNySWlpY1gtUG5yU0xXVmtpWjNMRXpibkVmWVQtUmZBOVpLOGFIN21CNU1tV01XSWtjT0dtVzdGSkl1VkNSTGcyaDB3ZFdIMHRKcjY3eVZzX2NrWlNha3Z1WUxtVjAwWlFBcUlqaHg1cjU4aWY40gHiAUFVX3lxTE1yVnI5ZklsNHJGd091b0liNldZSkdOWTVaYmdfVjlqSzk0cmNaR0pwaWd6eEFfZWZxX3lZNlVrSW5oZ01BNmxBZ004d0FCNHVEM3ZFaVJ5NHBTWjR6eGZUc0k5NVhvNGw3Y3ZFNDMwRE1zTDBlZnBvSHRBWktDREZVNFI1VEttR1Y2MUZLZVRNUld4QjRCZmJDSFVKcFNkX2E1LUd0Y2xTX2NiZDFYelo3UEpUb0ZuVWRoWkxIUkFISGItYTVsaFpLeUprVExVZHRsRllTbUVhUkZUeFA1SEpmdHc?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Google Stock To Gain From Anthropic’s $200 Billion AI Deal - Watcher Guru",
-          "source": "Watcher Guru",
-          "date": "May 13, 2026",
-          "summary": "Google Stock To Gain From Anthropic’s $200 Billion AI Deal&nbsp;&nbsp;Watcher Guru",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1M5dmdHUHFURXFtMmNOM1hGX2ZtVkRzQkJ4RzNRS3FkbDhCVnlsck5hRGlrNFdPWWl4cGVKMEt2ajdib2VWaFpOWldLQmJ4VmMtVy1pUTRaVHVSMU1ZUWpwUWlET1ZTVXBGREFkdmNNcTdYRGFZLWx6U2xmWjl2M3lQcFRXdFlGUEE?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Beacon Point AI Data Center Campus in Texas Awards Jacobs EPCM Contract - Construction Review",
-          "source": "Construction Review",
-          "date": "May 13, 2026",
-          "summary": "Beacon Point AI Data Center Campus in Texas Awards Jacobs EPCM Contract&nbsp;&nbsp;Construction Review",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2t3Y3RrUE9XTVZVMm5ST3hOU0VhT0hZS2VESHBKQmJuOUh4TnlXdDN6OUlUTjUzSmducDF2ZVRINVFJUFZHeXRFRVprOFQ5bkx3dXkzNktWR2xtaXF3djkxMmU0OUtqY0h4dGl0N09vZFl2UjJiajR6dEE1RFN1UTZkeXZLVGFlYXlzWnZnb0hrOHN6dWpmWjJzSG5Qci1VWVV5NTRTRTQydGpwVnc?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Pavel Durov Says TON’s AI Toolchain Speeds Up Smart Contract Development 10x - MEXC",
-          "source": "MEXC",
-          "date": "May 13, 2026",
-          "summary": "Pavel Durov Says TON’s AI Toolchain Speeds Up Smart Contract Development 10x&nbsp;&nbsp;MEXC",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxVE1Ob2NlNXg2TE1zaUkzRXpvWFNVWEZ3ejJaUVdFMVFuN19FSHpiUGdBTmVpTWpILXIwVlJZek5DX25TS002WA?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Acton Toolchain Lands On TON, Bringing AI-Ready Smart Contracts To Devs, Says Durov - Yellow.com",
-          "source": "Yellow.com",
-          "date": "May 13, 2026",
-          "summary": "Acton Toolchain Lands On TON, Bringing AI-Ready Smart Contracts To Devs, Says Durov&nbsp;&nbsp;Yellow.com",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wUTFCblFvOVBLMmhjODdVdkpRaGtLdDNkVGNlRW9wNGQ2d1huNHVUcDJrUmRkb2Y3MFVqWUpGMUl3R21sNWF2LWxNVjMya0dWWFgwUUtkZDdoM2ZsRGEyU3hvbllpSGNSYW15Y3AyVQ?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Corning Incorporated Stock Jumps After BofA Pick — Why Nvidia’s AI Fiber Deal Matters for GLW - TechStock²",
-          "source": "TechStock²",
-          "date": "May 13, 2026",
-          "summary": "Corning Incorporated Stock Jumps After BofA Pick — Why Nvidia’s AI Fiber Deal Matters for GLW&nbsp;&nbsp;TechStock²",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeS01a0xQdmtaSkNaU1VLekZoRHNrdThYNEFUUG14ZmliRlFWZkkxX0dVYk55d2w0NUNBeDRIM01SRmdwRFVhSUZQU2c5Q2xUVTlmWUZ1bF9SazBnRVNZZTc1Yi1fX183eWxKSzl0aW0wNFI4MUp2ZmlUMmdwS3lUVGw4OGlVU1dLNTVXTXE2R1ZMV3NhUGRQa3Nfcl91dVQzRG9wcDBOdkw2Ym1XeEd2UQ?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Colorado’s fierce two-year fight over AI regulation ends with watered-down law, little fanfare - The Colorado Sun",
-          "source": "The Colorado Sun",
-          "date": "May 13, 2026",
-          "summary": "Colorado’s fierce two-year fight over AI regulation ends with watered-down law, little fanfare&nbsp;&nbsp;The Colorado Sun",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mbUpWMWVFUEtZSUp4emRNVXNGUVJSVlJHSXVrZG91cWxWTFRianRuaDhJaEQ5b2ZCNXA2V1VXbmFEV3hGYzBGRzBnVzN1cVluWFRGQ3RuWDAtYm5yZ0JocjNsUEtXUGtpVXdfem5xdHZGSjZj?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "AI is flooding the courts with more cases, more filings, and more fake citations - Fast Company",
+          "title": "AI is flooding the courts with more cases, more filings, and more fake citations",
           "source": "Fast Company",
           "date": "May 13, 2026",
           "summary": "AI is flooding the courts with more cases, more filings, and more fake citations&nbsp;&nbsp;Fast Company",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGxlVWhRTVdqOFpsUW50S0lBclRJYnh3elZOZ2FuSkZscHFGeFFvQjEwb0ZzdExsVl8tZ1dCRXB5OGtDY0hGVXRnZTlIN2FTWUY1aDU0VkRUdDlFcHhMcUZFSWdaZTBhSUJZYm9YSHRBcUEyYnJvMnVzVkdkR0RyVmlyUDZBcXJpRlFScW5uM25zdkd4bGdLcE9JSzZWUWpXdHVha2VobGpuMElhQlhyX1dVeVczUQ?oc=5",
           "tags": [
-            "enterprise"
+            "regulation"
           ]
         },
         {
-          "title": "A prosecutor used AI in a legal brief. A murder conviction is in jeopardy - Straight Arrow News - SAN",
+          "title": "A prosecutor used AI in a legal brief. A murder conviction is in jeopardy - Straight Arrow News",
           "source": "Straight Arrow News - SAN",
           "date": "May 13, 2026",
           "summary": "A prosecutor used AI in a legal brief. A murder conviction is in jeopardy&nbsp;&nbsp;Straight Arrow News - SAN",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFZqV1lUUDdja0pCRHExbVNaWWVXWV8tVnE1QzE0MDJUcEJFTHhicXJ2dkN6RTlYSG1IZ3pPR1hDVkx3cWM5eVhsVHhiblBxSThYNXl0azk3dktXN0gtRzFCQWgzbXJyWlg5WGVWV1dQdXFXQzlSbWdVMTdJR2thd1ljVjlpWXlRTS1US3J3VG5DZVZpdTlZ?oc=5",
           "tags": [
-            "enterprise"
+            "regulation"
           ]
         },
         {
-          "title": "AI chats are the new diary. And they're admissible - Axios",
-          "source": "Axios",
-          "date": "May 13, 2026",
-          "summary": "AI chats are the new diary. And they're admissible&nbsp;&nbsp;Axios",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxNzhkeWYyZlFTU2p1MGdYb2pCaGdlaWdubTdQVlBQRjFVN0dPME1tTlhiUUl1ZjZqeWQ1cE9ZNG5fckFLNVp6YmtZN2U1Njk5V2VLR1oxYi1ma0pCUDZuR3RtOXpoZ1k0MFlFZ2NNYTVTMTMzX0Jj?oc=5",
-          "tags": [
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Family of Florida mass shooting victim sues OpenAI in US court - Reuters",
+          "title": "Family of Florida mass shooting victim sues OpenAI in US court",
           "source": "Reuters",
           "date": "May 13, 2026",
           "summary": "Family of Florida mass shooting victim sues OpenAI in US court&nbsp;&nbsp;Reuters",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYklVTzNFUUxyTTdLYzh4ZmgwWHRSRUtnN0x1c2tqdS00M00wSC1hbDNxRm5YeENXNFEzY1I4YlVrQVNlWlhEVGJSVjR1ZGtRZzE0YTBpeG8zYXExS0NnQkN6MWxoNTJrcm5aUWU1WGF5N2QyQjhrV0c5UGFCQ2VqaVM5aGM3cDBZQlQwQVlrdFBTeFp1TDBidnBHYjg5NVd1bkItbFdyRHBrTWpKcUE?oc=5",
           "tags": [
-            "enterprise"
+            "regulation"
           ]
         },
         {
-          "title": "Everlaw Expands Anthropic Integration With Agentic AI Workflows - TipRanks",
+          "title": "Everlaw Expands Anthropic Integration With Agentic AI Workflows",
           "source": "TipRanks",
           "date": "May 13, 2026",
           "summary": "Everlaw Expands Anthropic Integration With Agentic AI Workflows&nbsp;&nbsp;TipRanks",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT2FoMzVyM21HTmxMVEp0WFZ1R3BFM1NVVERnamg4RzBLcFQySjczNmwyd0loVmtlRkh0cFlpRUs2NTdhTXlVdDRIeTNPb0ZhdVhtLXdHak5UZFpTeTQ2c3M0c19HN2R4UWlrOWd3SjlFUzMwbHJLcnhlS1dBcmRKSzlfNHRKSm5zbmkyYlVtX3VyX2hFTUFSTkNzWmRJTHlJanBDT2lqQ09zRGlLQVo1Tg?oc=5",
           "tags": [
+            "product"
+          ]
+        },
+        {
+          "title": "Thomson Reuters and Anthropic Expand Partnership to Connect Claude with CoCounsel Legal",
+          "source": "Thomson Reuters",
+          "date": "May 13, 2026",
+          "summary": "Thomson Reuters and Anthropic Expand Partnership to Connect Claude with CoCounsel Legal&nbsp;&nbsp;Thomson Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY1RLTU9kdkZ1bTBHMEc5ZUp0QUMxSjZsa0ZqaGhoZV9hNTRLQVBUZGlPNnhVN1UzMksyTkhhdXhvZzVhaUhoNl9fcGNPYzBmV2hKbTN2SGtKNlR4MnVwX3V4cW9VUjg5bEtlRGc3QzY1c1o5dlpGNTZoV0g1MHFLN3VsenF3UzYxU3VabzFnMklfYktGM1QyMUpVd0duRjRUQ3BlaWV1UmdXS2lUZ2dqMVBLdzd2a0U5VU9uX1hIMFdzbzRnLVZiVzkxWExobGxIQTVhV0ppVUgzQnZnWEE?oc=5",
+          "tags": [
+            "acquisition"
+          ]
+        },
+        {
+          "title": "Inside Thomson Reuters and Anthropic’s fiduciary-grade legal AI linkup",
+          "source": "Stock Titan",
+          "date": "May 13, 2026",
+          "summary": "Inside Thomson Reuters and Anthropic’s fiduciary-grade legal AI linkup&nbsp;&nbsp;Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ3ZnbGdoOWQzQXNjaWY4R2FIcFpJbzBwRUJTMWVKWFBuT3ZYb3NwU2M0eFBMcEVmTjYxQlIyUjQ0enlOckVQWXNkVWFJYUM2V2lQQldDeHgzSWlFWFhTWHlWYkNMeVBqZmU2UlJxNlNFRWhDak1jVHlSR09Gd21tTUpDZzlJTjh4QU1NUDRtRW5IOTNwaGFEYW5qTkNFMmRjSkNsWlRJMng4elB1RWx4WE8zVHNOdHpZdVlJdw?oc=5",
+          "tags": [
+            "acquisition"
+          ]
+        },
+        {
+          "title": "Anthropic says its newest lawyer tools are 'like giving an engineer a legal degree'",
+          "source": "Business Insider",
+          "date": "May 13, 2026",
+          "summary": "Anthropic says its newest lawyer tools are 'like giving an engineer a legal degree'&nbsp;&nbsp;Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDR5V2gxRXB6ZC1fQzcyUWdLVUZBUXhCdU4yUWlsLWdkbGNNODVaQWdQU09CT1lNVTBKZzh0MmlSa3l0QjdLV040QnpvNklxUzF2WWhPc044OTVxenN4bjNpMG1meVlMdVVqM1JjY0dHQVdjbU9IbVAtSFNqVEo0blZSdWZhZTAtS0E2dGNR?oc=5",
+          "tags": [
+            "product"
+          ]
+        },
+        {
+          "title": "Anthropic expands legal AI offerings with new Claude Cowork plugins - the",
+          "source": "the-decoder.com",
+          "date": "May 13, 2026",
+          "summary": "Anthropic expands legal AI offerings with new Claude Cowork plugins&nbsp;&nbsp;the-decoder.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbW9DeEVNYkh0OWtzYWxEYlAxYUUzaGw5VUpmT1NteDJQTUlJVldPR29NVFRVcExOUENuMk1tUmo3dlZobDRTZU5pSHhDdmxXT19uMG85NlNEY0d2SzNjazRkQkIzUlNSSjhkZG9kZ1FKcGZIaUw5Nmp4anE3ZlZ4N0R2cUR0bFNXekc4OVhn?oc=5",
+          "tags": [
+            "product"
+          ]
+        },
+        {
+          "title": "Thomson Reuters (TRI) Enhances Legal Work with New AI Integratio",
+          "source": "GuruFocus",
+          "date": "May 13, 2026",
+          "summary": "Thomson Reuters (TRI) Enhances Legal Work with New AI Integratio&nbsp;&nbsp;GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFdBN0YxYnEwNnhZVjVkUWJWbWUtYlBXcmtuRGduSXRuN2FiQXl1YlRlUmlzcTZBMzVkREVsUjFqaEE2TGZVRkJrdVhrVXlkSnBwT0k2QVZudF91b1loSVREZjZobmhobFUtZmVoaXFmTDFDd2ZMbkxLWEtaTGhRWkZ1d3ZBakRPMUVmcmd2ZWxmbDNfdnVjbzFSQkUwanN3QnZhdA?oc=5",
+          "tags": [
+            "product"
+          ]
+        },
+        {
+          "title": "Thomson Reuters (TRI) Enhances Legal AI with Anthropic's Claude Integration",
+          "source": "GuruFocus",
+          "date": "May 13, 2026",
+          "summary": "Thomson Reuters (TRI) Enhances Legal AI with Anthropic's Claude Integration&nbsp;&nbsp;GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzVNVnoycExQdGYzRHZSS2pzV3FsdmVOWGNZVlEyc0l0RVJwXzhxQnlreFlJX1lYVXpxUFFQTUk2bXFqVVphR05EVXN4QlZ4LVhNRjdQMVJBS3c4Um8xazFCOFJkRlhhSUNVOG1ES2pOSFVYQTA0TzZ2cHlIVHNjbWFfV3ZBY2tHLWI2TWdHZ0Jyckw4Y09aSUNhdnYyclQ3dzVHSXAwV3pPeXBUMzA5Mg?oc=5",
+          "tags": [
+            "product"
+          ]
+        },
+        {
+          "title": "Legal’s AI Makeover Shows What’s Ahead for Other Professionals",
+          "source": "Bloomberg Law News",
+          "date": "May 13, 2026",
+          "summary": "Legal’s AI Makeover Shows What’s Ahead for Other Professionals&nbsp;&nbsp;Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMzE3dkd6djBOMkk4SU02TWJXNFEwSVJma3ItWXFlTzhFQ2pBVktZY1VVbVJaWXp5akJsZXBrMWpxaktacWxCajg1ZTM1Y1JKUmc0RXByZWZWT2J0Rkd5YUZKYjV4VjhPX3JXNWJFRUhiMlhhSUNCRUdqSWltczhzZ0Uybm15UHFzLXJUNTFwVEdYSDJLN3NBTVJWdDZ2c0RkRk1FT2I5azEwcnZFUHc?oc=5",
+          "tags": [
+            "research"
+          ]
+        },
+        {
+          "title": "Anthropic’s Claude Gets New Tools For Lawyers",
+          "source": "Finimize",
+          "date": "May 13, 2026",
+          "summary": "Anthropic’s Claude Gets New Tools For Lawyers&nbsp;&nbsp;Finimize",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KeHplSXFTdkdnNHo0MVF4VThrNnFVNFMwaG1TLU1uNmdxek9tLTdPb1RHbU42c3ZJdHZwN2c2VGtBajNCcnJBRWpJMV9ZNGJrUlctVWppT0p4UnhvN0VscTZudXFCODJDUVFXWkdLTU10cUFvTFNyQVRkWDRUZw?oc=5",
+          "tags": [
+            "product"
+          ]
+        },
+        {
+          "title": "Thomson Reuters’ CoCounsel to Integrate Anthropic’s Claude AI Model",
+          "source": "geneonline.com",
+          "date": "May 13, 2026",
+          "summary": "Thomson Reuters’ CoCounsel to Integrate Anthropic’s Claude AI Model&nbsp;&nbsp;geneonline.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWWpxanF1MGtSZWJiYmRJejdrSTBobG1xZkdrZk5qOXVKZlZHM25NbHpJaWpJSHhTVWVzendEVVdCekRXUWFTYXptM1laQU5zTTBDRVB4b3o2elhZSkRCY2RlcWVoY09abGM2MC03T0ZrWU82bHlJRlR5elc1aFFhRVR4eEFycHpPNEVTckNOX3VKd0tjTVJfMg?oc=5",
+          "tags": [
+            "product"
+          ]
+        },
+        {
+          "title": "Thomson Reuters boss says AI licensing deals only involve archive text",
+          "source": "Press Gazette",
+          "date": "May 13, 2026",
+          "summary": "Thomson Reuters boss says AI licensing deals only involve archive text&nbsp;&nbsp;Press Gazette",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkVma2JDRWUwS1ZrNm9zVWpGRkhKb0loc0pQVGptZ3RTamQzWVFrTE9TMjhUTjlGaGhDajhYOHEtbnNMbE5Sc1BpSGgtai11UnRrUExtTzJJUlNUR18tRGt2M285M3B2X0ZQLXk1X1ZmLTA2OXZ0ZDNuT3c5YmlJLV9PMjE5djBWQ2oxTzJsSWo1d1VYV2JXNFVGbjd6U1lJYXV6b1Y3SnJDVlRZOVRGXzM3cEU2Wi1XUFJsQ3ZZNHBwbkJSZzc0?oc=5",
+          "tags": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Legal AI’s Next Act Is In-House Productivity",
+          "source": "Artificial Lawyer",
+          "date": "May 13, 2026",
+          "summary": "Legal AI’s Next Act Is In-House Productivity&nbsp;&nbsp;Artificial Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTEVSNVV2WjJ1QmlCcTBrUE5LWjd3RUpWdnZuNEhLd3h2a0w0QzZuWG83d1VGc0gxMUxZazRTZTAtZlNTaGlvTy01XzhVVTBXYTczME1sR3UtX29hQjJDQUZnTkRwUkNBbVdJR0ZvR2wxT01RRnA1allKbVhkLUpIYWtKdFY1NlZKcDE3bkMwSmZjUQ?oc=5",
+          "tags": [
+            "enterprise"
+          ]
+        },
+        {
+          "title": "The L Suite Introduces New Community-Powered AI Tool for In-House Legal Teams",
+          "source": "Legal Reader",
+          "date": "May 13, 2026",
+          "summary": "The L Suite Introduces New Community-Powered AI Tool for In-House Legal Teams&nbsp;&nbsp;Legal Reader",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc0VnQlNYcnc5U19zUmZhQTlxaFZyZ2M4MElLb2JiZUN2MjE0UUdUV3Uwa2ZpU21fX1hDbEowMjFtazgyc29xWDNkVEoybVRkcV9YZTA0OTBUalhDanAydDh6RURLRG01bFNrQUxQcEhBdEhjZGpuTXJmQWRoNy1HWTdzUUctLWtpYzJOOUZZck5EV1dFX2lOV1lxMGdSajVvejdiUw?oc=5",
+          "tags": [
+            "product",
             "enterprise"
           ]
         }
