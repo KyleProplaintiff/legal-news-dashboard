@@ -2,8 +2,8 @@
   "fetches": [
     {
       "date": "2026-05-13",
-      "fetchedAt": "2026-05-13T20:56:05.153Z",
-      "articleCount": 54,
+      "fetchedAt": "2026-05-13T21:05:12.074Z",
+      "articleCount": 50,
       "articles": [
         {
           "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
@@ -127,17 +127,6 @@
           "heat": 9
         },
         {
-          "title": "Anthropic Expands Push Into Legal Industry With New AI Tools",
-          "source": "Bloomberg.com",
-          "date": "May 13, 2026",
-          "summary": "Anthropic Expands Push Into Legal Industry With New AI Tools&nbsp;&nbsp;Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOExhSm03dzBCcTVfZnprUm9FcURjU0FVczV4VC1vUVZON0trZ3lRR3RzaTBIOVJMTGJNRVRSTUlIZ3kxMjZSYTlMT3RwQ1k0U0MtMWNNdUZIejg4cXdPWmZicW9zakl1Q1dWOF92aUZzYWhxNmNVUDY4YkxUWC0zQ3lGV0NkVU5OcmkyelZfNWpzUVVLSkJjbWJWRVVpSUpyLXpyX3dHQzJQYWF2QTE4VA?oc=5",
-          "tags": [
-            "product"
-          ],
-          "heat": 9
-        },
-        {
           "title": "Anthropic Goes All-In on Legal, Releasing More Than 20 Connectors and 12 Practice-Area Plugins for Claude",
           "source": "LawSites",
           "date": "May 13, 2026",
@@ -149,24 +138,13 @@
           "heat": 9
         },
         {
-          "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
-          "source": "MSN",
+          "title": "Anthropic Expands Push Into Legal Industry With New AI Tools",
+          "source": "Bloomberg.com",
           "date": "May 13, 2026",
-          "summary": "The AI legal services industry is heating up. Anthropic is getting in on the action.&nbsp;&nbsp;MSN",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRGI3SzE0a1IwNFlyeGhjeTY1VXNJdkFOWG5VRENFbVNDTWV2ZlI5ZTh4THQyY1BCeUtnSGVIbkowb2c1b1lUY09FRmJjQzcxQUdiQkxCbTlvTHZTUGtlWXAtcXZnZUZsOG5nMXZscS1OVnRGOF9PRm5nNzhoNl8tT1EtZTZhMXJ1eXNsc0lhbjNKdG5xUUJ1N2pJblA0cUFScmJpcXdMZExKVUh2dmkyM3diUURUVWd1UkVTYkVKTjVfOTNJeUR5UVY4eFBlcWxKRk9LM3Fvejk2QjlhaVllRThrR1Qzbmdyd2kzOEFlRWUyTHVaTGt6ODltZUxBN3hjVkE?oc=5",
+          "summary": "Anthropic Expands Push Into Legal Industry With New AI Tools&nbsp;&nbsp;Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOExhSm03dzBCcTVfZnprUm9FcURjU0FVczV4VC1vUVZON0trZ3lRR3RzaTBIOVJMTGJNRVRSTUlIZ3kxMjZSYTlMT3RwQ1k0U0MtMWNNdUZIejg4cXdPWmZicW9zakl1Q1dWOF92aUZzYWhxNmNVUDY4YkxUWC0zQ3lGV0NkVU5OcmkyelZfNWpzUVVLSkJjbWJWRVVpSUpyLXpyX3dHQzJQYWF2QTE4VA?oc=5",
           "tags": [
             "product"
-          ],
-          "heat": 9
-        },
-        {
-          "title": "A prosecutor used AI in a legal brief. A murder conviction is in jeopardy - Straight Arrow News",
-          "source": "Straight Arrow News - SAN",
-          "date": "May 13, 2026",
-          "summary": "A prosecutor used AI in a legal brief. A murder conviction is in jeopardy&nbsp;&nbsp;Straight Arrow News - SAN",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFZqV1lUUDdja0pCRHExbVNaWWVXWV8tVnE1QzE0MDJUcEJFTHhicXJ2dkN6RTlYSG1IZ3pPR1hDVkx3cWM5eVhsVHhiblBxSThYNXl0azk3dktXN0gtRzFCQWgzbXJyWlg5WGVWV1dQdXFXQzlSbWdVMTdJR2thd1ljVjlpWXlRTS1US3J3VG5DZVZpdTlZ?oc=5",
-          "tags": [
-            "regulation"
           ],
           "heat": 9
         },
@@ -210,8 +188,29 @@
           "summary": "Thomson Reuters and Anthropic Expand Partnership to Connect Claude with CoCounsel Legal&nbsp;&nbsp;Thomson Reuters",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY1RLTU9kdkZ1bTBHMEc5ZUp0QUMxSjZsa0ZqaGhoZV9hNTRLQVBUZGlPNnhVN1UzMksyTkhhdXhvZzVhaUhoNl9fcGNPYzBmV2hKbTN2SGtKNlR4MnVwX3V4cW9VUjg5bEtlRGc3QzY1c1o5dlpGNTZoV0g1MHFLN3VsenF3UzYxU3VabzFnMklfYktGM1QyMUpVd0duRjRUQ3BlaWV1UmdXS2lUZ2dqMVBLdzd2a0U5VU9uX1hIMFdzbzRnLVZiVzkxWExobGxIQTVhV0ppVUgzQnZnWEE?oc=5",
           "tags": [
-            "product",
             "acquisition"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Sterne Kessler and Thomson Reuters Partner to Create New AI Tool for Patent Litigation",
+          "source": "Yahoo Finance",
+          "date": "May 13, 2026",
+          "summary": "Sterne Kessler and Thomson Reuters Partner to Create New AI Tool for Patent Litigation&nbsp;&nbsp;Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMUNlbHZvZkw0STZKMkhqYmo2bTZ0ZDhmRlNZRGp1dWJIQ05FZEJNR3RWaUY2MDlBeVJuR1hLVkN2N1phUE1XZjNIc21Wc29kekN5aFFLSlA0MVVKYjE4LWZrTmJTQVBndVdEYTF3SzJzU2pYZzJlNEljd3pTdjV2eGJRb1dOYTFnUmtTOA?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "DealCloser Integrates CoCounsel For AI Doc Review",
+          "source": "Artificial Lawyer",
+          "date": "May 13, 2026",
+          "summary": "DealCloser Integrates CoCounsel For AI Doc Review&nbsp;&nbsp;Artificial Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcjd6VnhQZ0NwRnNqQXBmNGoyb3Z3OERiSzk3QkVSMHlIMWppWDdHRzZ3cVVrZ0loY2NQMXRXTE9kQktJMWpMOTVwSVQ3anF6OFFRc1ROQ0FMQlJsN1pQMjNjWllBVWhIdnlzOWpjZnB1b2hyaTRpU0s0LWdlcTBYeE1ILWhfejhOMndjeUpMZ3NYYkFLWi1YSW5R?oc=5",
+          "tags": [
+            "product"
           ],
           "heat": 9
         },
@@ -265,17 +264,6 @@
           "date": "May 13, 2026",
           "summary": "Anthropic’s Claude Gets New Tools For Lawyers&nbsp;&nbsp;Finimize",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KeHplSXFTdkdnNHo0MVF4VThrNnFVNFMwaG1TLU1uNmdxek9tLTdPb1RHbU42c3ZJdHZwN2c2VGtBajNCcnJBRWpJMV9ZNGJrUlctVWppT0p4UnhvN0VscTZudXFCODJDUVFXWkdLTU10cUFvTFNyQVRkWDRUZw?oc=5",
-          "tags": [
-            "product"
-          ],
-          "heat": 9
-        },
-        {
-          "title": "Thomson Reuters’ CoCounsel to Integrate Anthropic’s Claude AI Model",
-          "source": "geneonline.com",
-          "date": "May 13, 2026",
-          "summary": "Thomson Reuters’ CoCounsel to Integrate Anthropic’s Claude AI Model&nbsp;&nbsp;geneonline.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWWpxanF1MGtSZWJiYmRJejdrSTBobG1xZkdrZk5qOXVKZlZHM25NbHpJaWpJSHhTVWVzendEVVdCekRXUWFTYXptM1laQU5zTTBDRVB4b3o2elhZSkRCY2RlcWVoY09abGM2MC03T0ZrWU82bHlJRlR5elc1aFFhRVR4eEFycHpPNEVTckNOX3VKd0tjTVJfMg?oc=5",
           "tags": [
             "product"
           ],
@@ -348,44 +336,11 @@
           "heat": 8
         },
         {
-          "title": "Docusign Turns Legal Agreements Into Live Business Actions With AI Agents",
-          "source": "AIM Media House",
+          "title": "A prosecutor used AI in a legal brief. A murder conviction is in jeopardy - Straight Arrow News",
+          "source": "Straight Arrow News - SAN",
           "date": "May 13, 2026",
-          "summary": "Docusign Turns Legal Agreements Into Live Business Actions With AI Agents&nbsp;&nbsp;AIM Media House",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbldXdFN2SVB3aEREcUUzVDNDeGlHMlFra2Vjd0NkZFpYUjJfal93VHdvTW5PNHZEYWItSmxGVXE3dnRqUXppckJQZnRmejJnQU4yZFZBR3lrWGtUbk01OXlYdDVkRGx0a2RkNWN1ZTQ5X1hhd0FUSFFpaU54UGxDek16T3cza1BXZzFwWkMzcTRTSzhWLXJHSTVZSnl1RWNvaHFIYTc2cnhxUl9Ka2pwVUF4cw?oc=5",
-          "tags": [
-            "product"
-          ],
-          "heat": 8
-        },
-        {
-          "title": "Law Society Says AI Court Guidance Lags Behind Rising Use",
-          "source": "Law360",
-          "date": "May 13, 2026",
-          "summary": "Law Society Says AI Court Guidance Lags Behind Rising Use&nbsp;&nbsp;Law360",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkl5Y2JjUTdyOGtBU1k5Y0NLLXBTRUViZW9VdVp4RWhMTUdfUmtGdjBocmRpSHBoZElialVOVGk3U3FpWUlobjZwSTkyQ0Fpa2dsYndOaENDc25TZ3d0eVlhczZvenRhRTFiY0Y4V21DUnJ2ZWRYSDdIWHhfaTBFZ0hLUXIwYkhhZWFYaUViY2JHT01hbUk4ZGotTE5iQdIBVkFVX3lxTE5MRlgtNlRQYTBPMm41NElMRXd4ZEplUS1ibTBoR01reUd6d1hvcVVGeW5iZVowX21WN1J0VzdFbHVTaUZoU24yWGowUVI3dDhNSUxxZXRn?oc=5",
-          "tags": [
-            "regulation"
-          ],
-          "heat": 8
-        },
-        {
-          "title": "AI will hallucinate: The question is whether you let it speak for you in court",
-          "source": "Legal Futures",
-          "date": "May 13, 2026",
-          "summary": "AI will hallucinate: The question is whether you let it speak for you in court&nbsp;&nbsp;Legal Futures",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaUxuTWthbnlqNVd4RXNzY3dpbzA4a0FzdG9TdlNTa0pCWFhidF9YM1JlaE9QbWY5SjBNSEhhZGJ4dk5sZXdmNlljRjBJVnRHamRaLXlISUdrU3hkQ2pTU1Q1TFEtYXMzMHI5Ykg4dWI4T2lvZkhHaGxISHpkZkY4MEF3NXFPb1JRZHI0Wjl2dUJkOXM3cGNxSllZcmpxY0NOa0Y5UEpZN2JYQnBsZF9qSDIwQi1Eb0dQclpocWo0eEE?oc=5",
-          "tags": [
-            "regulation"
-          ],
-          "heat": 8
-        },
-        {
-          "title": "Law Society supports disclosure obligations for AI use in court documents",
-          "source": "Local Government Lawyer",
-          "date": "May 13, 2026",
-          "summary": "Law Society supports disclosure obligations for AI use in court documents&nbsp;&nbsp;Local Government Lawyer",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU1ozdDF3c3hiU0NIZmtsLW43N3o2dGVqSEtoWk40V0lXbFJSUTVVbFRjd3NfbE50OTcxVnFtSGhKY0ZmdHBoVVFseGhIRGQ1U19uVnIzdFJUQ0lncDNkbDI4SVRNVHZwNVhSS3lHY3FIcHB0TVVIVzdMaXUtY2l2YXByZEc2eGNtcXpwMUFRR0dQWkhreEVQbTRjcV85SzNhcUNBcWhGVzRNeGs5TWtuUWNXMlJqY1ZsWGo4WGh1OWNkTE5yNmIxYmVuVEJMSnltTHZvWWVTRTZ6OWs4Zm5UMEVyUmJJY19tZzNkeGdLRGZNYzQ?oc=5",
+          "summary": "A prosecutor used AI in a legal brief. A murder conviction is in jeopardy&nbsp;&nbsp;Straight Arrow News - SAN",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFZqV1lUUDdja0pCRHExbVNaWWVXWV8tVnE1QzE0MDJUcEJFTHhicXJ2dkN6RTlYSG1IZ3pPR1hDVkx3cWM5eVhsVHhiblBxSThYNXl0azk3dktXN0gtRzFCQWgzbXJyWlg5WGVWV1dQdXFXQzlSbWdVMTdJR2thd1ljVjlpWXlRTS1US3J3VG5DZVZpdTlZ?oc=5",
           "tags": [
             "regulation"
           ],
@@ -403,17 +358,6 @@
           "heat": 8
         },
         {
-          "title": "Sterne Kessler and Thomson Reuters Partner to Create New AI Tool for Patent Litigation",
-          "source": "Yahoo Finance",
-          "date": "May 13, 2026",
-          "summary": "Sterne Kessler and Thomson Reuters Partner to Create New AI Tool for Patent Litigation&nbsp;&nbsp;Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMUNlbHZvZkw0STZKMkhqYmo2bTZ0ZDhmRlNZRGp1dWJIQ05FZEJNR3RWaUY2MDlBeVJuR1hLVkN2N1phUE1XZjNIc21Wc29kekN5aFFLSlA0MVVKYjE4LWZrTmJTQVBndVdEYTF3SzJzU2pYZzJlNEljd3pTdjV2eGJRb1dOYTFnUmtTOA?oc=5",
-          "tags": [
-            "product"
-          ],
-          "heat": 8
-        },
-        {
           "title": "Thomson Reuters (TRI) Unveils Innovative AI Tool for Patent Anal",
           "source": "GuruFocus",
           "date": "May 13, 2026",
@@ -425,33 +369,11 @@
           "heat": 8
         },
         {
-          "title": "DealCloser Integrates CoCounsel For AI Doc Review",
-          "source": "Artificial Lawyer",
-          "date": "May 13, 2026",
-          "summary": "DealCloser Integrates CoCounsel For AI Doc Review&nbsp;&nbsp;Artificial Lawyer",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcjd6VnhQZ0NwRnNqQXBmNGoyb3Z3OERiSzk3QkVSMHlIMWppWDdHRzZ3cVVrZ0loY2NQMXRXTE9kQktJMWpMOTVwSVQ3anF6OFFRc1ROQ0FMQlJsN1pQMjNjWllBVWhIdnlzOWpjZnB1b2hyaTRpU0s0LWdlcTBYeE1ILWhfejhOMndjeUpMZ3NYYkFLWi1YSW5R?oc=5",
-          "tags": [
-            "product"
-          ],
-          "heat": 8
-        },
-        {
           "title": "Thomson Reuters (TRI) Enhances Legal Work with New AI Integratio",
           "source": "GuruFocus",
           "date": "May 13, 2026",
           "summary": "Thomson Reuters (TRI) Enhances Legal Work with New AI Integratio&nbsp;&nbsp;GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFdBN0YxYnEwNnhZVjVkUWJWbWUtYlBXcmtuRGduSXRuN2FiQXl1YlRlUmlzcTZBMzVkREVsUjFqaEE2TGZVRkJrdVhrVXlkSnBwT0k2QVZudF91b1loSVREZjZobmhobFUtZmVoaXFmTDFDd2ZMbkxLWEtaTGhRWkZ1d3ZBakRPMUVmcmd2ZWxmbDNfdnVjbzFSQkUwanN3QnZhdA?oc=5",
-          "tags": [
-            "product"
-          ],
-          "heat": 8
-        },
-        {
-          "title": "Docusign launches AI tools for in-house legal teams",
-          "source": "IT Brief Australia",
-          "date": "May 13, 2026",
-          "summary": "Docusign launches AI tools for in-house legal teams&nbsp;&nbsp;IT Brief Australia",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRW9RWTExNUpDYmZjZkFQbDdjUXFySXZGUGRTVC1maHlwUW1fLS14WGFvaWNDVjJSSGQwN1o3bDF6dk5tUV9wNGlGSVpQYTdKMFdPRVU3SFpyYmhMQW1HV01qUEc4c2o3YTg4WUdDUmFKY3FHQkg1SWFQbHBSekVYWXJmQmF2Y3M?oc=5",
           "tags": [
             "product"
           ],
@@ -496,6 +418,61 @@
           "date": "May 13, 2026",
           "summary": "Hinshaw GC Steve Puiszis Discusses Protecting Attorney-Client Privilege in an AI Age&nbsp;&nbsp;Hinshaw & Culbertson LLP",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVWlqZnhwUjRnYXd3Mi1YbUlCNFdpN0dIRHdTQlR3cldBbUpFaktndEFadlFiRHN0emVoNWZFWXlKc1lraGVQYWFxODdkNTJGRWJWMmVYQlBrcTFaRGZva0t4d0MwQ0ZvQ3QxcXRoRVpyd3dXX3R1czBOc2h5dEx1SlBSTDBPM3R6d1VqY1FCZmR1TEY0NFZCeGpPUUtkUG1UbkJwYmFhTkx3S1ZCMXJLS0VQcm5FR1Y5TnExSWxUMm1Mci1SSS02Z3hwc0ZsQldW?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "10 Legal AI Adoption Metrics for Law Firms",
+          "source": "Harvey",
+          "date": "May 13, 2026",
+          "summary": "10 Legal AI Adoption Metrics for Law Firms&nbsp;&nbsp;Harvey",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoQU9xWEN5NDh6cDVtdEtKbm94U1d1R1hzbVJxQ2xNNVBLdndEanRCVURwLW5jOV9CaHM5R01nZUs3Zm9rbzNFcDRKblhHVk5RTHdONXd1a0lXWlBFTDltVE0tSkZlWmtvUkgwZWE0b1NrVkJGVUdlSw?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Docusign Turns Legal Agreements Into Live Business Actions With AI Agents",
+          "source": "AIM Media House",
+          "date": "May 13, 2026",
+          "summary": "Docusign Turns Legal Agreements Into Live Business Actions With AI Agents&nbsp;&nbsp;AIM Media House",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbldXdFN2SVB3aEREcUUzVDNDeGlHMlFra2Vjd0NkZFpYUjJfal93VHdvTW5PNHZEYWItSmxGVXE3dnRqUXppckJQZnRmejJnQU4yZFZBR3lrWGtUbk01OXlYdDVkRGx0a2RkNWN1ZTQ5X1hhd0FUSFFpaU54UGxDek16T3cza1BXZzFwWkMzcTRTSzhWLXJHSTVZSnl1RWNvaHFIYTc2cnhxUl9Ka2pwVUF4cw?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Law Society Says AI Court Guidance Lags Behind Rising Use",
+          "source": "Law360",
+          "date": "May 13, 2026",
+          "summary": "Law Society Says AI Court Guidance Lags Behind Rising Use&nbsp;&nbsp;Law360",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkl5Y2JjUTdyOGtBU1k5Y0NLLXBTRUViZW9VdVp4RWhMTUdfUmtGdjBocmRpSHBoZElialVOVGk3U3FpWUlobjZwSTkyQ0Fpa2dsYndOaENDc25TZ3d0eVlhczZvenRhRTFiY0Y4V21DUnJ2ZWRYSDdIWHhfaTBFZ0hLUXIwYkhhZWFYaUViY2JHT01hbUk4ZGotTE5iQdIBVkFVX3lxTE5MRlgtNlRQYTBPMm41NElMRXd4ZEplUS1ibTBoR01reUd6d1hvcVVGeW5iZVowX21WN1J0VzdFbHVTaUZoU24yWGowUVI3dDhNSUxxZXRn?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "AI will hallucinate: The question is whether you let it speak for you in court",
+          "source": "Legal Futures",
+          "date": "May 13, 2026",
+          "summary": "AI will hallucinate: The question is whether you let it speak for you in court&nbsp;&nbsp;Legal Futures",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaUxuTWthbnlqNVd4RXNzY3dpbzA4a0FzdG9TdlNTa0pCWFhidF9YM1JlaE9QbWY5SjBNSEhhZGJ4dk5sZXdmNlljRjBJVnRHamRaLXlISUdrU3hkQ2pTU1Q1TFEtYXMzMHI5Ykg4dWI4T2lvZkhHaGxISHpkZkY4MEF3NXFPb1JRZHI0Wjl2dUJkOXM3cGNxSllZcmpxY0NOa0Y5UEpZN2JYQnBsZF9qSDIwQi1Eb0dQclpocWo0eEE?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Law Society supports disclosure obligations for AI use in court documents",
+          "source": "Local Government Lawyer",
+          "date": "May 13, 2026",
+          "summary": "Law Society supports disclosure obligations for AI use in court documents&nbsp;&nbsp;Local Government Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU1ozdDF3c3hiU0NIZmtsLW43N3o2dGVqSEtoWk40V0lXbFJSUTVVbFRjd3NfbE50OTcxVnFtSGhKY0ZmdHBoVVFseGhIRGQ1U19uVnIzdFJUQ0lncDNkbDI4SVRNVHZwNVhSS3lHY3FIcHB0TVVIVzdMaXUtY2l2YXByZEc2eGNtcXpwMUFRR0dQWkhreEVQbTRjcV85SzNhcUNBcWhGVzRNeGs5TWtuUWNXMlJqY1ZsWGo4WGh1OWNkTE5yNmIxYmVuVEJMSnltTHZvWWVTRTZ6OWs4Zm5UMEVyUmJJY19tZzNkeGdLRGZNYzQ?oc=5",
           "tags": [
             "regulation"
           ],
@@ -557,35 +534,13 @@
           "heat": 6
         },
         {
-          "title": "Thomson Reuters boss says AI licensing deals only involve archive text",
-          "source": "Press Gazette",
-          "date": "May 13, 2026",
-          "summary": "Thomson Reuters boss says AI licensing deals only involve archive text&nbsp;&nbsp;Press Gazette",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkVma2JDRWUwS1ZrNm9zVWpGRkhKb0loc0pQVGptZ3RTamQzWVFrTE9TMjhUTjlGaGhDajhYOHEtbnNMbE5Sc1BpSGgtai11UnRrUExtTzJJUlNUR18tRGt2M285M3B2X0ZQLXk1X1ZmLTA2OXZ0ZDNuT3c5YmlJLV9PMjE5djBWQ2oxTzJsSWo1d1VYV2JXNFVGbjd6U1lJYXV6b1Y3SnJDVlRZOVRGXzM3cEU2Wi1XUFJsQ3ZZNHBwbkJSZzc0?oc=5",
-          "tags": [
-            "regulation"
-          ],
-          "heat": 6
-        },
-        {
-          "title": "Thomson Reuters stock (CA8849037095): Shares plunge 6.1% as AI partnership expands",
-          "source": "AD HOC NEWS",
-          "date": "May 13, 2026",
-          "summary": "Thomson Reuters stock (CA8849037095): Shares plunge 6.1% as AI partnership expands&nbsp;&nbsp;AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWkM4c2VONVM0RGJkeTFVX3JxaWZOTkRBcUJGRmR5VE5uVk81ZTEtdUNSUEZMWXRqQlRQSjZlcW1RYVJ0RGREVldkWGhkY1h0VjZOc1VBb2lYREZ3aFlQY0tPZUdZZWE4MHdvVjhLSTlmZWNOZzd5QkRsRk9jR2hOZGJ6R0padndWNGlMa3hlRFZKcE9EU1RyazZYYTNaMDlzQXFCNUJQaHRsX291T1pQN2Y4QklmU2lrOTVzeENXbEZEZTQ?oc=5",
-          "tags": [
-            "product"
-          ],
-          "heat": 5
-        },
-        {
           "title": "Rising US law firm expenses offset strong demand and rate hikes in first quarter - report",
           "source": "Reuters",
           "date": "May 13, 2026",
           "summary": "Rising US law firm expenses offset strong demand and rate hikes in first quarter - report&nbsp;&nbsp;Reuters",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcDhaTktQbGJudl93Vm4yODBBWTZrWnJXRGtjcGo4d0N3Qm9CaGxyZm1Oc1B4T1ZJNVhVWElxbF8xLUo1VWRNV292dHZIbUx5b3Y0WmFCdTVKb1h2d1BmcXlsdWluMncwSkVqYjZmU0lvbVo0RGZJcmVod2pTbjlYcWZmZG9ZdU1WTGRBaVk2Zk5BMzNYRi1pMHFITkMzOEVKUmM5V1JNQ18xVmdCdmhxZUJlQm5wekdtN3dyV3pPcDlHOUQ1azBqSWZyejg?oc=5",
           "tags": [
-            "enterprise"
+            "research"
           ],
           "heat": 3
         },
@@ -598,7 +553,7 @@
           "tags": [
             "research"
           ],
-          "heat": 1
+          "heat": 2
         }
       ]
     }
