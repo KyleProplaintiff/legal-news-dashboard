@@ -4,6 +4,8 @@ const path = require('path');
 const xml2js = require('xml2js');
 
 const API_KEY = process.env.ANTHROPIC_API_KEY;
+const SLACK_TOKEN = process.env.SLACK_BOT_TOKEN;
+const SLACK_CHANNEL = '#legal-tech-news';
 const DATA_FILE = path.join(__dirname, 'data', 'articles.json');
 
 if (!fs.existsSync(path.join(__dirname, 'data'))) {
@@ -168,6 +170,86 @@ No markdown, no explanation. JSON only.`;
   return JSON.parse(match[0]);
 }
 
+async function postToSlack(articles, today) {
+  if (!SLACK_TOKEN) {
+    console.log('No Slack token, skipping Slack post');
+    return;
+  }
+
+  const top10 = articles.slice(0, 10);
+  const hotCount = articles.filter(a => a.heat >= 8).length;
+  const dashboardUrl = 'https://kyleproplaintiff.github.io/legal-news-dashboard';
+
+  const heatEmoji = (heat) => {
+    if (heat >= 9) return '🔥';
+    if (heat >= 7) return '⚡';
+    return '·';
+  };
+
+  const articleLines = top10.map(a =>
+    `${heatEmoji(a.heat)} *${a.heat}/10* | <${a.url}|${a.title}>\n    _${a.source}_ • ${a.tags.join(', ')}`
+  ).join('\n\n');
+
+  const message = {
+    channel: SLACK_CHANNEL,
+    blocks: [
+      {
+        type: 'header',
+        text: {
+          type: 'plain_text',
+          text: `🗞️ AI Legal Tech Daily — ${today}`,
+          emoji: true
+        }
+      },
+      {
+        type: 'section',
+        text: {
+          type: 'mrkdwn',
+          text: `*${articles.length} articles fetched* • *${hotCount} 🔥 hot stories* today`
+        }
+      },
+      {
+        type: 'divider'
+      },
+      {
+        type: 'section',
+        text: {
+          type: 'mrkdwn',
+          text: articleLines
+        }
+      },
+      {
+        type: 'divider'
+      },
+      {
+        type: 'section',
+        text: {
+          type: 'mrkdwn',
+          text: `📊 <${dashboardUrl}|View full dashboard> — ${articles.length - 10} more articles inside`
+        }
+      }
+    ]
+  };
+
+  try {
+    const response = await axios.post('https://slack.com/api/chat.postMessage', message, {
+      headers: {
+        'Authorization': `Bearer ${SLACK_TOKEN}`,
+        'Content-Type': 'application/json'
+      },
+      timeout: 15000
+    });
+
+    if (response.data.ok) {
+      console.log('✓ Posted to Slack successfully');
+    } else {
+      console.log('Slack error:', response.data.error);
+    }
+  } catch (e) {
+    console.log('Slack post failed:', e.message);
+  }
+}
+
 async function fetchNews() {
   if (!API_KEY) { console.error('No API key set'); process.exit(1); }
 
@@ -233,8 +315,11 @@ async function fetchNews() {
   data.fetches = data.fetches.slice(0, 90);
   writeData(data);
 
-  console.log(`Saved ${finalArticles.length} articles`);
-  console.log(`Total days in history: ${data.fetches.length}`);
+  console.log(`✓ Saved ${finalArticles.length} articles`);
+
+  // Post to Slack
+  await postToSlack(finalArticles, today);
+
   finalArticles.forEach((a, i) => {
     console.log(`${i + 1}. [heat:${a.heat}] [${a.tags.join(', ')}] ${a.title}`);
   });
