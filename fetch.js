@@ -1,6 +1,7 @@
 const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
+const xml2js = require('xml2js');
 
 const API_KEY = process.env.ANTHROPIC_API_KEY;
 const DATA_FILE = path.join(__dirname, 'data', 'articles.json');
@@ -26,96 +27,172 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-async function callClaude(messages, useSearch) {
-  const body = {
-    model: 'claude-sonnet-4-5',
-    max_tokens: 4000,
-    messages
-  };
-  if (useSearch) {
-    body.tools = [{ type: 'web_search_20250305', name: 'web_search' }];
+const QUERIES = [
+  'legal+tech+AI+startup',
+  'law+firm+artificial+intelligence',
+  'Harvey+AI+OR+Clio+OR+Legora+legal',
+  'legaltech+funding+OR+acquisition',
+  'contract+AI+OR+ediscovery+AI',
+  'legal+AI+regulation+OR+court',
+  'Ironclad+OR+Luminance+OR+Everlaw+OR+Relativity+AI',
+];
+
+async function fetchRSS(query) {
+  const url = `https://news.google.com/rss/search?q=${query}&hl=en-US&gl=US&ceid=US:en`;
+  try {
+    const response = await axios.get(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+      },
+      timeout: 15000
+    });
+    const parsed = await xml2js.parseStringPromise(response.data);
+    const items = parsed?.rss?.channel?.[0]?.item || [];
+    return items.map(item => ({
+      title: item.title?.[0] || '',
+      url: item.link?.[0] || '',
+      source: item.source?.[0]?._ || item.source?.[0] || 'Unknown',
+      pubDate: item.pubDate?.[0] || '',
+      summary: item.description?.[0]?.replace(/<[^>]*>/g, '').slice(0, 300) || ''
+    }));
+  } catch (e) {
+    console.log(`RSS fetch failed for "${query}": ${e.message}`);
+    return [];
   }
+}
+
+function deduplicateArticles(articles) {
+  const seen = new Set();
+  return articles.filter(a => {
+    const key = a.title.toLowerCase().slice(0, 60);
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+function isRecent(pubDate) {
+  if (!pubDate) return true;
+  try {
+    const pub = new Date(pubDate);
+    const cutoff = new Date(Date.now() - 48 * 60 * 60 * 1000);
+    return pub > cutoff;
+  } catch (e) {
+    return true;
+  }
+}
+
+async function tagArticles(articles) {
+  const list = articles.map((a, i) =>
+    `${i + 1}. "${a.title}" — ${a.source}`
+  ).join('\n');
+
+  const prompt = `Tag these legal tech news articles. Assign 1-2 tags from: funding, product, regulation, research, acquisition, enterprise.
+
+${list}
+
+Return ONLY a JSON array:
+[{"index":1,"tags":["product"]},{"index":2,"tags":["funding"]}]
+No markdown, no explanation.`;
+
   const response = await axios.post(
     'https://api.anthropic.com/v1/messages',
-    body,
+    {
+      model: 'claude-haiku-4-5-20251001',
+      max_tokens: 1000,
+      messages: [{ role: 'user', content: prompt }]
+    },
     {
       headers: {
         'x-api-key': API_KEY,
         'anthropic-version': '2023-06-01',
         'content-type': 'application/json'
       },
-      timeout: 120000
+      timeout: 30000
     }
   );
-  return response.data;
+
+  const raw = (response.data.content || [])
+    .filter(b => b.type === 'text')
+    .map(b => b.text)
+    .join('')
+    .replace(/```json|```/g, '')
+    .trim();
+
+  const match = raw.match(/\[[\s\S]*\]/);
+  if (!match) throw new Error('No JSON from tagging');
+  return JSON.parse(match[0]);
 }
 
 async function fetchNews() {
-  if (!API_KEY) { console.error('No API key'); process.exit(1); }
+  if (!API_KEY) { console.error('No API key set'); process.exit(1); }
 
-  const today = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
-  console.log(`Fetching news for ${today}...`);
+  const today = new Date().toLocaleDateString('en-US', {
+    month: 'long', day: 'numeric', year: 'numeric'
+  });
+  console.log(`Fetching AI legal tech news for ${today}...`);
 
-  try {
-    // Step 1: Search
-    const searchData = await callClaude([{
-      role: 'user',
-      content: `Search the web for 15 recent AI legal tech news articles from the past 48 hours. Focus on: Harvey, Clio, Legora, EvenUp, Ironclad, Luminance, Relativity, Everlaw, CaseText, law firm AI, legaltech funding, contract AI, e-discovery AI, legal AI regulation. Sources: Artificial Lawyer, Law360, Legal IT Insider, Legaltech News, Above the Law, Bloomberg Law. Briefly summarize each article you find with title, source, and URL.`
-    }], true);
+  // Step 1: Pull RSS feeds
+  let allArticles = [];
+  for (const query of QUERIES) {
+    console.log(`Fetching: ${query}`);
+    const items = await fetchRSS(query);
+    const recent = items.filter(a => isRecent(a.pubDate));
+    console.log(`  → ${recent.length} recent articles`);
+    allArticles = allArticles.concat(recent);
+    await sleep(500);
+  }
 
-    const searchText = (searchData.content || [])
-      .filter(b => b.type === 'text')
-      .map(b => b.text)
-      .join('\n');
+  allArticles = deduplicateArticles(allArticles);
+  console.log(`✓ ${allArticles.length} unique articles`);
 
-    console.log('Search complete, waiting before formatting...');
-    await sleep(65000); // wait 65 seconds to reset rate limit
-
-    // Step 2: Format
-    const formatData = await callClaude([{
-      role: 'user',
-      content: `Format these news summaries as a JSON array. Today is ${today}.
-
-${searchText.slice(0, 8000)}
-
-Return ONLY a JSON array, each item:
-{"title":"...","source":"...","date":"${today}","summary":"Two sentences.","url":"https://...","tags":["tag"]}
-Tags: funding, product, regulation, research, acquisition, enterprise.
-Start with [ end with ]. No markdown. JSON only.`
-    }], false);
-
-    const raw = (formatData.content || [])
-      .filter(b => b.type === 'text')
-      .map(b => b.text)
-      .join('')
-      .replace(/```json|```/g, '')
-      .trim();
-
-    const match = raw.match(/\[[\s\S]*\]/);
-    if (!match) throw new Error('No JSON array found');
-
-    const articles = JSON.parse(match[0]);
-    if (!Array.isArray(articles) || !articles.length) throw new Error('Empty list');
-
-    console.log(`✓ Fetched ${articles.length} articles`);
-
-    const data = readData();
-    const dateKey = new Date().toISOString().split('T')[0];
-    data.fetches = data.fetches.filter(f => f.date !== dateKey);
-    data.fetches.unshift({
-      date: dateKey,
-      fetchedAt: new Date().toISOString(),
-      articleCount: articles.length,
-      articles
-    });
-    data.fetches = data.fetches.slice(0, 90);
-    writeData(data);
-    console.log(`✓ Saved. Total days: ${data.fetches.length}`);
-
-  } catch (error) {
-    console.error('Error:', error.response ? JSON.stringify(error.response.data) : error.message);
+  if (!allArticles.length) {
+    console.error('No articles found');
     process.exit(1);
   }
+
+  // Step 2: Tag with Claude Haiku
+  console.log('Tagging articles...');
+  let tags = [];
+  try {
+    tags = await tagArticles(allArticles);
+    console.log(`✓ Tagged ${tags.length} articles`);
+  } catch (e) {
+    console.log('Tagging failed, using defaults:', e.message);
+    tags = allArticles.map((_, i) => ({ index: i + 1, tags: ['enterprise'] }));
+  }
+
+  const tagMap = {};
+  tags.forEach(t => { tagMap[t.index] = t.tags; });
+
+  const finalArticles = allArticles.map((a, i) => ({
+    title: a.title,
+    source: a.source,
+    date: today,
+    summary: a.summary || 'Click to read the full article.',
+    url: a.url,
+    tags: tagMap[i + 1] || ['enterprise']
+  }));
+
+  // Step 3: Save
+  const data = readData();
+  const dateKey = new Date().toISOString().split('T')[0];
+  data.fetches = data.fetches.filter(f => f.date !== dateKey);
+  data.fetches.unshift({
+    date: dateKey,
+    fetchedAt: new Date().toISOString(),
+    articleCount: finalArticles.length,
+    articles: finalArticles
+  });
+  data.fetches = data.fetches.slice(0, 90);
+  writeData(data);
+
+  console.log(`✓ Saved ${finalArticles.length} articles`);
+  console.log(`✓ Total days in history: ${data.fetches.length}`);
+  finalArticles.forEach((a, i) => {
+    console.log(`${i + 1}. [${a.tags.join(', ')}] ${a.title}`);
+  });
 }
 
 fetchNews();
