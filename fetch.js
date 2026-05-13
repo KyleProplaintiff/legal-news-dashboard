@@ -22,10 +22,14 @@ function writeData(data) {
   fs.writeFileSync(DATA_FILE, JSON.stringify(data, null, 2));
 }
 
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 async function callClaude(messages, useSearch) {
   const body = {
     model: 'claude-sonnet-4-5',
-    max_tokens: 8000,
+    max_tokens: 4000,
     messages
   };
   if (useSearch) {
@@ -53,10 +57,10 @@ async function fetchNews() {
   console.log(`Fetching news for ${today}...`);
 
   try {
-    // Step 1: Search for news
+    // Step 1: Search
     const searchData = await callClaude([{
       role: 'user',
-      content: `Search the web for the 20 most recent AI legal tech news articles from the past 48 hours. Focus on: Harvey, Clio, Legora, EvenUp, Spellbook, Ironclad, Luminance, Relativity, Everlaw, CaseText, law firm AI adoption, legaltech funding, contract AI, e-discovery AI, legal AI regulation, AI hallucination court cases. Prioritize sources like Artificial Lawyer, Law360, Legal IT Insider, Legaltech News, Above the Law, Bloomberg Law. Summarize what you find.`
+      content: `Search the web for 15 recent AI legal tech news articles from the past 48 hours. Focus on: Harvey, Clio, Legora, EvenUp, Ironclad, Luminance, Relativity, Everlaw, CaseText, law firm AI, legaltech funding, contract AI, e-discovery AI, legal AI regulation. Sources: Artificial Lawyer, Law360, Legal IT Insider, Legaltech News, Above the Law, Bloomberg Law. Briefly summarize each article you find with title, source, and URL.`
     }], true);
 
     const searchText = (searchData.content || [])
@@ -64,20 +68,20 @@ async function fetchNews() {
       .map(b => b.text)
       .join('\n');
 
-    console.log('Search complete, formatting results...');
+    console.log('Search complete, waiting before formatting...');
+    await sleep(65000); // wait 65 seconds to reset rate limit
 
-    // Step 2: Format into JSON
+    // Step 2: Format
     const formatData = await callClaude([{
       role: 'user',
-      content: `Based on these legal tech news summaries, format them as a JSON array. Today is ${today}.
+      content: `Format these news summaries as a JSON array. Today is ${today}.
 
-${searchText}
+${searchText.slice(0, 8000)}
 
-Return ONLY a valid JSON array with this exact shape for each article:
+Return ONLY a JSON array, each item:
 {"title":"...","source":"...","date":"${today}","summary":"Two sentences.","url":"https://...","tags":["tag"]}
-
-Tags must be from: funding, product, regulation, research, acquisition, enterprise.
-Start your response with [ and end with ]. No markdown, no explanation, JSON only.`
+Tags: funding, product, regulation, research, acquisition, enterprise.
+Start with [ end with ]. No markdown. JSON only.`
     }], false);
 
     const raw = (formatData.content || [])
@@ -88,10 +92,10 @@ Start your response with [ and end with ]. No markdown, no explanation, JSON onl
       .trim();
 
     const match = raw.match(/\[[\s\S]*\]/);
-    if (!match) throw new Error('No JSON array found in format step');
+    if (!match) throw new Error('No JSON array found');
 
     const articles = JSON.parse(match[0]);
-    if (!Array.isArray(articles) || !articles.length) throw new Error('Empty article list');
+    if (!Array.isArray(articles) || !articles.length) throw new Error('Empty list');
 
     console.log(`✓ Fetched ${articles.length} articles`);
 
