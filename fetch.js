@@ -35,7 +35,38 @@ const QUERIES = [
   'contract+AI+OR+ediscovery+AI',
   'legal+AI+regulation+OR+court',
   'Ironclad+OR+Luminance+OR+Everlaw+OR+Relativity+AI',
+  'EvenUp+AI+OR+Spellbook+AI+OR+CaseText',
+  'Thomson+Reuters+AI+OR+LexisNexis+AI+OR+Westlaw+AI',
+  'BigLaw+artificial+intelligence',
+  'legal+AI+hallucination+OR+sanctions',
+  'in-house+counsel+AI+OR+general+counsel+AI',
 ];
+
+// Must match at least one of these to be included
+const REQUIRED_KEYWORDS = [
+  'legal', 'law firm', 'lawyer', 'attorney', 'legaltech', 'legal tech',
+  'harvey', 'clio', 'legora', 'ironclad', 'luminance', 'everlaw', 'relativity',
+  'evenup', 'spellbook', 'casetext', 'lexisnexis', 'westlaw', 'thomson reuters',
+  'e-discovery', 'ediscovery', 'contract ai', 'clm', 'in-house counsel',
+  'general counsel', 'law school', 'biglaw', 'litigation ai', 'legal ops',
+  'court', 'judge', 'lawsuit', 'litigation'
+];
+
+// Must NOT match any of these
+const EXCLUDE_KEYWORDS = [
+  'sports', 'football', 'basketball', 'soccer', 'nfl', 'nba', 'mlb', 'nhl',
+  'celebrity', 'entertainment', 'music', 'movie', 'fashion', 'recipe', 'food',
+  'travel', 'weather', 'stock market', 'crypto', 'bitcoin', 'real estate',
+  'health', 'medical', 'hospital', 'vaccine', 'climate', 'election',
+  'politics', 'president', 'congress', 'senate'
+];
+
+function isRelevant(article) {
+  const text = (article.title + ' ' + article.summary).toLowerCase();
+  const hasRequired = REQUIRED_KEYWORDS.some(k => text.includes(k));
+  const hasExcluded = EXCLUDE_KEYWORDS.some(k => text.includes(k));
+  return hasRequired && !hasExcluded;
+}
 
 async function fetchRSS(query) {
   const url = `https://news.google.com/rss/search?q=${query}&hl=en-US&gl=US&ceid=US:en`;
@@ -50,11 +81,11 @@ async function fetchRSS(query) {
     const parsed = await xml2js.parseStringPromise(response.data);
     const items = parsed?.rss?.channel?.[0]?.item || [];
     return items.map(item => ({
-      title: item.title?.[0] || '',
+      title: item.title?.[0]?.replace(/\s*-\s*[^-]+$/, '').trim() || '',
       url: item.link?.[0] || '',
       source: item.source?.[0]?._ || item.source?.[0] || 'Unknown',
       pubDate: item.pubDate?.[0] || '',
-      summary: item.description?.[0]?.replace(/<[^>]*>/g, '').slice(0, 300) || ''
+      summary: item.description?.[0]?.replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim().slice(0, 200) || ''
     }));
   } catch (e) {
     console.log(`RSS fetch failed for "${query}": ${e.message}`);
@@ -88,19 +119,27 @@ async function tagArticles(articles) {
     `${i + 1}. "${a.title}" — ${a.source}`
   ).join('\n');
 
-  const prompt = `Tag these legal tech news articles. Assign 1-2 tags from: funding, product, regulation, research, acquisition, enterprise.
+  const prompt = `You are tagging legal tech news articles. For each article, assign 1-2 tags based on these rules:
 
+- "funding" = startup funding rounds, venture capital, investment, valuation, Series A/B/C
+- "product" = new product launch, feature release, software update, new tool, beta launch
+- "regulation" = laws, regulations, court rules, AI policy, government, compliance, ethics, sanctions
+- "research" = studies, surveys, reports, analysis, statistics, trends, predictions
+- "acquisition" = mergers, acquisitions, buyouts, partnerships, deals
+- "enterprise" = law firm adoption, in-house legal, BigLaw strategy, legal ops, client work
+
+Articles:
 ${list}
 
-Return ONLY a JSON array:
-[{"index":1,"tags":["product"]},{"index":2,"tags":["funding"]}]
-No markdown, no explanation.`;
+Return ONLY a JSON array, one object per article:
+[{"index":1,"tags":["product"]},{"index":2,"tags":["funding","enterprise"]}]
+No markdown, no explanation. JSON only.`;
 
   const response = await axios.post(
     'https://api.anthropic.com/v1/messages',
     {
       model: 'claude-haiku-4-5-20251001',
-      max_tokens: 1000,
+      max_tokens: 2000,
       messages: [{ role: 'user', content: prompt }]
     },
     {
@@ -144,15 +183,20 @@ async function fetchNews() {
     await sleep(500);
   }
 
+  // Step 2: Deduplicate
   allArticles = deduplicateArticles(allArticles);
-  console.log(`✓ ${allArticles.length} unique articles`);
+  console.log(`✓ ${allArticles.length} unique articles before filtering`);
+
+  // Step 3: Relevance filter
+  allArticles = allArticles.filter(isRelevant);
+  console.log(`✓ ${allArticles.length} articles after relevance filter`);
 
   if (!allArticles.length) {
-    console.error('No articles found');
+    console.error('No relevant articles found');
     process.exit(1);
   }
 
-  // Step 2: Tag with Claude Haiku
+  // Step 4: Tag with Claude Haiku
   console.log('Tagging articles...');
   let tags = [];
   try {
@@ -175,7 +219,7 @@ async function fetchNews() {
     tags: tagMap[i + 1] || ['enterprise']
   }));
 
-  // Step 3: Save
+  // Step 5: Save
   const data = readData();
   const dateKey = new Date().toISOString().split('T')[0];
   data.fetches = data.fetches.filter(f => f.date !== dateKey);
