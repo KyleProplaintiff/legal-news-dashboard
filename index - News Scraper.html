@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Legal Tech Daily</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0d0f0e;
+    --surface: #141614;
+    --surface2: #1a1d1a;
+    --border: #252825;
+    --border2: #2e322e;
+    --text: #e8ece8;
+    --muted: #7a8378;
+    --accent: #a8ff78;
+    --red: #ff6b6b;
+    --amber: #ffc87a;
+    --blue: #78b4ff;
+    --purple: #c4a8ff;
+    --teal: #78ffd6;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* HEADER */
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 64px;
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    z-index: 100;
+  }
+  .logo { display: flex; align-items: baseline; gap: 12px; }
+  .logo h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 26px;
+    letter-spacing: 0.05em;
+    color: var(--text);
+  }
+  .logo .dot { color: var(--accent); }
+  .logo .tag {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    color: var(--muted);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .header-right { display: flex; align-items: center; gap: 16px; }
+  #last-updated {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--muted);
+  }
+  .live-dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--accent);
+    display: inline-block;
+    margin-right: 6px;
+    animation: blink 2s ease-in-out infinite;
+  }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.3} }
+
+  /* STATS */
+  .stats-bar {
+    display: flex;
+    border-bottom: 1px solid var(--border);
+    padding: 0 2rem;
+    overflow-x: auto;
+  }
+  .stat-item {
+    padding: 14px 28px 14px 0;
+    margin-right: 28px;
+    border-right: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+  .stat-item:last-child { border-right: none; }
+  .stat-num {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 28px;
+    color: var(--accent);
+    line-height: 1;
+  }
+  .stat-lbl {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-top: 2px;
+  }
+
+  /* DATE TABS */
+  .date-tabs {
+    display: flex;
+    gap: 6px;
+    padding: 12px 2rem;
+    border-bottom: 1px solid var(--border);
+    overflow-x: auto;
+  }
+  .date-tab {
+    padding: 5px 14px;
+    border-radius: 3px;
+    border: 1px solid var(--border2);
+    background: transparent;
+    color: var(--muted);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    cursor: pointer;
+    transition: all 0.12s;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .date-tab:hover { border-color: var(--text); color: var(--text); }
+  .date-tab.active { background: var(--accent); color: #0d0f0e; border-color: var(--accent); }
+
+  /* TOOLBAR */
+  .toolbar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 2rem;
+    border-bottom: 1px solid var(--border);
+    flex-wrap: wrap;
+  }
+  .search-wrap { position: relative; flex: 1; min-width: 200px; max-width: 360px; }
+  .search-wrap svg {
+    position: absolute; left: 10px; top: 50%;
+    transform: translateY(-50%);
+    color: var(--muted); pointer-events: none;
+  }
+  .search-input {
+    width: 100%;
+    background: var(--surface2);
+    border: 1px solid var(--border2);
+    border-radius: 4px;
+    padding: 7px 12px 7px 34px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 13px;
+    color: var(--text);
+    outline: none;
+    transition: border-color 0.15s;
+  }
+  .search-input::placeholder { color: var(--muted); }
+  .search-input:focus { border-color: var(--accent); }
+
+  .filters { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tag-btn {
+    padding: 5px 13px;
+    border-radius: 3px;
+    border: 1px solid var(--border2);
+    background: transparent;
+    color: var(--muted);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    transition: all 0.12s;
+  }
+  .tag-btn:hover { border-color: var(--text); color: var(--text); }
+  .tag-btn.active { background: var(--accent); color: #0d0f0e; border-color: var(--accent); }
+
+  .sort-select {
+    background: var(--surface2);
+    border: 1px solid var(--border2);
+    border-radius: 4px;
+    padding: 7px 10px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--muted);
+    outline: none;
+    cursor: pointer;
+    margin-left: auto;
+  }
+
+  /* GRID */
+  .grid-container { padding: 1.5rem 2rem 3rem; }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 14px;
+  }
+
+  /* CARD */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 1.1rem 1.2rem;
+    cursor: pointer;
+    transition: border-color 0.15s, transform 0.15s;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    text-decoration: none;
+    color: inherit;
+    animation: fadeIn 0.3s ease both;
+  }
+  .card:hover { border-color: var(--border2); transform: translateY(-2px); }
+  @keyframes fadeIn { from { opacity:0; transform:translateY(6px); } to { opacity:1; transform:translateY(0); } }
+
+  .card-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; }
+  .card-source {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .card-date { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--muted); }
+  .card-title { font-size: 15px; font-weight: 500; color: var(--text); line-height: 1.4; }
+  .card-summary { font-size: 13px; color: var(--muted); line-height: 1.6; flex: 1; }
+  .card-footer { display: flex; align-items: center; justify-content: space-between; margin-top: 4px; }
+  .card-tags { display: flex; gap: 5px; flex-wrap: wrap; }
+  .ctag {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    padding: 2px 8px;
+    border-radius: 2px;
+    text-transform: lowercase;
+    letter-spacing: 0.04em;
+  }
+  .t-funding    { background:rgba(168,255,120,0.12); color:#a8ff78; border:1px solid rgba(168,255,120,0.25); }
+  .t-product    { background:rgba(120,180,255,0.12); color:#78b4ff; border:1px solid rgba(120,180,255,0.25); }
+  .t-regulation { background:rgba(255,200,122,0.12); color:#ffc87a; border:1px solid rgba(255,200,122,0.25); }
+  .t-research   { background:rgba(196,168,255,0.12); color:#c4a8ff; border:1px solid rgba(196,168,255,0.25); }
+  .t-acquisition{ background:rgba(255,107,107,0.12); color:#ff6b6b; border:1px solid rgba(255,107,107,0.25); }
+  .t-enterprise { background:rgba(120,255,214,0.12); color:#78ffd6; border:1px solid rgba(120,255,214,0.25); }
+  .read-link {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    color: var(--muted);
+    text-decoration: none;
+    transition: color 0.12s;
+    flex-shrink: 0;
+  }
+  .read-link:hover { color: var(--accent); }
+
+  /* STATES */
+  .state-panel {
+    grid-column: 1 / -1;
+    padding: 4rem 1rem;
+    text-align: center;
+    color: var(--muted);
+  }
+  .state-panel .big {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 48px;
+    color: var(--border2);
+    margin-bottom: 12px;
+  }
+  .state-panel p { font-size: 13px; line-height: 1.8; }
+  .skeleton {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 1.1rem 1.2rem;
+    animation: shimmer 1.4s ease-in-out infinite;
+  }
+  .sk-line { background: var(--surface2); border-radius: 3px; margin-bottom: 8px; }
+  @keyframes shimmer { 0%,100%{opacity:1} 50%{opacity:0.4} }
+
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <h1>AI Legal Tech<span class="dot">.</span>Daily</h1>
+    <span class="tag">Internal Dashboard</span>
+  </div>
+  <div class="header-right">
+    <span id="last-updated"><span class="live-dot"></span>Loading…</span>
+  </div>
+</header>
+
+<div class="stats-bar">
+  <div class="stat-item"><div class="stat-num" id="s-articles">—</div><div class="stat-lbl">Today's Articles</div></div>
+  <div class="stat-item"><div class="stat-num" id="s-sources">—</div><div class="stat-lbl">Sources</div></div>
+  <div class="stat-item"><div class="stat-num" id="s-topics">—</div><div class="stat-lbl">Topics</div></div>
+  <div class="stat-item"><div class="stat-num" id="s-days">—</div><div class="stat-lbl">Days of History</div></div>
+</div>
+
+<div class="date-tabs" id="date-tabs"></div>
+
+<div class="toolbar">
+  <div class="search-wrap">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+    <input class="search-input" type="text" id="search" placeholder="Search articles, sources, topics…" oninput="render()">
+  </div>
+  <div class="filters">
+    <button class="tag-btn active" data-tag="all" onclick="setTag(this)">all</button>
+    <button class="tag-btn" data-tag="funding" onclick="setTag(this)">funding</button>
+    <button class="tag-btn" data-tag="product" onclick="setTag(this)">product</button>
+    <button class="tag-btn" data-tag="regulation" onclick="setTag(this)">regulation</button>
+    <button class="tag-btn" data-tag="research" onclick="setTag(this)">research</button>
+    <button class="tag-btn" data-tag="acquisition" onclick="setTag(this)">m&a</button>
+    <button class="tag-btn" data-tag="enterprise" onclick="setTag(this)">enterprise</button>
+  </div>
+  <select class="sort-select" id="sort-select" onchange="render()">
+    <option value="date">Sort: Latest first</option>
+    <option value="source">Sort: By source</option>
+    <option value="tag">Sort: By category</option>
+  </select>
+</div>
+
+<div class="grid-container">
+  <div class="grid" id="grid">
+    <div class="state-panel">
+      <div class="big">LOADING</div>
+      <p>Fetching latest articles…</p>
+    </div>
+  </div>
+</div>
+
+<script>
+  // ── CONFIG ──────────────────────────────────────────────────────────────────
+  // Replace with your GitHub username and repo name
+  const GITHUB_USER = 'KyleProplaintiff';
+  const GITHUB_REPO = 'legal-news-dashboard';
+  const DATA_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/data/articles.json`;
+
+  let allFetches = [];
+  let currentArticles = [];
+  let activeTag = 'all';
+  let activeDate = null;
+
+  // ── INIT ────────────────────────────────────────────────────────────────────
+  async function init() {
+    showSkeletons();
+    try {
+      const res = await fetch(DATA_URL + '?t=' + Date.now());
+      if (!res.ok) throw new Error('Could not load articles.json — has the workflow run yet?');
+      const data = await res.json();
+      allFetches = data.fetches || [];
+
+      if (!allFetches.length) {
+        showEmpty('No articles yet — the workflow needs to run first.');
+        return;
+      }
+
+      buildDateTabs();
+      selectDate(allFetches[0].date);
+    } catch(e) {
+      document.getElementById('grid').innerHTML = `
+        <div class="state-panel">
+          <div class="big">WAITING</div>
+          <p>${e.message}</p>
+          <p style="margin-top:12px;font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--border2);">
+            Go to GitHub Actions and run the workflow manually to fetch your first batch of articles.
+          </p>
+        </div>`;
+      document.getElementById('last-updated').innerHTML = '<span class="live-dot" style="background:var(--amber)"></span>No data yet';
+    }
+  }
+
+  // ── DATE TABS ───────────────────────────────────────────────────────────────
+  function buildDateTabs() {
+    const container = document.getElementById('date-tabs');
+    container.innerHTML = allFetches.map((f, i) => {
+      const d = new Date(f.date + 'T12:00:00');
+      const label = i === 0 ? 'Today' : d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+      return `<button class="date-tab${i===0?' active':''}" data-date="${f.date}" onclick="selectDate('${f.date}', this)">${label} <span style="opacity:0.5;margin-left:4px;">${f.articleCount}</span></button>`;
+    }).join('');
+    document.getElementById('s-days').textContent = allFetches.length;
+  }
+
+  function selectDate(date, el) {
+    activeDate = date;
+    document.querySelectorAll('.date-tab').forEach(t => t.classList.remove('active'));
+    if (el) el.classList.add('active');
+    else {
+      const tab = document.querySelector(`[data-date="${date}"]`);
+      if (tab) tab.classList.add('active');
+    }
+    const fetch = allFetches.find(f => f.date === date);
+    currentArticles = fetch ? fetch.articles : [];
+
+    const fetchedAt = fetch ? new Date(fetch.fetchedAt).toLocaleString('en-US', { month:'short', day:'numeric', hour:'2-digit', minute:'2-digit' }) : '';
+    document.getElementById('last-updated').innerHTML = `<span class="live-dot"></span>Fetched ${fetchedAt}`;
+    document.getElementById('s-articles').textContent = currentArticles.length;
+    document.getElementById('s-sources').textContent = new Set(currentArticles.map(a=>a.source)).size;
+    document.getElementById('s-topics').textContent = new Set(currentArticles.flatMap(a=>a.tags||[])).size;
+
+    render();
+  }
+
+  // ── FILTERS ─────────────────────────────────────────────────────────────────
+  function setTag(el) {
+    activeTag = el.dataset.tag;
+    document.querySelectorAll('.tag-btn').forEach(b => b.classList.remove('active'));
+    el.classList.add('active');
+    render();
+  }
+
+  // ── RENDER ───────────────────────────────────────────────────────────────────
+  function render() {
+    const query = (document.getElementById('search').value || '').toLowerCase();
+    const sortBy = document.getElementById('sort-select').value;
+    const grid = document.getElementById('grid');
+
+    let filtered = [...currentArticles];
+    if (activeTag !== 'all') filtered = filtered.filter(a => (a.tags||[]).includes(activeTag));
+    if (query) filtered = filtered.filter(a =>
+      (a.title||'').toLowerCase().includes(query) ||
+      (a.summary||'').toLowerCase().includes(query) ||
+      (a.source||'').toLowerCase().includes(query)
+    );
+    if (sortBy === 'source') filtered.sort((a,b) => (a.source||'').localeCompare(b.source||''));
+    else if (sortBy === 'tag') filtered.sort((a,b) => ((a.tags||[])[0]||'').localeCompare((b.tags||[])[0]||''));
+
+    if (!filtered.length) {
+      grid.innerHTML = `<div class="state-panel"><div class="big">NONE</div><p>No articles match your filter.</p></div>`;
+      return;
+    }
+
+    grid.innerHTML = filtered.map((a, i) => `
+      <a class="card" href="${a.url||'#'}" target="_blank" rel="noopener" style="animation-delay:${i*0.03}s">
+        <div class="card-top">
+          <span class="card-source">${a.source||''}</span>
+          <span class="card-date">${a.date||''}</span>
+        </div>
+        <div class="card-title">${a.title||''}</div>
+        <div class="card-summary">${a.summary||''}</div>
+        <div class="card-footer">
+          <div class="card-tags">${(a.tags||[]).map(t=>`<span class="ctag t-${t}">${t}</span>`).join('')}</div>
+          <span class="read-link">READ →</span>
+        </div>
+      </a>
+    `).join('');
+  }
+
+  function showSkeletons() {
+    document.getElementById('grid').innerHTML = Array(9).fill(`
+      <div class="skeleton">
+        <div class="sk-line" style="height:10px;width:40%;"></div>
+        <div class="sk-line" style="height:16px;width:90%;margin-top:10px;"></div>
+        <div class="sk-line" style="height:16px;width:75%;"></div>
+        <div class="sk-line" style="height:12px;width:100%;margin-top:8px;"></div>
+        <div class="sk-line" style="height:12px;width:85%;"></div>
+      </div>`).join('');
+  }
+
+  function showEmpty(msg) {
+    document.getElementById('grid').innerHTML = `<div class="state-panel"><div class="big">EMPTY</div><p>${msg}</p></div>`;
+  }
+
+  init();
+</script>
+</body>
+</html>
