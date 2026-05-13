@@ -45,7 +45,7 @@ async function fetchNews() {
   const prompt = `Today is ${today}. You are a legal tech news analyst. Perform multiple web searches to find the 25 most important and recent AI legal tech news articles from the past 48-72 hours.
 
 Search specifically for news about:
-- Legal AI startups: Harvey, Clio, Legora, EvenUp, Spellbook, Ironclad, Luminance, Relativity, Everlaw, CaseText, Lexis+ AI, Westlaw AI
+- Legal AI startups: Harvey, Clio, Legora, EvenUp, Spellbook, Ironclad, Luminance, Relativity, Everlaw, CaseText, Lexis+ AI, Westlaw AI, Eve, Novo, Finch
 - Law firm AI adoption and strategy announcements
 - Legal AI product launches and updates
 - Legaltech startup funding rounds and acquisitions
@@ -67,7 +67,7 @@ Tags must be one or more from: funding, product, regulation, research, acquisiti
     const response = await axios.post(
       'https://api.anthropic.com/v1/messages',
       {
-        model: 'claude-sonnet-4-20250514',
+        model: 'claude-sonnet-4-5',
         max_tokens: 8000,
         tools: [{ type: 'web_search_20250305', name: 'web_search' }],
         messages: [{ role: 'user', content: prompt }]
@@ -92,14 +92,11 @@ Tags must be one or more from: funding, product, regulation, research, acquisiti
 
     console.log(`✓ Fetched ${articles.length} articles`);
 
-    // Save to persistent storage
     const data = readData();
     const dateKey = getTodayKey();
 
-    // Remove existing entry for today if re-running
     data.fetches = data.fetches.filter(f => f.date !== dateKey);
 
-    // Add today's fetch at the top
     data.fetches.unshift({
       date: dateKey,
       fetchedAt: new Date().toISOString(),
@@ -107,14 +104,12 @@ Tags must be one or more from: funding, product, regulation, research, acquisiti
       articles: articles
     });
 
-    // Keep last 90 days of history
     data.fetches = data.fetches.slice(0, 90);
 
     writeData(data);
     console.log(`✓ Saved to ${DATA_FILE}`);
     console.log(`✓ Total days in history: ${data.fetches.length}`);
 
-    // Print summary to console
     console.log('\n--- TODAY\'S ARTICLES ---');
     articles.forEach((a, i) => {
       console.log(`${i + 1}. [${(a.tags || []).join(', ')}] ${a.title} — ${a.source}`);
