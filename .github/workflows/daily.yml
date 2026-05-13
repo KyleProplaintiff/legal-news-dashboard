@@ -1,0 +1,40 @@
+name: Daily Legal Tech News Fetch
+
+on:
+  schedule:
+    # 9am US Pacific Time (17:00 UTC)
+    - cron: '0 17 * * 1-5'
+  workflow_dispatch:
+    # This allows you to manually trigger a fetch anytime from GitHub
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch today's news
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node fetch.js
+
+      - name: Commit and push updated articles
+        run: |
+          git config --global user.name 'Legal News Bot'
+          git config --global user.email 'bot@legal-news'
+          git add data/articles.json
+          git diff --staged --quiet || git commit -m "📰 Daily news fetch $(date +'%Y-%m-%d')"
+          git push
