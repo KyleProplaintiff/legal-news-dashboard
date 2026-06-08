@@ -1,6 +1,112 @@
 {
   "fetches": [
     {
+      "date": "2026-06-08",
+      "fetchedAt": "2026-06-08T19:20:03.676Z",
+      "articleCount": 9,
+      "articles": [
+        {
+          "title": "Kirkland co-builds AI platform with tech firm Palantir",
+          "source": "The Global Legal Post",
+          "date": "June 8, 2026",
+          "summary": "Kirkland co-builds AI platform with tech firm Palantir&nbsp;&nbsp;The Global Legal Post",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWpJN0xJN1N1dnJaZXUwS2h5M2ktX3BxX2ptbmItXzVZRmQ5RTFpZWdCaFhwQzNQWDVQOWtfVU90c2JIcHRvZXlWMWZZUjRsRGJrT3B4ckFjRGkzaTBkdzdBUlJPdkQ4c1R1X29ieFA5ZVRTZkMwRnVBWUduMW9mTzMzTFRWX0k4Q1hYMDI4ajU5NUNzS255STgtbGRZTjI3MjZj?oc=5",
+          "tags": [
+            "acquisition"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "How to Use AI as a Lawyer: The Workflows, Risks, and Rules",
+          "source": "Harvey",
+          "date": "June 8, 2026",
+          "summary": "How to Use AI as a Lawyer: The Workflows, Risks, and Rules&nbsp;&nbsp;Harvey",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIVGZaTjlvUjlCcXV4cDRlcnR2WkVNMEZscGJ6WXhja2tZZGF0SXZFZHJ2WGdkRFU2SU1EX2d2ZWFOTHQ5cmhmMXNwUGc5T3ZkVExtdXdaZEc0bEo3c3l1bmd3?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Deloitte and Ironclad Form Strategic Alliance to Expand Agentic Contract Lifecycle Management Capabilities",
+          "source": "PR Newswire",
+          "date": "June 8, 2026",
+          "summary": "Deloitte and Ironclad Form Strategic Alliance to Expand Agentic Contract Lifecycle Management Capabilities&nbsp;&nbsp;PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTXVuckVLMzJPQkFrS3VPTU1ndjVwS2dOVEd3UTRnZTQxeUhNN09rdUlaWTBzMlJnR0ZTY2RNc19IdjNtMWUwUkhCQXpmc1lFWG9VRmE2RGpjMWE5dlAydWtCSmNDSVB6VzloeDlUZ2Y2M0ViOGtKVnRIdDhMVENuci13T2lLeEhWdnlqZDRLMDhFczhiZFY1aHVNVExnc3BoXzM3bFY1UUFGR3BnVWxsaEl1LU5BV1J1aGVseUZwd3NncWt0UWNhczJ4QkZOU1lXSUZKamlBMVNxR2gtZEdiN2lvVURjb2hYNDBFM1Zzc1BmblBY?oc=5",
+          "tags": [
+            "acquisition"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Artificial Intelligence in Litigation: A Tool, Not a Witness",
+          "source": "Law.com",
+          "date": "June 8, 2026",
+          "summary": "Artificial Intelligence in Litigation: A Tool, Not a Witness&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX3RUbS1XM3ExZzExWkw0WjB2Qm5DdVpKRTZaUWkxbGhVcnJLQ3lqYVFmbFh0S1RQMmsyWERhdUNvY29GQVNDWjJyY2RPRWg5MW1mRks1ZXdfa1R3bWZGTHhWcURwLXpmaVRnYmwwcWdiN29XWW0xYmc0V2ZZcEs1bTNmVVNacVQxYlRXV2NZNWVkYUR2aV9JWEtMdWFITzdkcFhrcnpEMXZkNm9yNmxoMjFn?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Law Firms Capitalize on Internal Data to Stand Out in AI Age",
+          "source": "Bloomberg Law News",
+          "date": "June 8, 2026",
+          "summary": "Law Firms Capitalize on Internal Data to Stand Out in AI Age&nbsp;&nbsp;Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWI4aUJXX3ZwTkJwUGJDeTFWV19iSTROMFVVY2NxVk5odDdjUmJnaWgzZVhKSGo1RGRxVFRST1lFR1FkNE4xMjJDb2dac1RTM2YxY2szNWlRdG90ZDN1WERENXV4MVVneFA5N2hRcWZiYUNwMmhpWG1TNy1SVkZCa294aHJENG9Jb2VxTm8ydE9tMFJWeXhJNS1OZkxkTmlUM0RZWmRKdUZLWDdXQXdUZXVn?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "NUS Law advances AI-enabled legal education with Harvey and Lucio partnerships - NUS",
+          "source": "NUS - National University of Singapore",
+          "date": "June 8, 2026",
+          "summary": "NUS Law advances AI-enabled legal education with Harvey and Lucio partnerships&nbsp;&nbsp;NUS - National University of Singapore",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuMTg0bWs0UUZJM1NqMjVVZGRvcHJpcFphZnJfOFJGTElYdkhVOXNiR2VJNVlGbGg2YUpuVFY0ODd3cEd3OTJjYmZyemZvSXRMOUpWamF1RXlTZHlnbVZ4OC0ta1B5S0NQS3dCelh0OTV3MFF0Y0dZ?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "The Most Important Tool for AI Savvy Lawyers? It’s the Right Mindset",
+          "source": "Law.com",
+          "date": "June 8, 2026",
+          "summary": "The Most Important Tool for AI Savvy Lawyers? It’s the Right Mindset&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM1dCSmJESXZ4MlVCMlVaa1FQMVdENmxubk00a0Q2UnRzLW1UdXlrODF0ZUZNekQ2RzhWV3RIdjhiWnpKYzZ2RFZQaHJUYzlmOVBkV1BYZG1SblNlMjlTcnVsR0tzSUhsQ2hTUEtQdGtsRnc3Sml2dEIxY3N3OXVidERZY1Rmc1NmVm9OWG1NSF9vMmU0LWgycEhqc2NoczA?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Supreme Court issues warning on AI use: What the decision means for AI in litigation proceedings",
+          "source": "MinterEllisonRuddWatts",
+          "date": "June 8, 2026",
+          "summary": "Supreme Court issues warning on AI use: What the decision means for AI in litigation proceedings&nbsp;&nbsp;MinterEllisonRuddWatts",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSVUtdFdJUElGQy16UGlWMUFUNzdFYlVVLUNZWFZhc1BHN0t5UTN2TVNDOVFiOHR5YmNKWXJPRnVqbS13MzhpM01UbnAyaFd2VG1hcTk5LW5yNUs3YUlLbFZWMUlmQWliTnE3cV9pcVJhWTc0QklEcXNmUmFMNDN0a1dnYkwyMFlDN1dGcG9xZWdPYW95T0E?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Senate Committee Votes on Court Transparency and AI Protections",
+          "source": "Legis1",
+          "date": "June 8, 2026",
+          "summary": "Senate Committee Votes on Court Transparency and AI Protections&nbsp;&nbsp;Legis1",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqM1AwRW5ZSkVPaWZkMkplbEZqNmxFZF9FY0pUT1VsRTZlZ1lXeTR1NEFNTmNLUHJSelhyeWR1M3RWR09NZFV4aHFXQUxtV0R5NFNEZVRFbjFxbTMzUDZ5NXl2enFXdkNFejlxdFc1enRyUQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        }
+      ]
+    },
+    {
       "date": "2026-06-05",
       "fetchedAt": "2026-06-05T18:56:45.000Z",
       "articleCount": 47,
