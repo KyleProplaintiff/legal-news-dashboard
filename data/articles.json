@@ -1,6 +1,157 @@
 {
   "fetches": [
     {
+      "date": "2026-06-29",
+      "fetchedAt": "2026-06-29T19:02:39.701Z",
+      "articleCount": 13,
+      "articles": [
+        {
+          "title": "Your Legal AI Tools Are Probably Under-Governed",
+          "source": "Law.com",
+          "date": "June 29, 2026",
+          "summary": "Your Legal AI Tools Are Probably Under-Governed&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbFI0ZGd0NC10d1RPc2pQbHZWeGJ0clJEM0pzUHdxZW40c3RQdHl6Q2N6SXpyWEFjeVYxdUZEY3J2M1JaTzZIMVkzeVVtLVFVMjNKLTgtVjNJUXNyRnl6Z2o3NmVuWEpxNzNxQ2lkSzVERHV2Wkd2QkROX1VEaG9QUXJ2eEh6YmRiV216b3NuZ1pXMlBmWVhXRmpn?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Kirkland Advances AI Strategy to Litigation With Syllo Tie-Up",
+          "source": "Bloomberg Law News",
+          "date": "June 29, 2026",
+          "summary": "Kirkland Advances AI Strategy to Litigation With Syllo Tie-Up&nbsp;&nbsp;Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2V4cVUwYzYzYmR6bFkyY01ZblVFbWRaeUw1dU40NmlmbHBjenR3bjhGaFdGVG1ZWXdka2VKQms0VmQ0d0lSYWd0VklNX3Y2MW0xSDliakFNdkExN0JmUGM1YXFVZkZDTXR1RU9reVVnREFCLWU4a21rbllnOGhYZERIaHRsMHV4NEV5NlNJbVppWl9pZGZMdnRGR3pVeGVoNjJrNmFMWHdwSER2OVRwVFJEdw?oc=5",
+          "tags": [
+            "enterprise",
+            "acquisition"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "UK law firm Shoosmiths unveils proprietary gen AI contract review tool Project Apollo",
+          "source": "The Global Legal Post",
+          "date": "June 29, 2026",
+          "summary": "UK law firm Shoosmiths unveils proprietary gen AI contract review tool Project Apollo&nbsp;&nbsp;The Global Legal Post",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZTNLd1VCN3VxR1dCZ1ZDakRlWVFaTUdBb1R1WW1OdnctUlJsWVJ5czZ1NFR3VUg3Ym9hQ1QyMUtuX0ZxX2ZMMkNlM1pSVWlRellzeVBwemVfYWd6YmJuLVdsOUFuR0JwRkdlX254bHJWRFlKbWRHYllxN19QX29TeGE5Z0YxRUhoUllZWGlVRFRCLUxGZWFPeFBTQlF6OWxhQmM0MUxvd3VqNkdlbk84ejhGcHF2cnNsczZFek5JOWpGT3dQT1FqQmtsUFk?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Perplexity Launches Legal AI Platform: 20-Model Agent Targets Law Firm Workflows Above Westlaw",
+          "source": "Tech Times",
+          "date": "June 29, 2026",
+          "summary": "Perplexity Launches Legal AI Platform: 20-Model Agent Targets Law Firm Workflows Above Westlaw&nbsp;&nbsp;Tech Times",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc2F2MWF2ZC1oaUlobGFxVFVnTnZkZTJlSjBTMktEckJfeXFhclZscnF5Q0EzY2pkck9mQlRCMl9yV2Zib0VyV1o0ZlQ4Smk1ODhqN2lnb3htNjZJVkN0UzltOFBwdTh6ZHhONUw5VUlGQzZnWjBabWhKeGFqcDlqT3FFeXpyai1nNGFqbVVoNE5zbGx6dWlQLU04aXM4TEt5NVVEcnJFUV9KRUxYTWxieElnZ3FXb0VIbXc5bWxLZTkwSUFkcThKMGlvTlNva0VLdktXcW1Xd0dLT05TUzhjYlB3?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Legal AI And The ‘New And Improved Detergent’ Problem",
+          "source": "Above the Law",
+          "date": "June 29, 2026",
+          "summary": "Legal AI And The ‘New And Improved Detergent’ Problem&nbsp;&nbsp;Above the Law",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTUd6M2dFZktDVnM4dVA3QVNKczNMV0ZVTGpjV29ZZEhWQVlTcHg3OEQwQ1p0bGRQcThLdWZSV2FIbkU3ZzM2VENXb0pZN0V4bWN4OWhwQ1JQNGw5X1BJQ2M5QzNRbUNJcTJsdTBqYUc5SThvcjFfS091VWc0QnhWVV82SnlNTlJzcXBybQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Legal AI Is Only as Smart as the System Behind It",
+          "source": "Law.com",
+          "date": "June 29, 2026",
+          "summary": "Legal AI Is Only as Smart as the System Behind It&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmo4LXRodHR1MVI5YmVnWGM5NkhUWVZrNXRYZEhsT3RrcHRJTHJxaHEtQkRheVNQUl9nWXI1dFAzVlJNMG5aVmhXVDRBZjZyNkc2Q2wyWER5V1VFaXkzSzVSZVFpM2hGTklCZkNoRHRiUkRDZzY5eGIwU3FSU2ZoZ3ZWeGViWG5rcENPYXZSeUh5WmY1cUJWTg?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Scale Law Firm AI Appoints Tima Mousavi to Lead AI Education and Training for Lawyers",
+          "source": "Morningstar",
+          "date": "June 29, 2026",
+          "summary": "Scale Law Firm AI Appoints Tima Mousavi to Lead AI Education and Training for Lawyers&nbsp;&nbsp;Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdGJhcDVZS2Z4czI1SERNZjZ5em1nMEpwSlFtNjRZMklmX05aQlpzZTB3MENsUzMyR29QN1ZnYXRzNE1sS3dWd0VQeUxNa2FaREhQeUQ3RndobmN0Z1ZiWng3UEVoWE5HVEs4Z0JXMHAzOGNnWnlxdUp4aEZNaGZwaGRVZHA3bFp4cGlaLWk4WUZhSDU2cXJEanFEXzBBVDNFMnBicHpMQXBvb0RtdDdSSHMxSUpmUU9LYkJtdlBWU2R4c0F5ZmpOTF9LWkhZOW5KWlJRZjJJRQ?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Tracking Big Tech’s Move Into the Legal Market",
+          "source": "Law.com",
+          "date": "June 29, 2026",
+          "summary": "Tracking Big Tech’s Move Into the Legal Market&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZUlfUUdlcjJ2R3drUjg3TTlVZ0pmd28xdFJvbzgtRnNERldqS3JId3VGNmFQYVNEcE5sdDc0d09UYmpWY3V1TnM0YW53OXlSZW5UZ0xFU0ZnYk9QZi1fYzZlSjNYYVhNQUdKTzJwXzhXMDVxSFVEcHl6dzJMWHlEeEo3YVo3dVFhMzdTam16a1MwR3BvQ2Nv?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Legal Lens: Is Your AI Conversation Really Private?",
+          "source": "FOX 2",
+          "date": "June 29, 2026",
+          "summary": "Legal Lens: Is Your AI Conversation Really Private?&nbsp;&nbsp;FOX 2",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQem1tc0xXYThqX3dKUWpqUmJ5TG9FMHk5SHdBZTRZYk9kalNXUm5BWms0Tm1yaVJ1cExKT25FRVJpWjBiSXBhVzhmS2hKR2hBYmNGYmhLRW1DeFpMTG5neDc3aWItZFl1REhxd0hMakY4MnZOZVg4bTlHSGlwYW54enF2VzA1Wmt10gGOAUFVX3lxTE5wdnFjcmxBcnFIN1FnaXFnbmYzckQ0UEhEWVBCRGRIeHpOV1RiQlRzOFZMenFxckE2TUVEX3l4a2Y1Z3ItdS1yVWllYnNTbzdmb0lFNTNTNnVfZGkyRnVwekhrRlVodzhyQ1BTdjlzWWFQcnlLNmN5VGxKQ3M3b1hTbmJ0Vjk4Mmd4cEFxVFE?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Supreme Court extends consultation on AI rules for courts: What the draft proposes",
+          "source": "theweek.in",
+          "date": "June 29, 2026",
+          "summary": "Supreme Court extends consultation on AI rules for courts: What the draft proposes&nbsp;&nbsp;theweek.in",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa1J0VUJlZExHaGxTZDhRRThRSUxzam9GaXJMUFVtTHVVd2h1b205M09Wa053WHBDUTZydXgtYUJSdk9fUHBaYTZ1YWRuMGtFUDNGLV84aHMtTkJyc2dTT2E1cGFNVFB3RjRsRkl3MjVmM2puNk56bnRBRWwwZGFJZmV2eVVXaGRxWGhUek9QRGhrbmdiSE91Z0hkU1A1ZHMxbHRuZDR4LWQ4dHRET2liX0FEWEktZnJBUzZ6WlprbDR2bVBSVG12ejllRdIB0AFBVV95cUxPZUlyX2RJZnY1eXJ5OUJxLXQwN1FlWDl5VENzdVVSYm9YRlBreFJnVlFnQlpYOHZybFpHWGM5aHZHdGJHMVdyS3g1bFRTd2VHZ3dEUU9TYU83d1cxblptajNTZmhTMmhlVldjLTZGelcyeWVPdkhIVnoydEZqczF1M3FRODlJdFBNWjRmNHc2WlkwNUhaeFFCQnVpOE5WQ1BOVlZWeTh5M1o4Z0FOdjNoTVBGVFd1bnhkQXR4RnVPbEtHNFZ4Z1lBTkxwOVhFQ2xK?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "The intersection of legal expertise and AI development",
+          "source": "Thomson Reuters Legal Solutions",
+          "date": "June 29, 2026",
+          "summary": "The intersection of legal expertise and AI development&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnRWMk9NOUFTR1lrdDNNQ3NlT1ZIdm5pWDJTZzRfWl9zSmN6RzU2NERkQjJZSVpFMy01SlpacTBvNVU1dzdnVHNZTWhGWlVIdFdvNEItNG9MTDdCckxraGdZMXZKeFR6MW5Rd3lOVm5GVjBTOGZwUEstUGo5UHlTeFdWZDdpdWhxZm91VnluS1Rqcm53RThJeXoycWRTRXVhVkZLdi1DbVlyekktUG9KLTd5YUo?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Seoul court issues first AI-assisted ‘easy-read’ ruling",
+          "source": "The Korea Herald",
+          "date": "June 29, 2026",
+          "summary": "Seoul court issues first AI-assisted ‘easy-read’ ruling&nbsp;&nbsp;The Korea Herald",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvUlVVRXN3bU9hWWJZRzRoTXQtWlg4alRacjBJeXR2cmYzeXJ5amJkTnNxanJDbGxjZVRwV1NYZ1NsWFU4RS1qNjJFUnpfMGlhZENFT1NMOA?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "From automation to autonomy: Agentic AI for government",
+          "source": "Thomson Reuters Legal Solutions",
+          "date": "June 29, 2026",
+          "summary": "From automation to autonomy: Agentic AI for government&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQanQ1VkdOQ2d3dTZrT1lGU2dnd0hXazFyU1lvajkyaVdQLTRBaHpWaV9yZUZMUExHT1AtRVM1VUdaRjJlc1lhNlNvdjRrRG4taWNXS191c3NUbm0tbHRzWkFGdXFBZzRwR2lLdkVUelBpbmZqbFltU1Z4ZHRCbUVLWG5MeWlWRFlocFVPLWJHLTVVeVNhcFlwMlZqbVJDUXRyTlp3QzRkb2I3ZXBJV0Jr?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 5
+        }
+      ]
+    },
+    {
       "date": "2026-06-26",
       "fetchedAt": "2026-06-26T18:28:04.899Z",
       "articleCount": 36,
