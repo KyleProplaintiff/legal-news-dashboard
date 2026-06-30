@@ -1,6 +1,211 @@
 {
   "fetches": [
     {
+      "date": "2026-06-30",
+      "fetchedAt": "2026-06-30T18:54:16.668Z",
+      "articleCount": 18,
+      "articles": [
+        {
+          "title": "Scale Law Firm AI Appoints Tima Mousavi To Lead AI Education And Training For Lawyers",
+          "source": "Pulse 2.0",
+          "date": "June 30, 2026",
+          "summary": "Scale Law Firm AI Appoints Tima Mousavi To Lead AI Education And Training For Lawyers&nbsp;&nbsp;Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmlMX3N0TVVRaU5McE9nTzEzMUxyaFNHbXdELUFWYVpFOVIwbV9MbTExN2RwckdLaW82cjJWVURiRHdmM2pDcktkdThwT0NFWnNTZzByYWdLRDNQaDUxQURmb3JZZlJOYl8yR2hKaXhVNTRnLThNLWRIOTNoQjJscW13LWRlZXZJUFlJYUN3bXVaLXFTVll0MGgwRS1yQ0EzZm04VUtSZGjSAa4BQVVfeXFMUGFMSzRucmhhdHdSRXR6NllCX2xHUmVzWEZsT21pSl9RaEVxUDhreW9fdE5RLXNPdmtxTTFFYkVJc09rLU5SbVVyeWF4V29jSjM4QVVwRnlZaFhzVG5xejBQUmJiODNXVW1YUzI5WlpESENuVktBdzRMY3Z1RWRNYU1ySFVGb0NqajkyaFlHU3BfZDdnMlVaMFhTNk02V2pyWV9sdjF1Y3ljMl9HbGR3?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Scott Stevenson Interview: Spellbook ACM",
+          "source": "Artificial Lawyer",
+          "date": "June 30, 2026",
+          "summary": "Scott Stevenson Interview: Spellbook ACM&nbsp;&nbsp;Artificial Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHNMbHhCN1MxT09wblM2TERCUU5kNWZvNkxtbHRMSGU5aUR5UUpucmdNRXh2QmtKVWZ3LUVYdC1vemF6Ym9ydzNiR3VPNXdMX3g1bDRKaXVkdkswUUpweEpkODFoSmxMVUlpV3FjSGh0MVF1YzM2TVpEYkFSNERlakozQjdzYkUxcFJ5TA?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Spellbook aims to write and renew the world’s contracts with AI",
+          "source": "BetaKit",
+          "date": "June 30, 2026",
+          "summary": "Spellbook aims to write and renew the world’s contracts with AI&nbsp;&nbsp;BetaKit",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdG1NTFUzdFFWd1Y5Tk96dlZKUWtNSUN1alQ0cEtpdXg5MDRxdjdoZVNYU0VQV0xPQ0hlVHgwc1NrOFhRdEpBNDBPTmdnQ0I4NlZ0ZTFwdDJ6bVRiTFlPRVpRVkFTVTJ1aHhnMW55cTBDbnRmOUhtTHEtMG5jN3Z1THdQWW1TZkl6aXNj?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Spellbook launches AI contract lifecycle management",
+          "source": "Let's Data Science",
+          "date": "June 30, 2026",
+          "summary": "Spellbook launches AI contract lifecycle management&nbsp;&nbsp;Let's Data Science",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPODBVVDZJWHVnckJqNzdKRDc4NnIyQVJLN0JLa2RqQ2ItcDlhS1JvU2JGY3dTM3NnRVhNQUVVYUhrQ2xKMVdzcG90YnF3cXByTVlzdTVJbXkzY0I0QjRRRnh3RHNweU54V3NaY2tQUXVWQ0VQUndtVFRKVDRRLTM5VlN1amxHdkg1NU5ySlM1MzZvbFJvRnlYQg?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "UK law firm Shoosmiths unveils proprietary gen AI contract review tool Project Apollo",
+          "source": "The Global Legal Post",
+          "date": "June 30, 2026",
+          "summary": "UK law firm Shoosmiths unveils proprietary gen AI contract review tool Project Apollo&nbsp;&nbsp;The Global Legal Post",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZTNLd1VCN3VxR1dCZ1ZDakRlWVFaTUdBb1R1WW1OdnctUlJsWVJ5czZ1NFR3VUg3Ym9hQ1QyMUtuX0ZxX2ZMMkNlM1pSVWlRellzeVBwemVfYWd6YmJuLVdsOUFuR0JwRkdlX254bHJWRFlKbWRHYllxN19QX29TeGE5Z0YxRUhoUllZWGlVRFRCLUxGZWFPeFBTQlF6OWxhQmM0MUxvd3VqNkdlbk84ejhGcHF2cnNsczZFek5JOWpGT3dQT1FqQmtsUFk?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "The Big Boys Arrive: Is Today’s Legal Tech Doomed?",
+          "source": "Forbes",
+          "date": "June 30, 2026",
+          "summary": "The Big Boys Arrive: Is Today’s Legal Tech Doomed?&nbsp;&nbsp;Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0ZlaG5yclJQemlTN0tLbzZqUEpha2pMbUhNSVZLRUlzX3M2bmFaa1lqUVlIOTVtVkZsZ1BXUm1JNlFaaFFPcHl4NjhfVG9iQTdWYUpkVmk0Nnh3Tlo0Y3A5TEJlU0tnSkUydEVGdEY3X0JHdkFydk5MUEE1LXE4NV9lSmRUcjFaSF9ZMW9JR1BsVXZnaW1uV3M3Sm5xZjFOeGVr?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Pinsent Error Shows Why Lawyers Must Not Delegate To AI",
+          "source": "Law360",
+          "date": "June 30, 2026",
+          "summary": "Pinsent Error Shows Why Lawyers Must Not Delegate To AI&nbsp;&nbsp;Law360",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQkZWZFFDNGJfZ0x4bkJQUF9Qa0o3OEdxS2Zuck1WWTZydkpaRTJtSkpJOFhjTlgtNU5fX2xNcUpwYTAzSzRSVjJwa1dyOXhmc1lQWnR0NFdGRXJxZE9jc0NJczQ5U1pEZG1fR2l6TFlEOVZabm9zVnNnTjF6Sk1VOGpzY2xfNlppLVdnRGhHMUFlM2VxMXpEZjlBQdIBVkFVX3lxTE16YUxHR1pRRXZPa1c4Mk9yVEdrWWVxX3hqN29qdy1fUGtKbm5zVUVpbFpnSVJMUzBFZ2h4T0NyVVhXbGQzVVhWNU5sOC1jXzQ2enJ4QVFB?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Why the Data Platform — Not the Model — Determines Legal AI Outcomes",
+          "source": "Snowflake",
+          "date": "June 30, 2026",
+          "summary": "Why the Data Platform — Not the Model — Determines Legal AI Outcomes&nbsp;&nbsp;Snowflake",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LdksxYTRZSWN1QzJVekhNWmplZmF1aDRJNEhJVW41SnlfRDJtcmhwb3ZtRDZqazZlb2dTX1F1a2hMWFNkckZvQlc5RU1hc3ktcmpreVlSZXdsZEliQ0lVdnh5R2txSzZTTTJkWVp3WGU2U1lq?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Data Platform, Not Model, Drives Legal AI",
+          "source": "StartupHub.ai",
+          "date": "June 30, 2026",
+          "summary": "Data Platform, Not Model, Drives Legal AI&nbsp;&nbsp;StartupHub.ai",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObFQ2X0VoTHhRSXRUdHZ1MWpfRnludHBkNjdzMVRzTG1MQmxEMkJsTGlJRXdDRXdabThxYjdORG00b1ZsLUFUel9UVFNITjJHQ0FCVEpIT1RlQnNCcUl5SHlmZ3RRMUJpd2RHcl9PQWtjWU1xbFZxX19NT09CYXV2bnV2MVVzSFBMYkp6c21hRWh5b3M?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "AI 'gone awry' made up case law, a Manitoba court says. Justice experts say it highlights a lack of access",
+          "source": "CBC",
+          "date": "June 30, 2026",
+          "summary": "AI 'gone awry' made up case law, a Manitoba court says. Justice experts say it highlights a lack of access&nbsp;&nbsp;CBC",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZW54UkRvUVc1cWctX1hMeVdrWjdtSVlJWWRnU0FtT1UzaVc2NDk4Q29LaHRMSXhUX1FnNGFDUHRVTDRfNk80b0VSQ2g1Sy1yaHlIdFVWMTdxTlJQQmVidGZiNWFzWE96QlRiOGhwZU92TG9DRUlVNkdZTjFxRUd0Nk9GQS1nUQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "‘AI Agents Will Handle 30% of Inhouse Work’ – Deloitte",
+          "source": "Artificial Lawyer",
+          "date": "June 30, 2026",
+          "summary": "‘AI Agents Will Handle 30% of Inhouse Work’ – Deloitte&nbsp;&nbsp;Artificial Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmFfbWphbXpuZkpjc21NMWI4aFNuZm1MRnROMnR5RzNOSE9FQ19haFowenoxNnpVeWR4OW5nWWJvZWhLeFN1Y2hKRFJ0b3Zsd2szRDdqT1FRNFhSYjhxWm9UNXI0bnMxM25xS1NLd2o0WE9sUkZfWjRVd0hpWWNwV1RZRjIxWHNWU2NwOHlHQ01GbXpQWmdoamdB?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Tracking Big Tech’s Move Into the Legal Market",
+          "source": "Law.com",
+          "date": "June 30, 2026",
+          "summary": "Tracking Big Tech’s Move Into the Legal Market&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZUlfUUdlcjJ2R3drUjg3TTlVZ0pmd28xdFJvbzgtRnNERldqS3JId3VGNmFQYVNEcE5sdDc0d09UYmpWY3V1TnM0YW53OXlSZW5UZ0xFU0ZnYk9QZi1fYzZlSjNYYVhNQUdKTzJwXzhXMDVxSFVEcHl6dzJMWHlEeEo3YVo3dVFhMzdTam16a1MwR3BvQ2Nv?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "The intersection of legal expertise and AI development",
+          "source": "Thomson Reuters Legal Solutions",
+          "date": "June 30, 2026",
+          "summary": "The intersection of legal expertise and AI development&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnRWMk9NOUFTR1lrdDNNQ3NlT1ZIdm5pWDJTZzRfWl9zSmN6RzU2NERkQjJZSVpFMy01SlpacTBvNVU1dzdnVHNZTWhGWlVIdFdvNEItNG9MTDdCckxraGdZMXZKeFR6MW5Rd3lOVm5GVjBTOGZwUEstUGo5UHlTeFdWZDdpdWhxZm91VnluS1Rqcm53RThJeXoycWRTRXVhVkZLdi1DbVlyekktUG9KLTd5YUo?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Legal AI And The ‘New And Improved Detergent’ Problem",
+          "source": "Above the Law",
+          "date": "June 30, 2026",
+          "summary": "Legal AI And The ‘New And Improved Detergent’ Problem&nbsp;&nbsp;Above the Law",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTUd6M2dFZktDVnM4dVA3QVNKczNMV0ZVTGpjV29ZZEhWQVlTcHg3OEQwQ1p0bGRQcThLdWZSV2FIbkU3ZzM2VENXb0pZN0V4bWN4OWhwQ1JQNGw5X1BJQ2M5QzNRbUNJcTJsdTBqYUc5SThvcjFfS091VWc0QnhWVV82SnlNTlJzcXBybQ?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Seoul court issues first AI-assisted ‘easy-read’ ruling",
+          "source": "The Korea Herald",
+          "date": "June 30, 2026",
+          "summary": "Seoul court issues first AI-assisted ‘easy-read’ ruling&nbsp;&nbsp;The Korea Herald",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvUlVVRXN3bU9hWWJZRzRoTXQtWlg4alRacjBJeXR2cmYzeXJ5amJkTnNxanJDbGxjZVRwV1NYZ1NsWFU4RS1qNjJFUnpfMGlhZENFT1NMOA?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Wells Fargo cuts Thomson Reuters stock price target on AI competition concerns",
+          "source": "Investing.com",
+          "date": "June 30, 2026",
+          "summary": "Wells Fargo cuts Thomson Reuters stock price target on AI competition concerns&nbsp;&nbsp;Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzRKSmNjVDc4QzNVVVhIWmoyckdkRG9WOEgtZzlpUXNtaHdlQzY2eXgzdmtPcWlpdXNNS2I4Zk1YekhCUGg0MHR5U0JVMVBOM0F6OXpyWXBTNUFEdjBzQThMeXpxRFpuaE81cHN2aTR6S1hvOUo0cG11MUpQdU1ORnYyYzZ6YUhxX0lrTFROcENDN1pGZEYzZ0tSaThXUlZlQUlBVWVTN0UxMUNtcG01UmZHRXZ2Y1BpVFFFRDR0bFIwTHBIaDdSSjNvSGdQM1AwUUdpaA?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "The rise of vibe lawyering",
+          "source": "The Economist",
+          "date": "June 30, 2026",
+          "summary": "The rise of vibe lawyering&nbsp;&nbsp;The Economist",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfcWpPQVlFeWpubzZ6NnB2Um9JUzlseTNLUzd3Z0lIajNBSmdzZmRabFpUeEgxck1KVlJ1YkdiRWJBa1VUbjRzUjc5ajQ1dXFkR3hnTG40YklSUGJSZE5ISk9xRno0XzEwemFLbXYtTXBlWlRoNmNVaU9MZ0I?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 4
+        },
+        {
+          "title": "Veteran Personal Injury Law Firm Operator Melissa Graham Joins Supio as Vice President of Industry",
+          "source": "PR Newswire",
+          "date": "June 30, 2026",
+          "summary": "Veteran Personal Injury Law Firm Operator Melissa Graham Joins Supio as Vice President of Industry&nbsp;&nbsp;PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNmxmaXR3OUZaY0ktVjluXzEyUHlvbjRqSWxIb2J1bGF4ejluaHFxeHp5cXJyV3FaWUMzRGszZUd0b28zcm9vZ1VFeXB2YUpCUmtfX2IwRVlmdTUzSHpFeVZXV0tMZHZCNHNFTHZudzBRWW5vOUVnS1g3eVRRX0lmYXdYSDdYQlZ3RHo2NzBMZ0xTRTh1NnBkQk1KUTBfcnlXRy1ESVBxZGltNVZtT2VFZkhtc0UzdTNjUGRKbGNpdjl6RUM3T1YzVVdkWHZuYXRRbWlVT2ZEWERiQzBxS0xZQ0pETWFBVVJ2N0E?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 3
+        }
+      ]
+    },
+    {
       "date": "2026-06-29",
       "fetchedAt": "2026-06-29T19:02:39.701Z",
       "articleCount": 13,
