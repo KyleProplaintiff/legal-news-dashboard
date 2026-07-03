@@ -1,6 +1,398 @@
 {
   "fetches": [
     {
+      "date": "2026-07-03",
+      "fetchedAt": "2026-07-03T18:09:36.453Z",
+      "articleCount": 35,
+      "articles": [
+        {
+          "title": "Spellbook Builds on Its AI Foundation with the Launch of Autonomous Contract Management",
+          "source": "The National Law Review",
+          "date": "July 3, 2026",
+          "summary": "Spellbook Builds on Its AI Foundation with the Launch of Autonomous Contract Management&nbsp;&nbsp;The National Law Review",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmRHX3lqeDJYNnNsS09rVHFObGctZUxkS1E4S1BYcWJwT3hJV25hbjRQTlZxRWh0QmxQMUVPdk5OallueVpJeDl6anFLS2drSXBfbVQ4WGo5eWxFN1Fsb09yZGloeFhKdWpMUVUzb2hQSW1NdkdBdTB3eHk5c0RrQThSaU9uQnNjMV8xajVvdFlHWjlJTmJ3OVZWUEtlX2RHOWZjbVdTRl_SAa4BQVVfeXFMUF8yX0pDd2tpR2lhOWg3NXlxNU9EaEZBN2ZXbG8zZFUwbXB6cTBDQjdyTlQ5MTlEeUJyMFdYZFdLWG52cG9iQWxxTUlKOGRIbTF6cG5PbE9XQnZmWmVodUZHWHFHTFpwNktrWGVBWkVvY08tN0FneC00MW5QUmhZd3ljWm5ZaEFaVHdiQWZVN0lhbl9BUzBZOXRVREVDMVBIYlhUeTFDZzFMbGtTWUln?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Supreme Court says AI-generated hallucinated precedents ‘catastrophic’ to judicial process, sets aside NCLT order",
+          "source": "The Hindu",
+          "date": "July 3, 2026",
+          "summary": "Supreme Court says AI-generated hallucinated precedents ‘catastrophic’ to judicial process, sets aside NCLT order&nbsp;&nbsp;The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORjBqdmsydl95MXZIZkVnTTBCRl9QeE1qekdZYl9DWHlJa3hvT2NhTndzb2l4U21Bc0dBdzJhdFVTLXJwb2h4MkZ2cGJxeVBsaGRPcmJrTXh4UERzdmYzcmdiS3Z1a1FaSTMwYTdlQzk5Wm9tQmNmSjdpTmx2QnVEdFpoUmJneU9vVEY5dHFoREVRc0d1bTY4VlpndUFRT3dUQTVSSFcxMGpWQ0haZmx1eUl2MzFIUi1zc1ZDZ3paQXJmWGNhREVLUTBXNWJoS2QzanF2OG1XQzJxSEtVWFNr0gHmAUFVX3lxTE1BX015eTVpV3RMeVJ0QXhHVF9zYmNqNUtCY3pBZ0QzUXFmVHVKRmRZR0JRc1NfbC1sN3BlX3ExckUtYnYzV3YyU244cGVQT25pSEk3a201NWVZU2tINXk3T3Rsb1Rhci1Jck5WSjBBMFNLVnZLVE9lR0p1UW93bUJjSkpPbXlycGF5amd3aDNfVTYtNFFzWENQSkJtaHJZajY2MnZPVXRXbXMyQV83M1h4Smdia3hIQUU1OUcxYlFpM3dOT2dfM1kwc3J1NU9jSjBMaG1ZYkVGSnQ4RUNNWmwyRjZQRDB3?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Supreme Court Quashes Orders Over AI-Generated Precedents",
+          "source": "Let's Data Science",
+          "date": "July 3, 2026",
+          "summary": "Supreme Court Quashes Orders Over AI-Generated Precedents&nbsp;&nbsp;Let's Data Science",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlJVQzVpSjJ3c2FuYzJrRXM2cVh2enpIdkowTGJrRHdjRmxBV1dFbG5BOWdrME5Qa0JYWEtIUlNoLWVpUFRSUTNRZ3lNUGhwd2tISjhQLW44d1ZGY0M0WUJwV2lnRGl0UGpiVnRPQjktakw1dEItZThZcGVWMWM5T1FtRWIxRVR4c2EyNDlKMVc1WE13WFlUNGRRSDFhWUd2?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Supreme Court: Reliance on AI-Generated Fake Precedents Vitiates Adjudication; Zero Tolerance for Hallucinated Citations",
+          "source": "SCC Online",
+          "date": "July 3, 2026",
+          "summary": "Supreme Court: Reliance on AI-Generated Fake Precedents Vitiates Adjudication; Zero Tolerance for Hallucinated Citations&nbsp;&nbsp;SCC Online",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTdsT2d1aFQ5MGE5UndDSkNWQVdHUFUxNHg3UlhhODJWckc3RXNVSkRBVlFxeUlsREpXY2JpMEFQSVV6UXZ2ektqNWF3QlkxbzZjVm9Kamk0Q0p3STZCWWV1cFRNeDhzOEc5eGxNRmU0ZzMtOEpvTXBhT3Y3U09oVkU4MzJkeXJBUUIyeHBjNzRTN0k2T1JOZndpV0N6ZHJtRkRGRE9DbVlUWjFaQlE?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "General-Purpose AI or Legal AI? How Small Firms Decide",
+          "source": "The National Law Review",
+          "date": "July 3, 2026",
+          "summary": "General-Purpose AI or Legal AI? How Small Firms Decide&nbsp;&nbsp;The National Law Review",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0JhTGZBOFpLc0V6LVd3V0hBUEtDcVFvcGd1Ynl3S3hFZlFhNG1KRzhhZVN6WXhEYkRKVlp1T0hmYWJwUTg3Uk5Gbk5tNUdBa2pibkozLTdELWhlVjZLZHU0dm5tTG80WFhMRjlRRVVqU0Y3anc4bnNOQ2xiOG1QamVWdkRycDhFWDc5dUFHd9IBlAFBVV95cUxNTmp1MEpkWnNJWXZFUkdVbUNLXzBINDFLeEZGUVRUMmFJbmFDcDFjRkZibUJvTGZoYTBxOGV5SDlDV19IdUwwbDlpcmxFNm82RW02UHNKcGFRQzZQaFl2aDNWc0VBOWp4bWlVR0RYNUxkSnBOTy1vSHJDdnVtYnNSZXVWVjdtU1pMSWw5QjhvdllnWnhJ?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "More Than Compliance: Why AI Is Pushing Legal to the Center of Business Strategy",
+          "source": "Law.com",
+          "date": "July 3, 2026",
+          "summary": "More Than Compliance: Why AI Is Pushing Legal to the Center of Business Strategy&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWtCcmJRVi1LcFV1bmt1NkpXWTR5eXlOY2xlWjd3ejBNa0FNRUpRcG9HRHNKVndfSjZ6WDlzX204X29CVWdUWllRa1dMZDA5QWhkblpsTEVoS1B4ZEpLcTJfMzF5eS1CaHFfb0cxX0VkYzlrWXdQSjdoZWRleDJfRlRQNDU5RDMwVFV5TU1tTnlDRFQ5U3F4R2FZMmR2QWUwaGFfdWJ0clJ4QlM4Ty16ZE1JM25zaDlhWEoyVnIySlY?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "A practical guide to choosing the right AI tools for your law firm: The big idea",
+          "source": "Charles Russell Speechlys",
+          "date": "July 3, 2026",
+          "summary": "A practical guide to choosing the right AI tools for your law firm: The big idea&nbsp;&nbsp;Charles Russell Speechlys",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcjFWbnQzczQtdU54Tm40VTZGM2I5cTN2ZFptSW9JQUJUeC1JTmZHVDhxZ1Q0Vy1lTHN4TGx2VkJlcm5vVHRMT2REaEx6dmhobGlyX1Q3czktd3FDZVExaDF0THVIMVh3YTBBejlpV0tSTnNzUll1Y1pOWGI1UlpadDBDYWFjbVZqRGJVUm9ZR2dzUm1pTXVRMDJUQXFuUjltVFdmQlRsQmhfVGdFZUxSMkdkMTlWY3hpZWFweUd3c1IzWHVkZEs0bmdyTXdDX2s2eENrS0VsdnFFWU1qNk0yVjJBRWNBRlk?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Law firms talk a big game on AI. Here’s how they actually use it",
+          "source": "AFR",
+          "date": "July 3, 2026",
+          "summary": "Law firms talk a big game on AI. Here’s how they actually use it&nbsp;&nbsp;AFR",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOekxZZ3ZTTGo3WTlMaDNnNkNXQ284bHExQ2tkbC1jUU80bE5PR3pMVWxjbjhUcG1LenBubmRsbkpRZm9QQVZhbmx1UXVWQXA0ZEVYX0QzaTZjQU83VzQ0Tkg5akZvYWpMMGprdDY2UFB4NnZIcFc5QmZKTFV0WTBOQ0ptZXVTVThocEx6VmFmbUx0dmhrOUMxOUJiOWlKeW40UDFTUXl3R0Jrb2RibUh0OWpfaHpkaWNIcG5lRmNqcVZLT28wbjRPOHFQbw?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Attorney, law firm sanctioned for AI mistakes in court filing",
+          "source": "Minnesota Lawyer",
+          "date": "July 3, 2026",
+          "summary": "Attorney, law firm sanctioned for AI mistakes in court filing&nbsp;&nbsp;Minnesota Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWURtTUlKU2NBZE5sdm5fOWxMdXZDTE1EOExTOXNKS1NkV1dnN1hEdGF6bDlnSWNlZjlqMWQxTDVaVmNjV3ZVT0lUN3VwRFdSWnRmY3B2d05BMGJtTGY2XzlGNXg5d1g3bTZIZmRZOVF1TEpmSS1MT3ZoOTQyZW1KTXVESDI?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "‘Catastrophic, invisible’: Supreme Court flags use of AI in legal process as ‘misconduct’ | India News",
+          "source": "Hindustan Times",
+          "date": "July 3, 2026",
+          "summary": "‘Catastrophic, invisible’: Supreme Court flags use of AI in legal process as ‘misconduct’ | India News&nbsp;&nbsp;Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNS1N4MTNqaFhZeVZtbTZaQzdHamtOaGF6bTJsYkpsTmRxa3lMMGJtMlg1UXNFaHpYblBHRF8tTTU0Y2EtNER1U1FQYXNuNmVYZllaenJFdEVKdmd1VU5VUU10VmEwSHJfS1ZmZlNWWG5zQmVxZ2NJWEo3WjYxLUN1RUxPbXNaMnhLU0gyaE5EbGtST0lqbmdnUEdoTXJrSlBGdjJtSVBZR2tyeFFaMWlJY3AyRC1wN0hqR05XbW1wMTVWd3lWbVdvaWxDbnlibHBndGVHNEpjbnlHM09Zc3V3TDUxd2plU2puaWQ4VjBRcHpNU1MxSm9IRjRGWkJMdmJic2hqUGRkclFZXzU1VDFtedIBlgJBVV95cUxPM2E2d0VBTGlmRlBkMlc3TEcxUnFkZnFZdGI4eGFsZTFVM0NnM09CMXJjNkg0Z2xnOFhnV0xmeHJrOG1WYk9fN2twTnh1aVJZekUtalZFdGlKeWljWkMwbW1mSUlTSWxDRDI1YmMwVXg3SmhRVU1QQ2xUSW44OTRiQnVqYS1OR0RoRHdYVXRJLTlCSmRjQUV2VGZnckNBeTVPaE9CTnZfcHRNZkh0NERUdXFiSEdhRExDcDljNWhhcnNOZ1FDOHBHbEl2cEhhNFVPRXU3UTVPTnNoTHBkZXZVVV9SdkU1QlJWbFhpS1pOVTIzbnVqbGxaWWFackdiWjMtTzNGMW1NazVISTh6eHNpYkdfUmxSQQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Supreme Court cracks down on AI generated fake citations in courts",
+          "source": "Indian Television Dot Com",
+          "date": "July 3, 2026",
+          "summary": "Supreme Court cracks down on AI generated fake citations in courts&nbsp;&nbsp;Indian Television Dot Com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOV82aW1aLW9hLTI0TVRfTGtHYTdtaDZUdjRsTWs1bWJkbHdEUTN1dGdiWVE0elQwd0hzemJELUhlbEk2UDIybTEwVUtkeU1wQW1ZdnhrZWgyUzFpV2p3dWVkRFhkd1lOX3Y4T1B4R0thT0xsQ1pIWFFlcmJQVnZUTzNRN1VTd0gzY3dFcHVUdXNNQVA1SXpVaVlxZ2Zzenl6V0JSNmVLMlZWT2M?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Govt to soon start work on new legal framework for AI: IT Secy Krishnan",
+          "source": "Business Standard",
+          "date": "July 3, 2026",
+          "summary": "Govt to soon start work on new legal framework for AI: IT Secy Krishnan&nbsp;&nbsp;Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVUhfOUo2cmVNSG14NkxJVTlmSG9wblg2TF9nY0F4T0l2ZExxcGxWY1IydGRrdThLamlhNkg0VnNULW9kV2tsdG1NNFNCSjB4aTdubUcwQVNsMkxUcVNTRGVkcHdWNUdGVGh6VWRSMnpieEdZQmluY0pCa1FMRk04cnZBeENkaUdCZDg0UGUwZ3dwM2tQNEpIdlVQbGd4T0RnT3JuMlByZ2hGMDZ1RkduUEY5NmFOaU5iUjJFWFNKVm1vZ0cwakQ1RFhrMTBqYkRHUlpZTkQ3QnhnTTVWWlFtMFkxNzFIWUtUTjkxVE9EOS3SAfYBQVVfeXFMTzh0RUN6RXAxb2hQVmwwTXJjYm51blFISjVjSTJKc0VXQVp3QjNXMU9RTmdZTGt4b0JRQVZKQk5kS1Fnay01TXJnYlBkeG9qTm9Ma0lRNEswcVZrY1BpZjM1Y1Q4cVdUMjktazVCWV9VTVBYYVk2bkxMLWpZZWpGdl9NWkozZ0hWbDdtT21qRFBoNzFkSmF1R0hoYXBPUzJfMW4yWjFzc0liTG95OUxfZTdodFVST2JRakJ0OEw2emZ6TUxhNjZ4cUZ1NDJ6UmMzeENOdWdqNXluU3VYZlg2RkdJWV8teXhTZUJydlh4VWxGZDJCTEtR?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "AI-Hallucinated Fake Judgments Are Like 'Release Of Methyl Isocyanate' In Justice System: Supreme Court",
+          "source": "LawBeat",
+          "date": "July 3, 2026",
+          "summary": "AI-Hallucinated Fake Judgments Are Like 'Release Of Methyl Isocyanate' In Justice System: Supreme Court&nbsp;&nbsp;LawBeat",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZHB6eWkwbHdjbVJ6NjJBUGVLeFlkLUlLc1pqVVhfdkxzaGN1eHZyU050eG1rZ3pQRDVzRENuSDJRYkthZFlKVWc3Q3lZNUdBelphV3k5eFlXTFB4MUkwM3FVejBvN0V3QnVCaW5faFAwT0hKcVZDN1p0M2hJNVlyZWlPT2d0c1NmdlhOZFcyZzM1TXRUalJnUG9SZzFPRmE4U3hVOVVQRGNUWldZdjRSdUFKZ1pRUjJoVlUzbmc5eExrZGswYmtvOURnRE5rNEZkclBuaFlB0gHbAUFVX3lxTFBSVHFtSVpncE5WdzdRN3NtbV9qV203UTBwRUtuNlBqX3V6X1ZuQ1ExUk9uTGd3aUwwbFhOdlFubUZnN0UyZldsTVMtc3dKVmwtc0hENGNhLUJRZmlJZllmLVRLX3E5dDBfM2xoa1MyZEJsdGhqcE5ka1Y1dlBsNm04WTJkQUpsMzk5ZkVqSDJUVXBCRFAwaVJJczR6VEZUS0FxTGI5X1ZTemlER3JJOVpYV3p4UGFyYlY2S3hWYjg1ZkJpc0h0bjJybGtIM01pYXpGZFNCZlJ0VWM0bw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "BigLaw Thinks It Leads On AI. Clients See It Differently.",
+          "source": "Law360",
+          "date": "July 3, 2026",
+          "summary": "BigLaw Thinks It Leads On AI. Clients See It Differently.&nbsp;&nbsp;Law360",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcllZSGxvN2hUM1oxb1VBZ2J4bFlOOEsyd2FlRnM5VkJIdGxQdFZNUkN5YWR0dWItaG11RmF0QUhmOFM4Rl8wZGI0QnA5S2NVN2xTMTQxQVZOdGJJNGs4b2ZKLXp1cmVTTzVOazJiQ1hfeXpFeTlOV1Fjc011RUY4S0VDRnhkaERnc2hjMGh0V29XcnFUbnMyWUN3UTgyNnIzNlJR0gFeQVVfeXFMUGRVdHJaa0N0cXBzSUlSdVgxSlZqZ0w1QXp6R0YxakVOTWJhTkF2Vk96d1RvRjVYM3dGcGhoVHF1cWI1Nm5mUlhFaktJNHRGWklMS2VzREFfbF94cWhKdw?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "“STRUGGLING WITH HONESTY”: Federal Judge Brutally Sanctions TCPA Attorney Amy L.B. Ginsburg for A.I. Use– And If You’re a Lawyer Using Gen Ai for Substantive Legal Work You Better Listen Up",
+          "source": "TCPAWorld",
+          "date": "July 3, 2026",
+          "summary": "“STRUGGLING WITH HONESTY”: Federal Judge Brutally Sanctions TCPA Attorney Amy L.B. Ginsburg for A.I. Use– And If You’re a Lawyer Using Gen Ai for Substantive Legal Work You Better Listen Up&nbsp;&nbsp",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNQ0NtM21wdW5vNnBrUDVubERiLUhzR3Z5d2xKckRsOG9NNzdFVzVCcnFha2VqYjltaFNQdzVpa0Jpa3cydVVKcnlFUGtCek40M2I4M3FUNW1OTGE4cF9kaXlOVGVacXo2eGJLZzBybDAzdE9qQXNFYVJOTFo0LTdVTDJGeW9yMWxGaGNSdHVrUC1abTBsZktUYXR4Y012eElyZnVYSHllajZzbkkxbHVqUnY2dFEyOWt5RS1SbHYtREFPTW92NUZNZVdlM080SmhhZ2NJSkI1dmxoWjVTYVVSYXgyeFRjN2RYZjR4UG9CZkFMWnlNekFmY2stR3ZZbFZ6Z1pfdGRHSHZ2Ul9aSHFIcEpiX1drVnJWVkFjbDUyY0F2RWlCXzdhUDBXT0E3YnNhanppQV9iN3lHZW5J0gHCAkFVX3lxTE5BaXhwbF8zTEpYNTlMQlIzcGFIQ3VYbDUzRU9TMWNJQVpfMTRaV2EwUzQ5NFZTdTNpTGktRmpMZDQtclVWNUxPVlVHMHJxYS1CUVV2RzdGZGppSzhQNi1nbDl5Vmg3dXFuWEJIODhySWQ4ZmhVRmQwMkl2VkgyT25PTVY5dE5yakVqd3QyU2c0NTNoWU5lM1U0V0cyZHprT3RmSko1cFp6NWVnZmRaWC1MVmdaNE5MTS1iNXoyQldUODlMZ0xuZEZIMUpzanN5MkFxdThEbDB1UlZuQS1MZVhMb2ZnMVhHTFJUeFZvR1ZiMjRzejFsdXk5bHU3Tmhib1N1LUNrcVhYVEdnOEwyYzRHTEpOV0hPd1A1S1dfNE9FQUpMMk1SZUIzOFYzcWR2QVI1TDYwWnZzX1dWNXFtdzJZRHc?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "10 cases that show Indian courts have an AI hallucination problem",
+          "source": "MediaNama",
+          "date": "July 3, 2026",
+          "summary": "10 cases that show Indian courts have an AI hallucination problem&nbsp;&nbsp;MediaNama",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0g5VnRCakZ5VVREWVVSM3FrS3lWUGVzZ0NiekdWWldQVVRKWnhhTFJVVlNwVGI1ZThvc1hoMFBRVUFKNjREdWVZNWN0S3Z5Q01rMHZrT2ZZWWVhVE5qWjF5Q0JSVXRmdm9VejJoNHNUX1FGZ0hZMGg4dzFhUmJfZEpKOWpnT01BdE1EMExvMW8?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Law Firms Load Up On Office Space To Handle AI Surge, Regulatory Chaos",
+          "source": "Bisnow",
+          "date": "July 3, 2026",
+          "summary": "Law Firms Load Up On Office Space To Handle AI Surge, Regulatory Chaos&nbsp;&nbsp;Bisnow",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWHd2aVBXbkNLdnZkSXpRak5wR3ZfcmVPMUJadnlFY2pnd2ozS01oRks3MjVDaGxGZkhPWG45RU5faVpPZTFPX1laNGtxVW1wV1BXQ21Ldkw1QnlTNTRjV0lUbVZGclcyeXJJUXVRd1JzTHZvUktoeU9rVFcxNHlLWjlfcmFKbTBfOWRMOTlXUGtSUGhKREpoYnR3?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "This Biglaw Leader Thinks AI May Trigger Layoffs, But Not At His Firm",
+          "source": "Above the Law",
+          "date": "July 3, 2026",
+          "summary": "This Biglaw Leader Thinks AI May Trigger Layoffs, But Not At His Firm&nbsp;&nbsp;Above the Law",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLWRsTlBPeDNLNzBZOFZYdjh2Y0xmc0ZXLS1qLV9iQk9NcFBWNllYLVhBelQ5NUZMcWFXamo0dnVrSVd4QmZpZHdNN1d0OW1OZ1ZzRGYwVFhwVWxuQy1UdXJRZUxST3dNNUFhS3c3NXE5X1NWMVpHVXlYdFZZVHJ4V1RTR2tPU1JQZnl5VVBMWV9wbm1RZHdoMVB4T0pSN3BWckRB?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Amid embrace of AI, firms look for mix to best suit their needs",
+          "source": "The Indiana Lawyer",
+          "date": "July 3, 2026",
+          "summary": "Amid embrace of AI, firms look for mix to best suit their needs&nbsp;&nbsp;The Indiana Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeWJTVklEQTUxTl9iODJfYV9xZ3liYzlvX3pDcFpnMEt3X28tODUtRGV3cjZISEFrbVhFSzg4TmNqRXlDYjFVUXBkTkh0UGx6bV8zZm85OW50MXpRdmpkUm1vTXZsQ0NMazhpV0F4TlBRNGMzZ2hJX3FSMU1KVEJKX3dnVnkzVV9nSmRYUjBzY2RzdVROZHlVSzdqVkZuVnhYcFZGVjNiaw?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "AI law firm’s win at trial signals shift for Queensland",
+          "source": "qlsproctor.com.au",
+          "date": "July 3, 2026",
+          "summary": "AI law firm’s win at trial signals shift for Queensland&nbsp;&nbsp;qlsproctor.com.au",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYnFHQXZjU3g2WWZ5d096XzdhTjFGalEwVVZ4clVQam5SWFlrNVBxbVgxRWJLemgyekRSZFRRWTRpOW55blZhb2xzYUxOYWRGTmhXbjFmZ2psQzhPazE3WmhNMDdwSGdEcGdTZXlRWVJHVHN0alg5VFFJS0taT0pIc2pWd3NBNlJRMXlQQjNyc25nWm1ZUE83NQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Courts Split Over AI Training Fair Use Rulings",
+          "source": "Let's Data Science",
+          "date": "July 3, 2026",
+          "summary": "Courts Split Over AI Training Fair Use Rulings&nbsp;&nbsp;Let's Data Science",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOek1aRkV1Q085ZXlwV1VSNjV0bXA0NjAzdkxqeDRLTVFpS0RreEtWTzdORDFFVG9tSWhSSV9YVUJWbWZNNFU0amdRWmxPVkZaSEU0OGw4a19PcVdGSXFmWWFSbmhrTVdjTjl6M2VOTGtaTjY3ZlM2RmdaNzZ2UVhNd3pCalpKa01lRUx4b18xT29sZw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "\"Invisible, Insidious\": Top Court Warns Against Use Of AI In Legal Process",
+          "source": "NDTV",
+          "date": "July 3, 2026",
+          "summary": "\"Invisible, Insidious\": Top Court Warns Against Use Of AI In Legal Process&nbsp;&nbsp;NDTV",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2JMV2YybW1saWxtUFRDM3NiMjdoNVBaQVJ4OTFYaDd2WFR1T1djc25XQ2FoVUNZTWZaSTRvVkpyY214N0E4TEZvX0d0N3Z1WHVLaEZKYnNIWHFFUHNodnN0aF90SloxUlo4dWczMExuWTJPYm5kQU93YlJtOElHYS0zOU1EVXdvTkJJcTRMajJxQlFxM204c253cW9WOUl3N3pKbUR2UG1JSjc1WVNuSdIBuAFBVV95cUxOWE0yOVNITy1wVlN0MkpGb0JWQ3NEeUdMbEY2am4wTUxpckFYcG16a254TFhVaVlGWmlCdFpWS2lRbjNsRTZ5b0JMM0lhUVh4NENzY2laTkJ0SklKUDJ2Yml0RVQtYWpiUTYzWlA0eFBCODFiVUJqaFctTXFqRzlKdkNtb182cW90Y1RjamoxRlpFTG9fYWhZNEZiNjhObzNhaWhtUVlxbVhkNDMtZlpzdnF2NkRaNU9O?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Why governance lets Thomson Reuters move faster on AI",
+          "source": "Digital Journal",
+          "date": "July 3, 2026",
+          "summary": "Why governance lets Thomson Reuters move faster on AI&nbsp;&nbsp;Digital Journal",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0RFTU9rR3FLdkhOZm9aSmNYZ2pJS2pDeko1X0hoSTE4V1A1d0xReGhya2dpM3E1QTRuMGRYUzNRTVktTC11WS15YW42RFdGc0NUdTNGZkxVVkljbFF3QWRSNWd4aV9KQ3EyWUE1Qy1YSzFSTXVtX1VOaTNMQlVOZ3FMeXRRejNTb2piY1NlckVlN1ZDcGFnTg?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "In-House Legal Is Winning on Risk Instinct, Losing on Governance Infrastructure Says New Litera Report",
+          "source": "LawSites",
+          "date": "July 3, 2026",
+          "summary": "In-House Legal Is Winning on Risk Instinct, Losing on Governance Infrastructure Says New Litera Report&nbsp;&nbsp;LawSites",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGlNOXRvcHdJb01kYWwxRWotNEtvdDZhYUtMcWlUNFJCdmlQUlpZcjd0YnFNNVVyMzF2NHp1b25xRnBQdEVORmdrazJFSkVfaDBWWTdzSjQxWkYwZkwzbU45X2dCekIxN2FrazlJU256dEpQeDNMYWxVX1pyY2hKUnhUQU9tN2FqRlNOUm1pTlE0ZkFGYVJMbEZ3bmJYeU5DcDNmaFhWWng3Z0s2cGpETkNnQ2R4ZmRKdU1IOThHN0d5ellwd0JHSE85SVQ1VUZBcl82Tw?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "PostonAI: The Law Firm Marketing Department in the Age of AI",
+          "source": "JD Supra",
+          "date": "July 3, 2026",
+          "summary": "PostonAI: The Law Firm Marketing Department in the Age of AI&nbsp;&nbsp;JD Supra",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1reVdRdmY1N0dQckxFbFdueHFrb1B6Nnp1eDAtUWN1d25ENE9obUJ6RzF3TlV3RFUteXNXSlhsMkxvVjFhUVNvd1dpNU5FVTJmWF9vNXB2bTRFQmc4R3VXN0ZTcGNkcTZHcjY3QWZlc2N0TXFTaURuM2pYcERaUEU?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Lawyers are working nights and weekends to train AI for $200 an hour",
+          "source": "Business Insider",
+          "date": "July 3, 2026",
+          "summary": "Lawyers are working nights and weekends to train AI for $200 an hour&nbsp;&nbsp;Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU0hjU2RBVkZNVHBUN2pUOU13VEh1akdJLXRhZnpCZjJIYTFzVkZid0cydnVGeGlZZVhDMmpqMWZVRGZTcTNlMWx5VjUwNW52SUI1bTJYSDMxaU1Id3JZTGJpdk82UkxDSzZsYXZqY3lDSi1waVFlZ0pFR1k2Z1Axb0dSUXhQT3hxYkhNLVBB?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "The Hottest Job at Big Law Firms Is Becoming Difficult to Fill",
+          "source": "Bloomberg Law News",
+          "date": "July 3, 2026",
+          "summary": "The Hottest Job at Big Law Firms Is Becoming Difficult to Fill&nbsp;&nbsp;Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaWcyT3VHcGNNbDFkRjNDRURaaTRYVmUwTkF4X2NFTllrcDlfRFVGUzN5X1ZFWGtoOHJ1LUhxUS1jbGNDbTZNVHN3X0dtV01wTVJXaU02ZkhSM2JSZzBLdjF3MTd2ZThkeFVRUFJUWnp1Rk1mZjJUY1hQWDBfZGlRQUlZV05WelFUZEhmNzFNREx0eGlrTjZHeXNDcDZoYmxpMEtzSEVWbFgxTjR5aURLSFUyclU?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "In Full Swing: The Texas Business Court’s Second Year Brings AI Scrutiny, Docket Equalization, and First Jury Trials",
+          "source": "Law.com",
+          "date": "July 3, 2026",
+          "summary": "In Full Swing: The Texas Business Court’s Second Year Brings AI Scrutiny, Docket Equalization, and First Jury Trials&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVWg1aFAwa1RBVXM1STdIYm1Jd2Zmd1lnTElxQnpsTGRQb3h2eGxYd1pOOEI5N3kxb0NlVm9TRHhreEREMkV2ejhoVlY4ZWRpSlpsQTFXTGJrX0U5cEZVdkxTQmRzNjlzVDJMbF9oN29MVFBBTkctT3poWHQyWVNrUkxkTHN0NzBRUFJ0bTF1NDZGMmhCWnhEbUpiVEp4LUQwb2toRXZRbzhnU1VBNVBudjBBZnBBaUtxaWI0c3hNalcyY1o3NWZ4T2VzZVQ2bTYtNHp6dk1kLXhZeHhKei1ZX1V6YVFVSTA0Y1h0MQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Nepal’s courts embrace AI, keep judgment writing human",
+          "source": "The Kathmandu Post",
+          "date": "July 3, 2026",
+          "summary": "Nepal’s courts embrace AI, keep judgment writing human&nbsp;&nbsp;The Kathmandu Post",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQlNoeGxTUHotUUR3V001Z1Vsa1RiZnk5V1ZRRGtrS3F1QXRvcnpGcERuMC1sV0k2RHNyR0x0M1A5MkNQeTFrcHF5VnFLZHhDdGZXQVo4OHQwaXVrbWx1NmVLYTRKRUJiQWJWcllXTTloMnRXeUZZc1c3S0dYVGQ1d2ctVS1HcExpRUxudldqX1VHUEtUcmtzbnJZV1NCTHFh?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Japan’s Supreme Court Rules AI Cannot Be Named as a Patent Inventor",
+          "source": "Gadget Review",
+          "date": "July 3, 2026",
+          "summary": "Japan’s Supreme Court Rules AI Cannot Be Named as a Patent Inventor&nbsp;&nbsp;Gadget Review",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1JtNndma0RielpsVkxiZk5Uam4teW8zcWtzbUpWMUdvR29QTG1DVFVTSUtudjJhU21sOEM0U0tfRWVsTnhuY0E0ZzRxTUFubFdHWjVSNC1LYnBvcHVseWlzcFYzNGdSRzdLZWFTdW5FamlkaHB5UVZEVGxWQnQzV3BqS1Vsc2l6MnEtLXNQbHRkVDBDRVU4dFNNdw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Thomson Reuters’ Special Payout and AI Push Might Change The Case For Investing In Thomson Reuters (TSX:TRI)",
+          "source": "simplywall.st",
+          "date": "July 3, 2026",
+          "summary": "Thomson Reuters’ Special Payout and AI Push Might Change The Case For Investing In Thomson Reuters (TSX:TRI)&nbsp;&nbsp;simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM29Sck1NQlo1RnR5WEllZnFVWGRRcGFCTU5CUG9yUXQ4X2JLWE1MVHZJMmRKTlhzR0pXMEhJZG5FTlNUYVpNLU0wWUkzdFNGWE5YaGZHUGM1aXFSb2dEWEVkSXAwU3RHSUhhSjZienV6QzFTU0JwcjFab2ZBZmMwZy04ZnZQemZvZ3hReWl1VDB5ZHAzVzlVdWR6S1VCTExKRHRtSjFDY0t0ejF2ckNwUldaZWZPRTF2cFhuRzM0Z1ZyS3l5YUF1T1hSMTAzX3JocF9LZzVROVJjWFpfQWFabdIB5gFBVV95cUxPS1I5UFFpS0pBTHNlUTBJck90ZmtXOUs3czdydXdHMEQzWFhMeDFZTmoxQU5ZZFV0bGhfSktmeDhvSmt3WFlYeDkxQ0MydHRCVDlmNlVyZ3NCZUZyaFliR3V5OXhKVXNsLVBoOFBDUERJd3QycFh3VEhESUtUaWctUmVQbk5jcHlNWjRwbXRvbmtsWTVKQkxJSUQ5djZ3WkJvVVhGZmtIMnMtbjl6eDhGRkVQUzMzRk5QUTBmc2lPQk85Tk82TERzdkh3X3hhVEFWbjYzY281ZzVGWDdpdXJGTjhmTnVsQQ?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "AI Law Firm Manifest Law Hires Immigration Assoc. President",
+          "source": "Law360",
+          "date": "July 3, 2026",
+          "summary": "AI Law Firm Manifest Law Hires Immigration Assoc. President&nbsp;&nbsp;Law360",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3hsYlZYcHM1RXdyWnNNUmxyV0h1aGtZTFl3akgtRnR1a2hmVzlNNUxWcGpvTXdVWnQ0ZFRyOU9rbDZaZXpRYWdrdnA2aWZwRVh0a3NoU0pwZGdCdWYxdUhER2Y2WGVvcFVhRlNFSzd3ZGN3ZG1zS0RoV21nS19MTVZNVV9jZXhDRzh2QWtMWW52YzVNeWE1ZVQ2alNrY3psRUp5eEZpY9IBXkFVX3lxTE5pVHpqV21qdU9ZdGJId25OVnVkUndCRUs5Tm43aUdERlM0dVd3aDJHd29SQjl4SEpnR2U0QWx5UWI2T0VLOEhEWTMwMDBCc2Qtc0xSc0hjc0QyRHZtX2c?oc=5",
+          "tags": [
+            "acquisition"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "Supreme Court Calls Process Of Judicial Decision-Making A Saadhana; Urges Absolute Control Over Use Of...",
+          "source": "LawBeat",
+          "date": "July 3, 2026",
+          "summary": "Supreme Court Calls Process Of Judicial Decision-Making A Saadhana; Urges Absolute Control Over Use Of...&nbsp;&nbsp;LawBeat",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUzNFemluX3hJQUh0MzR1VzlDaE0tUUxZN2tBSWtkMEo0dk4tWXN2eTg5SC1jU2ljMTVpRWR1dTdIeFlrdEtuSGJleDdMMl9FbUlKUDMzUDU3cTRJdXVrSmdWMFFfVzlNdDU3Mk5ySzZ5M24zTEs5SDAycEMzcnlsZU9XUGxhQ2x1cFd6eWZESjR4eXNZdGo0cnZCN2c2VHdzR0ZlaVV6alFJZU02NkZUeUQyNzF1YlR3X3pjY2ZDbGU1SzlCS042NmFEN3BfekRERFFZWEg0SUZEZVNTaXloZ0hMODJmcDNjTW5McU9FalNDTHRnQjBF0gH8AUFVX3lxTFBMVFRJdjdnVkUyREtMd29HbDVPOVJUOFc0Qk9NVWlxaXFOd2owcDlvNWhIT2dQZ2VjZE5MZjVFVlpNUHJtVDNZQ2duMEVwbzR2QjEwOHVaY0VDTDAwQWV2MTdFSVJGZGtSTEFCNUtvQmpMU1JJSnJOWHJqQTgxMzZ0WnVkVmJBaUs4NVhCVHktWktWNThlVkhUMmVXY2NYVTVzM2hJclNKOTNHSHBfcHdMd0dWTEpYNUZkRVhTRGtJc3BPZDdqWDd4ZVRPVFhXZDlFV1dMTDVwU3NvSUZHcGQ5eGZnYXN5RW1Rcm9TdWtvaFVKTmpRRnF5UUtlTw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "AI is no substitute for legal judgment, Supreme Court Judge SV Bhatti tells young lawyers",
+          "source": "NewsMeter",
+          "date": "July 3, 2026",
+          "summary": "AI is no substitute for legal judgment, Supreme Court Judge SV Bhatti tells young lawyers&nbsp;&nbsp;NewsMeter",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR1dNRU9IUVRqVlZXZ0xNT1BXRGFLc3dBTjdSVnFobE5UOVhzVWxxcWJNSm8zcUhBRXE3OXFCVU1ZbW5jdll5LUNnWnBNVzlZZ0UxZGpkVlJzSFpjZ3lWRnBsa09Say1IekV3SU82ekd6WGtSYmlIRXdJTWNGV1JZQ3V2UllhRG5WRHFqemlMYzhsbFRxLU9ydF9jay1yQUJRaEY3RGpqWVpGQmpjV2hVci16a0N0ZXloTDZkYUM3NnFuMWZzZEdCT0Jn?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "Legal Eagle Elite",
+          "source": "Legal Eagle Elite",
+          "date": "July 3, 2026",
+          "summary": "Legal Eagle Elite&nbsp;&nbsp;Legal Eagle Elite",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xUzJfQjJsS1V1a2VJLThEaUVUd19faEd4Rm1kNG8wTzZoV29fYzZRUUtFbTdoSkNkbFphWUsxTmczSGVkRnlYaURSUXNXTkpQNTlrbkM3TlppT2dlTUVEa0VTVQ?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 2
+        }
+      ]
+    },
+    {
       "date": "2026-07-02",
       "fetchedAt": "2026-07-02T18:23:57.755Z",
       "articleCount": 45,
