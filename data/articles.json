@@ -1,6 +1,165 @@
 {
   "fetches": [
     {
+      "date": "2026-07-06",
+      "fetchedAt": "2026-07-06T18:52:18.762Z",
+      "articleCount": 14,
+      "articles": [
+        {
+          "title": "What’s Driving a Wave of Partnerships Between Law Firms and AI Providers",
+          "source": "Law.com",
+          "date": "July 6, 2026",
+          "summary": "What’s Driving a Wave of Partnerships Between Law Firms and AI Providers&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSWZaSndiajNxdDlEWnUtYnhiODh1TGFPVTVrTmRUS09ha0FONjc4dlZrQVlwMGpMV0dLcXN2ZFliejZzNlBTVFQ5RXBEcHdtUlRkNDFPeHRMeE5tT1pVaVMwMXVtTUFnTVQ5SDcteG4xQUp4cUwzeEtOOVpLUUhlMEtZeUFiOFNjMlo5a2NwSWM1Nm5VcTBUR0toUUFFOWFJMnRsR0o4dDNlZHdJcmhnWTJMU211MmFNX1E?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Fastcase And Alexi Head To Court This Week In High-Stakes Fight Over Legal AI, Caselaw Data And Clio’s $1B vLex Deal",
+          "source": "LawSites",
+          "date": "July 6, 2026",
+          "summary": "Fastcase And Alexi Head To Court This Week In High-Stakes Fight Over Legal AI, Caselaw Data And Clio’s $1B vLex Deal&nbsp;&nbsp;LawSites",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR1RSSVc5UVpVekhrVGVNei01M0xvTGhUczY3QlcydHNOVm1KRHdxcjZwa0Q0UDltUndVSlBxS3YxWWphTzBzSnh2NGZ5SHdGRWRsdXBwUFlBVHV5WDZYbEZqckxzdE1Da05nakVvOWFTTWh0X1oyWTVfU0FVeTgyQ3JfZFdLTlBDZHA1cUVUY1JXTWZGNk9YNmQyb2txRWFDYkhZTEExbjRadDBfdDktYnBLUF91bldDc2pVOUd2aklYd2hLWmotQ3VVNXlJbjdSNmM5QVRkVnNYOUtPSHVKU3ZlcGs?oc=5",
+          "tags": [
+            "acquisition"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Legal Chiefs Say AI Will Empower Their Lawyers, Not Replace Them",
+          "source": "Bloomberg Law News",
+          "date": "July 6, 2026",
+          "summary": "Legal Chiefs Say AI Will Empower Their Lawyers, Not Replace Them&nbsp;&nbsp;Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRVc0V3FhSDdpdld1cHd4bEVBNVpqWGZwOVRZdHpXdEpZaUJQM3JUa0YwYU50THl0U2czc21VeG1MaTBnY2c0T3NQZUNnc18xMElDY3NfRG9Cc3hqcVliUklBLWRyS3M1Y3o3MHNBa2NjT3R1TGo5YkE1ZnVzRTJjS1hXVUJsWm9FdV9odXQ4VllXRWhZV1Fsc09xOHladmZxa1Z4MEpvbnNNOEo3MzM1Y3dR?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "DocuSign Integrates AI with Perplexity to Streamline Legal Contract Work",
+          "source": "Small Business Trends",
+          "date": "July 6, 2026",
+          "summary": "DocuSign Integrates AI with Perplexity to Streamline Legal Contract Work&nbsp;&nbsp;Small Business Trends",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS2dweDVlM1Y1T3ZPVHB3YTc0dDJ3QjdmdUpXcVFKV29tQy1GdkpYTERHbTZjU0tWYlhqdTR1eVJWX2dKbUktN2llcFVwbV9neWlRcGpROUxBelRVc1RaMUFYUGt2VzR1STd4MFBOdnQxLVhTMENwUy1yYXVvU1JvX2pnVkFVaFFIc3VBM2FtVUt6MlhyT09nWDFfeDZGekg1dFE?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "AI use in dismissal claims borders on contempt of court, judge warns",
+          "source": "AFR",
+          "date": "July 6, 2026",
+          "summary": "AI use in dismissal claims borders on contempt of court, judge warns&nbsp;&nbsp;AFR",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX0dhRHktN2hnekdZcWR4VS02eTlWa091ckp0a0ZxbW93YmFHTDNST2VWUnFPTWJTOUhjYWU1THF2My1OcWFJWVlLN241ckZJRkI5bGFKNmNreWc2V1d5SUdOYnJVTEYxbEJRaFJSRWZuWFNzblpObUpXMWFWV2VITlltYkJCMlRKNlB3aVFsTHJSWVpfaEZsLTlDRTE5c2labmJOWFVuOVNMbko5TEdkeS1PbWFYVXR5Q2JOVmpFUUlPR0tpdEJzaDln?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Thomson Reuters Shows Trusted AI Starts With Data",
+          "source": "Forbes",
+          "date": "July 6, 2026",
+          "summary": "Thomson Reuters Shows Trusted AI Starts With Data&nbsp;&nbsp;Forbes",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTE8wMFNmR3B1WGgwczFXVnBBVFpraVgzbkFuNzc3TVoxZmUzR1pUZjNHOEdfd21JYXZZZEd0MlBTRHY1Y2FaZ1VXQk5TQm8xSjlkSkZnOGktMXNmOHAxbHdCX0VSVEhzZkRFbG0yTkoxVHVNN2UtWU1JazU1ejZwSnM2MThPMEI3SEhaSXFZREFQYlRISFlrUW90RzQzQk1nU0FDTHBqMA?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "BigLaw’s $440,000 Problem -The AI Director Job Nobody Can Fill",
+          "source": "LawFuel",
+          "date": "July 6, 2026",
+          "summary": "BigLaw’s $440,000 Problem -The AI Director Job Nobody Can Fill&nbsp;&nbsp;LawFuel",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZzdaUFlrZlhBV2oyN01ZMlRsT1ZmaTJSRnAwcWdzVWpoYXVBTmJwVEZDZ1l5RVkzczdLMW1QamZXOHZKQ1JVNmdrRW5aNjFZT2thQ0kwd2oyX19SU3lURVl3bThIblB5?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Fat Joe's Legal Team Accuses Opposing Attorney of Fake AI-Generated Citations in Defamation Case",
+          "source": "Complex",
+          "date": "July 6, 2026",
+          "summary": "Fat Joe's Legal Team Accuses Opposing Attorney of Fake AI-Generated Citations in Defamation Case&nbsp;&nbsp;Complex",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS2pjQ1ltbFQxZkhCcnBXREprM1lhM3RZTmFsRTJvZFVDbkVFSE9XbjZIVEpROURRNFhGN1B3X211dkdWZGV2ZlEwaEJYM0Z3QlBQc29kV1ZIWHVqM3RfbDdrNmkxMWZQVmxpUGZ4NkU3SVNlVm1vdnNrdHR6N1ZwLTluaXlISnpydUxxSnlySDAxYjc5?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "There’s no room in court for AI hallucinations",
+          "source": "The Scotsman",
+          "date": "July 6, 2026",
+          "summary": "There’s no room in court for AI hallucinations&nbsp;&nbsp;The Scotsman",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMTEtMlZ1S2hmSUxmSlJMVmtFdFNwelB6MW54Q2Flb3YxNVFKek1oMEZUSEh2enliZ3JNY1R4MVlmQUxCYzRldmdsM21kQ2xMbXhHamZ4eGlZSHFoTlVsX1NSQ2lTdHZvSWI3RTMwYTFiaWVjWjJxSFZ0bkh2ak84Smx1OFdIcS1SbVBYZGNHWE8?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "As State Bars Consider Strict AI Review Rules, Nonlawyer Justice Worker Programs Face a Major Threat",
+          "source": "Law.com",
+          "date": "July 6, 2026",
+          "summary": "As State Bars Consider Strict AI Review Rules, Nonlawyer Justice Worker Programs Face a Major Threat&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUmJIQmM2SlBnNXZIdXh6MEtGdm1vOHV1MVRCUW1xWVkxRkVZNkFzdHVfQ2hDLW9iWnpxdGJ6d0VheHY5Qy1sOU9JNWxpbnJCcHdIb0NiRDdMaEdIb3BVOGt5ZXJrLUZIWmRobVFDd3Rxdld6b2NLbGxJYkVEeTdnZmdSbm1odHM5NXVJcTRMMnhHNDdLUTJQNkdfWXVRYWJRNDZzV2ZpZ2Z6emxqR3o2SWVLTFFOREQyeTBrYTdlOXpwaGFQVWd4aFpwMndULWctVE9fUUtTNEdLQkE?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Legal elite on notice after Adelaide inventor builds their replacement",
+          "source": "Adelaide Now",
+          "date": "July 6, 2026",
+          "summary": "Legal elite on notice after Adelaide inventor builds their replacement&nbsp;&nbsp;Adelaide Now",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOTWp3OHJIYV9RTUt0bktnNHZpdzQyVUo3ZUplSnZxd0NVUVRZQjBWclFoOHduU0k5MWJ2YW1mT2RIZU5GUmVoeFUxNm9SSGRvU21GMDF3SnZIRnNvSGE5TGJDb3FZLXREb0M3aGZkajJ2ZXVTLUthV1I3S3BBMFZteG8zS29RYmxjY2l0dWVvSHFXMC1qNDVtY0p4YWl6OHlOdzU2TmxLZWRKbkU1TWJvOFA5TG1wLVJnWERfMGZyRXRmdzJYc0RLVzlRWXowcmJpV2RveTBqQkV0Q0NtRjFWVHRyWUtKWmYtQmVoX0lTMlQ4WEExVUhvTXAzZkxNbDNUUUlOQXBQT29sS2xjYTdzTUh5Wmp3X0tuaS1vREVMb9IBnwJBVV95cUxOTWp3OHJIYV9RTUt0bktnNHZpdzQyVUo3ZUplSnZxd0NVUVRZQjBWclFoOHduU0k5MWJ2YW1mT2RIZU5GUmVoeFUxNm9SSGRvU21GMDF3SnZIRnNvSGE5TGJDb3FZLXREb0M3aGZkajJ2ZXVTLUthV1I3S3BBMFZteG8zS29RYmxjY2l0dWVvSHFXMC1qNDVtY0p4YWl6OHlOdzU2TmxLZWRKbkU1TWJvOFA5TG1wLVJnWERfMGZyRXRmdzJYc0RLVzlRWXowcmJpV2RveTBqQkV0Q0NtRjFWVHRyWUtKWmYtQmVoX0lTMlQ4WEExVUhvTXAzZkxNbDNUUUlOQXBQT29sS2xjYTdzTUh5Wmp3X0tuaS1vREVMbw?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "A Legal Road Map for AI Adoption on Campus (opinion)",
+          "source": "Inside Higher Ed",
+          "date": "July 6, 2026",
+          "summary": "A Legal Road Map for AI Adoption on Campus (opinion)&nbsp;&nbsp;Inside Higher Ed",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNanlYSEJoUXJCd1djZ0ZSQzlqa3BsMEZHMG5zeExkMmxjTElkQ0lfOFdOTW45cFdSM3ZTZFRMTkZzV3ppLUl1dGlmWHpBQ3FtRHNfVmp4M3Jud09wQmhET2dQT2JXVzFYVzlaY3VaX1B3VmtlN2gxOVFMUVFjMW4zUTB5WnNPNUZwdTg2bjhuSjFEYUVVV3h2MFVQQTl5UQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "IN-HOUSE COUNSEL: Hold the Line",
+          "source": "| Asian Legal Business",
+          "date": "July 6, 2026",
+          "summary": "IN-HOUSE COUNSEL: Hold the Line&nbsp;&nbsp;| Asian Legal Business",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnYkRVS1hmS3ZCOTFpWGJrYVgtdWJHcm15WC0xZGhJOWtvZmJseU1QSWtLdjkyeGFwN2ZSMFVUOE1McDMyS0JOVDV6M2NEdU1EZVJmb1hWdm5ZNDNJU0tjVnlXUmI0cjRWdWhBbmdrUVlkWElUQUJ3?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "LEGAL SPEAKERS FOR EVENTS: BOOK & HIRE A KEYNOTE FOR VIRTUAL EVENTS, LIVE LAW MEETINGS",
+          "source": "futuristsspeakers.com",
+          "date": "July 6, 2026",
+          "summary": "LEGAL SPEAKERS FOR EVENTS: BOOK & HIRE A KEYNOTE FOR VIRTUAL EVENTS, LIVE LAW MEETINGS&nbsp;&nbsp;futuristsspeakers.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM0ladkk5TXRkOEFTSERlOU84Y3RZOHVnMi1za0M3dy10cXdQMVNhRXJpb3FtOTF6WFRJc0xlQTVLYmlvbTYyX0Fvd1I3UlRqM0tubjhfSjZaWDFVLXhNT0xLWjJUOUtaY1ZxRHlsLUtibV9PWXh6a0UxOXF3RDF0MA?oc=5",
+          "tags": [],
+          "heat": 1
+        }
+      ]
+    },
+    {
       "date": "2026-07-03",
       "fetchedAt": "2026-07-03T18:09:36.453Z",
       "articleCount": 35,
