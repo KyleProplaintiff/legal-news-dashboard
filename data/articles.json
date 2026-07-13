@@ -1,6 +1,101 @@
 {
   "fetches": [
     {
+      "date": "2026-07-13",
+      "fetchedAt": "2026-07-13T18:40:47.267Z",
+      "articleCount": 8,
+      "articles": [
+        {
+          "title": "Law Firms, Clients and AI in 2026",
+          "source": "Law.com",
+          "date": "July 13, 2026",
+          "summary": "Law Firms, Clients and AI in 2026&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUmFmSnhnam00Y1NBc0ZSNmxVa0hkZ2VrTElXUTJseHVJNlBfWmVjZGNLSXF6ZkhoOGdaREl4OHFqUEFfTlpsN3hHS0ZuWHVkMDh5NzdOS3ZHeDBPRnlKTkg0SllGbHVOeTVrZS13X05YMWhoQ2NETzR6Mk1jSW1id1Nn?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Law Firms Are Building Their Own AI Tools. Should They Share Them?",
+          "source": "Law.com",
+          "date": "July 13, 2026",
+          "summary": "Law Firms Are Building Their Own AI Tools. Should They Share Them?&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMngwY0VrSnkyM0xhMlFPdU53NmRlZnZvRnhJdFpkNEhwQks3NU1MY1l4aUxkaC1PTF84bkptYW5fMFNta2p3M21rek01RGZ2YkN2clpUVnNUd3JQZ3N5cmhSZlliX2czMDBOaVFCbHA4NER1SU1BTDNPY0tVT085LUZnRUg4T3RpN0o4c2t0R3pJZDg5WEpfVkY3S29Ca1BPSDd4cnptOHo2WGEwd2lvLXdB?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Zylpha Launches First AI-Powered Features to Help Build Court Bundles Faster",
+          "source": "PA Media",
+          "date": "July 13, 2026",
+          "summary": "Zylpha Launches First AI-Powered Features to Help Build Court Bundles Faster&nbsp;&nbsp;PA Media",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZERrNjZYbzEwb1ZwQ0w5aFV2ZjAxb04zbmYtY0o5Z3hKSXhRU09ZRlFDNlZLZlNaOWNvTE9qUHE0V0NUYmtuS1A3RDBVZDcxOFBac3h3WUl1SnlZbE1WR3RIbmIxYU0xS01PaGJLMmxtbWRndHBzcG5vbnFDcXpiRzRhYS1wRFFxeEYxQlVValZTRmVlNmJwb19YOGJ6WW42N1JpMEs1Ump6RFotT2N0SmtjeEtQZVlKSnE5LTc1dTZmWFZsRGcw?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Legal teams unclear on whether AI is delivering value, new report says",
+          "source": "ABA Journal",
+          "date": "July 13, 2026",
+          "summary": "Legal teams unclear on whether AI is delivering value, new report says&nbsp;&nbsp;ABA Journal",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0RVSHpkN2hvVi1qTjZaY2NNMXo2R1otcGROU1hHVkpvcGlGRzFYZUYxRUxsblFjWFhJeHJMY0VyMEk2bTRfYlRQdUp1UFFmeV9HLWgzXzktTmNBV1BQbjBueUcyQm5NeTJhbjAyb1BtNUFSLWRkYmpCdFVIcGt0ZDJBc1hnbklSQVFnYTJseFJTTVR3TkRIR1ZPQW1OMVZVN1N4alZmaGtodHFERmc?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Reliance on AI-generated fake precedents",
+          "source": "Supreme Court Observer",
+          "date": "July 13, 2026",
+          "summary": "Reliance on AI-generated fake precedents&nbsp;&nbsp;Supreme Court Observer",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUZYemdTRjhIeGNQMTgwc3BleFpIMnBkRzBJYk0yenNhZmZ1OUxiNGI2NDExUXROenZZWWRxYW5ZeWFlcGFqcGFlZ28xZWtqcDF5RGhmbi1TdUJfV01JNko2MVVIVVlSQURVVFF5VmRuY0p5M1pVd0J3c1BjODZFOUVFZ1djT3BnQlBKZnNRM0NhRmNCM0k0cXhNVWI0eWlVTjhUbG10aDdLSDlX?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "CPS caught using fake AI cases in High Court",
+          "source": "Legal Cheek",
+          "date": "July 13, 2026",
+          "summary": "CPS caught using fake AI cases in High Court&nbsp;&nbsp;Legal Cheek",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVc5SGlBMG9VMlBRa090eWN4blNwZ1VFekE1U3BvOTk4ajQwS2VVQlpSUzdLREtlQjlhLVM2dGc0UmRuQWJUMVVSZVdTTDhRaTliLXBYMkEyYWNyWHhsWWY1LUp0SkVhTkhYU0Q2V21XQzBvZEg0RlUtQlRtMEozdVFNNEhKeFU?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Inside SC’s proposed regulations for AI use in courts: What’s allowed, what’s absolutely barred",
+          "source": "The Indian Express",
+          "date": "July 13, 2026",
+          "summary": "Inside SC’s proposed regulations for AI use in courts: What’s allowed, what’s absolutely barred&nbsp;&nbsp;The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTldiQjdLdzdXclJmb1dyNGNZY200dE1ZdmU5TUJ2dGFBaXI3d2NGLUtSamRYSWpIZnRLaDRETUVmYVBIZGVodWEtbVJYVG1MSWppSWc4ZGpZVXJUMkRUTmpZRkk0cHdwVEVMOHE2ZEM2Wjl3WUVNbjZ6LUQ3UmNzNjhLTE1XMVJYRklmTnF4dmpsRjFkRkdleHB6UnV5V0F0R0RvSVlrMHd5cmFCR21ZLdIBtwFBVV95cUxNVDRnbm10ck42OGZBXzFKWDBDQWxpZlFMWTJuNW9WZVNmcHl6M08xMTRoblpBa0hyanJxRlZ4NUZhSU1kRUVicnRoM0xiUXZ3WE5QYkdJRFQ1NW9fT0FhNWVlWWhtVm1zWGF2TkpGbWlnaTdXa2lfM01VVV8yRjhqOFBuVk1aNG10TWhQMUdHaV9pZmI1MnVlMFZzX3ljT0VIZkI3MGF1SlhNWEVkZXZFZFNHNmU1UkU?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "How CLEAR Investigate transforms investigations",
+          "source": "Thomson Reuters",
+          "date": "July 13, 2026",
+          "summary": "How CLEAR Investigate transforms investigations&nbsp;&nbsp;Thomson Reuters",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaGQwaDJVMXhrQk5VQVJhWnpmTnBWLWJmeVdILWVpbGRlZkozRDhnaEZmZTNxaUVxQV9ib01MbnN6QmhxdzhQTHprbGd0N2JjSFZvM3N4NXA1amlmWGRrZHVuZEVuTTNqVzNObEZ2bkFrUkJZYUwyaG5vMHdlR0RudHBCZw?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 5
+        }
+      ]
+    },
+    {
       "date": "2026-07-10",
       "fetchedAt": "2026-07-10T18:20:24.634Z",
       "articleCount": 35,
