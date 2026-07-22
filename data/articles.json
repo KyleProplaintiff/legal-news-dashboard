@@ -1,6 +1,310 @@
 {
   "fetches": [
     {
+      "date": "2026-07-22",
+      "fetchedAt": "2026-07-22T18:05:31.940Z",
+      "articleCount": 27,
+      "articles": [
+        {
+          "title": "Legal AI startup Vikk AI raises $4.2M to build lawyer ads inside AI search",
+          "source": "SiliconANGLE",
+          "date": "July 22, 2026",
+          "summary": "Legal AI startup Vikk AI raises $4.2M to build lawyer ads inside AI search&nbsp;&nbsp;SiliconANGLE",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXc0NnItUnFlaldnSWJKSjNKcFVrNTEwS2JSR2FJR1I1UW1BSUJVanQxSWtweHk4V1RUYjdsUDBiOWhJbktOU3pqWFhibXdsb3VHOGYwaVV1VHVMT3VEcFJ2SG9Xc0tZUkV1eFN5VkFoSlQ1NkEwa3dmR2tody1oQTRkMmFXeXpZZGtsRHdReFdCNEpvS3lPU3JFSnh2bV9xZHRBcWRRYUJ3dUU?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "OpenAI Partners With Willkie to Build Custom Legal AI Tools",
+          "source": "Bloomberg Law News",
+          "date": "July 22, 2026",
+          "summary": "OpenAI Partners With Willkie to Build Custom Legal AI Tools&nbsp;&nbsp;Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDN0bU93M3NvdzNwVUNaUFh2TU0yODd5bEc0OHVjc243dmFkNVRsQi1YdFpPa0RRUk5XbF9mUm05Yll6enB3RkNfVVByY29ab0YyUWVWdGdtNk92S0FYTmdyc3BkM0tIU1NFN25QNlN4cFJjbHpjYU9jbl81a012alVUb1d1Um5aTHZ1Nm9CcjlGQXFjNE5WRU96RC1yWGpxZGRkME1MOW5PTFc4?oc=5",
+          "tags": [
+            "acquisition"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Willkie Farr partners with OpenAI to accelerate development of proprietary tech",
+          "source": "The Global Legal Post",
+          "date": "July 22, 2026",
+          "summary": "Willkie Farr partners with OpenAI to accelerate development of proprietary tech&nbsp;&nbsp;The Global Legal Post",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdkJOcjAtSWgtdnZkcTlydkk0TWQwRTdITGMteWh4dGhjMGdyLW56LW05Qld5SVR0c2dhYlJVbW5CaXJxSEt6cmxvTVNmM0xTeUZUUFRtNmt4VG9rY2RvRExqN0QxT3hlRm4zRG9SWEVRLXJCeUgxRmg0MnBKZzFqTUl3dzBzNUdUQkdIWUpMUHVkXzNST3RXb01wSFBKV2VYTTBSUkpkTndXVXRGRmp5T3JFaERkT3VlTWF2U3VvM1ZlRXdFVGc?oc=5",
+          "tags": [
+            "acquisition"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "US Law Firm Willkie Partners With OpenAI",
+          "source": "Artificial Lawyer",
+          "date": "July 22, 2026",
+          "summary": "US Law Firm Willkie Partners With OpenAI&nbsp;&nbsp;Artificial Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVpMUDJtMW1fTTlpOGZTaFFIMTZ3eG5ob18xRmo3RjZBSVlxbHBsLXp1M3dlZ1VFcU9xSW5IUk8tR2puMnlORWl2Mzc5YldhV1BZdDUxUmpnTU1NSXNQaXhaYTJNS2dwWG9IYzBpbmNFMmw1VDlJVjd0RWFacjhaRnJHdjl6N29LekU4UDh3?oc=5",
+          "tags": [
+            "acquisition"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Attorney Referral Legal Platform Vikk AI Announces $4.2M in Funding",
+          "source": "Law.com",
+          "date": "July 22, 2026",
+          "summary": "Attorney Referral Legal Platform Vikk AI Announces $4.2M in Funding&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVTMybTN3NzdXRVZ2WW4xeGQzWkRUblh6eXVqcDUyMkxaUVJKWnRaSjJManczaVZkUEk4TjZUZHRHN0x1Qk0yUkQ0cnRuaVZwUWhGWTU4QkVVZU5GbVhMZWIwZVdMWDVXSGhGQmJoSWdQTEVoUHVSNnpwRC1CVkhpZU9tSnk5U0VhM0JUeFlSMG52OEhtVjlkcTNMak9uSURCY0ZheEdGZW93ZjhBX1FRLWt3?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "The AI Dividend: Who Gets the Savings From Legal AI?",
+          "source": "Artificial Lawyer",
+          "date": "July 22, 2026",
+          "summary": "The AI Dividend: Who Gets the Savings From Legal AI?&nbsp;&nbsp;Artificial Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVENQUlR5UGJOT1dTbVZ0ZnozQXVHVjFGMXNoVXU2bzdXZFVtLS1oeWtnSlZCR3BrelgwTFo3QnM1WkFpYzhsVVhMYlhydDFEejdQdDJCQWE2SGJZNVVVZkl5d0NKdnVRMTJTckJaNmF6MlhiTWJPazRQWjlNNTJZRVJqTWc3a21IR2xlNVR3cGN0SVBrWlh1U2VkQQ?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Clark Hill Expands Industry-Leading AI Platform Through Enterprise Adoption of Thomson Reuters CoCounsel and Firmwide Generative AI Strategy | News & Events",
+          "source": "Clark Hill",
+          "date": "July 22, 2026",
+          "summary": "Clark Hill Expands Industry-Leading AI Platform Through Enterprise Adoption of Thomson Reuters CoCounsel and Firmwide Generative AI Strategy | News & Events&nbsp;&nbsp;Clark Hill",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSjJEMVY1d0p1NlRrUERBVE5sbVFTX3JoaVdIOGhlR1dJdU95c0lWOXdOcXdKdk9tVUpuOXlDWl91a2FFQ1ZqRXdKemdpcTFpVDA4bUJpLXZ6dUNrUEtQUEJaZTZCVng4ZzNkdXdpUjlMVmphYVV2S3RKQXhsVzRBUGZIWE0wckd2S0dZSzk0WFJVVjNWOXlSN1M2VlVpWS1tR3RGZ3VjWGRNeGwtcUNJWW5ITmRZb2lvT1JkSGdwRzZvVkxTS0VYT3FyWjNzZFduQXhSZU55b0pSWU9zSzhld1Q5WDdyeXRIdFdoRFJUa3JzaW9FS1JhZU5USVNhMDUtblVhMU82YlNfOTlCOC1BS1Zn?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Walk Through: eBrevia – DraftPro, Contract AI",
+          "source": "Artificial Lawyer",
+          "date": "July 22, 2026",
+          "summary": "Walk Through: eBrevia – DraftPro, Contract AI&nbsp;&nbsp;Artificial Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ0NSTHA3MGZESnhfZFNTUGx2YmY2VjVYTUFLekVDallzNEZjQ20zc29oS19FUEs1TUU5WnZaOVdQOE4tay1Bc1V6ZzJZR3A2YXAta2pURDRDU0hnb3FSN3RxaGw0ZXFlM1FVZnAzUWh5N3ExYldIRE1UbkhZUHZ2d1F3NlBCMEJ4MWVYMmExOA?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Relativity President Chris Brown Discusses AI Integrations, Broadening Company's E-Discovery Focus",
+          "source": "Law.com",
+          "date": "July 22, 2026",
+          "summary": "Relativity President Chris Brown Discusses AI Integrations, Broadening Company's E-Discovery Focus&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUlNTX3ZWTkp5cTVXOUg1c1FyOTJQVFQtX21LUjlRYTI3VXFuQ1h0UlRCbUMxenFhZnpma003ZTl5TXhZU28yYzhEdThza2U0SjcxbUFwaTFjck03QnNKQUlSRXVxbFl0UkhUZERVSTQzOHNGakd3bFFtS1VJZm9FTk5rNlI5VU9XQlNUWG9DYURCUkVkZjJ2MURwSkkwSFN3T01CSkRrcndybWczU1NDR2NIZF9JbHk5QUN4THRrSDFNOE5uUHkyaWpaN1Q2TUZyMzUtRmx6b2tjQQ?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Luminance Launches Customer Advisory Board to Bring Together Leaders Shaping the Adoption of Enterprise AI and Contract Intelligence",
+          "source": "Legal Reader",
+          "date": "July 22, 2026",
+          "summary": "Luminance Launches Customer Advisory Board to Bring Together Leaders Shaping the Adoption of Enterprise AI and Contract Intelligence&nbsp;&nbsp;Legal Reader",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSndpT3BKbFI2RWdHeU9zb0JraV95WmtacmdTTUlBRzJmNUJqZzBfZU8xS1NUc0QzdEhVejBqNmRhQ3IybXBKbmhVdmw4elJGUUgwTThyd091cGs3S0J0OGh5LW9nSFJsbzFtbFY0T2VwUjJUb05yNVQwUTZwalNpQ2NSVXpqakx0ZjR5N1lPRWtzMXZlNllUcUppVTBDLUdzR3ZxWHRtcUFzTFRxQll1ZGNyQ2lzUzVXbEdBZGUtMnVsN2lOc2J0NGhHaVZJdTQ2WWJnaVg2c2VxemUxaUNiZWh4Q1U1b0laUjZuYzF3c2U3LUk?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Luminance rallies global leaders with new AI advisory board",
+          "source": "Lawyers Weekly",
+          "date": "July 22, 2026",
+          "summary": "Luminance rallies global leaders with new AI advisory board&nbsp;&nbsp;Lawyers Weekly",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLV9qelNaVjVvOUNNSHpQdzNJLXZPV3RqRUJEeExCT01RNlVlNXZxZmt1WlM3dE53U19LaDJ5UUhpaU56SHctNm1FZG9HaHROa3dFWThvTWVfQUwtN3JfN19pT2JNMklzSlRtOFhTTEFKNk5aTVlJOVF5aW0tdEFqaVlfNUVIeDlYbFdaSXl3aEZleXlYNE9IZG1TbldyQnA2ZkpIVWd3R1A?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "LexisNexis Appoints Ray Thomas Jr., Esq. to Lead Enterprise AI Advisory for Corporate Legal Departments",
+          "source": "WebWire",
+          "date": "July 22, 2026",
+          "summary": "LexisNexis Appoints Ray Thomas Jr., Esq. to Lead Enterprise AI Advisory for Corporate Legal Departments&nbsp;&nbsp;WebWire",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoWXB0dHUtVFdFQXhqMnpZTlQ3cERETm9fNWZaLXpfNEx6dzdVTEZqMzhOOTQ3a3J3dW9oVXF4czVkTlhmay1fTjRVODU0bUFPbmMzTHVEbVhHNUl6SHhNUA?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Why Experience Still Matters In An AI-Driven Legal Industry",
+          "source": "Above the Law",
+          "date": "July 22, 2026",
+          "summary": "Why Experience Still Matters In An AI-Driven Legal Industry&nbsp;&nbsp;Above the Law",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWS10YlRJVkZRQV9CRG5VM1NtZXVVOFlKelJ4czJsVjdJRVdXX3ZOeUFmZHYzZDFnSV85Q3Z4QTI2MXJ0Sk9IVm5TMHpuLWhGMUFjdWhZUWdBX1pILVJTdVpxWnlRRTNGX1o1QnR0QWtGcmNPbDY5cWZZVExVSDNCbkc3ZmJibHozWmZsOThFcGJ0VEp0REVJ?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "D2 Legal Technology names Heymann to lead law firm AI",
+          "source": "IT Brief UK",
+          "date": "July 22, 2026",
+          "summary": "D2 Legal Technology names Heymann to lead law firm AI&nbsp;&nbsp;IT Brief UK",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdE9BSlVydXp5Z0NpcE9CWG81ODRZU2Z6TDNRQzJuMjlFTHFWSHNBYXRvd3RXMFIyNlRxNm5fZnMzQmIxZm5odEczbnB4SzJ2b0FFbmEzbTRoZGxJcERxVW93cmplOG1RUzgwVWs3cVMxSDIyT19tRXRiTGVqdzJQMlZOTDhSMkNK?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Arnold & Porter appoints first chief artificial intelligence officer",
+          "source": "The Global Legal Post",
+          "date": "July 22, 2026",
+          "summary": "Arnold & Porter appoints first chief artificial intelligence officer&nbsp;&nbsp;The Global Legal Post",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVUxKNzRrVFc0QzJmYlh6cTMtTGs2N25QbmN5VmZBTGlpNVR1cTFBU2JseWtMNjlGVWVqTE15dlEyUjl1M2VTLVc4aUNUZjFUdk5FOHJFZVFpeHloYm94SHJJZjZ0ZS1iRXZNa0hsQzNZWEhUVzZnTTdjemN4U3JKYXBFYlEzWU9IZzNLb2hIcnF3Q3daMkY1cnFybVVZTFhwZEhCSHhmdHdNY0ZtcThEYTR4OA?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Is AI Really Reshaping Legal Departments, Or Have We Been Here Before?",
+          "source": "Law.com",
+          "date": "July 22, 2026",
+          "summary": "Is AI Really Reshaping Legal Departments, Or Have We Been Here Before?&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbm9CbU9oRFhtSGI1dVYtZXlLQWphWm9RSDVwUVM5LTZlc2w2cDNJa0ZGTDBmUG5GQjcwem5rU19PMFMyUjAtNUVSVFNQaWFjVGhablV2dUdoS2pGSTdyQ2dWaUlHVlJHOVFMUkZKS3NLZWxhWHNHSkxQQ21vZXRpNlFsbnNJRWNONzc1Q05tdWNBY2NTWlYweFlldHpIbGdBWk1xT0p0ZzJKMWY5YXEwVGVR?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Alabama’s New AI Ethical Guidance and Its Impact on Legal Departments",
+          "source": "The National Law Review",
+          "date": "July 22, 2026",
+          "summary": "Alabama’s New AI Ethical Guidance and Its Impact on Legal Departments&nbsp;&nbsp;The National Law Review",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOE1sMnVJQ0hxV1FxbEZwWF9UWXNhd1I3NTdzQk51N1E3NjZWRjd5VUZWOEl2dmluOW4ySjNta1JkelNMSXp3VkZDakpRalJYdTFFdE9HSi1WVWJRNWtPRjh2Y3ZTaUF5MjdVeFI0d3JkeGJZSWZqUW1ET3hhdUNtTU81OXNoRllMbVM5U283djRKX2lFQzlzekJmQk16MkXSAaQBQVVfeXFMT25OdkFpOGpEZTZoSEZDaFVsR2pUNHZYUTdBaVg0eE1PR2VDZFozOTl0elllZHZBRU16Uzd2OHV4dzc4dVpEMXVENGRKOWlkZGFSZUgwZUJlMXk3YmxtYjVESV9xamxkOTdRWmxhQWJkdVpHXzBxMnloWnFUaEtGYk11RkpaVUEtU1F6Znoza2JueXQ0NkxsZU1FY20xM1pycDhmOVk?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "AI use in legal filings is becoming more common — including by some DOJ prosecutors",
+          "source": "WBIR",
+          "date": "July 22, 2026",
+          "summary": "AI use in legal filings is becoming more common — including by some DOJ prosecutors&nbsp;&nbsp;WBIR",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTGFzMnhfZ2tybDdES0s2UExtajVfQ1dxRUdETmFyX09iS01KZlRqRkk5a1pUY011MjRjdUwxMFNUb3lJdFlsSUkycnIxNnFwVjBKa1ZqWmUzbW5oYi1IYUZLZmFCOW1VVVduZGZBb2tRTWZnQzZ6TFFldW1ZekVPS0NkYmNuYXJMM2MzMkd3UkRrTkd4ZjV0LWRhSnI5UVZrek13WEVQMkhTUU5JZ2F3dUhQYW9Pdk5NUnQ5UUlDNTZQSUhYMktKeE1GOVFSNlQwU3JIX2UxRG03dXdyc0hrMGVFSQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Thomson Reuters gives AI a human face",
+          "source": "marketingreport.one",
+          "date": "July 22, 2026",
+          "summary": "Thomson Reuters gives AI a human face&nbsp;&nbsp;marketingreport.one",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2NUWHlzUXFGSkV2RHpuX2hJbnZTeGVlR0NRRmVicHhxc2p4TUg2MjNXcGRtcjZnVlZYZkw1Wnp1LUlPeUFld3JuOS12LWh0WlNNSFlvZ3RfZmhrS3g0R0tyLVVJbTNscHBNZEk4WnlEUFl2M1FiNVZpcHZGYk5IZk1aTTNIdw?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "AI researchers urge US appeals court to uphold California AI transparency Law",
+          "source": "MLex",
+          "date": "July 22, 2026",
+          "summary": "AI researchers urge US appeals court to uphold California AI transparency Law&nbsp;&nbsp;MLex",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZWRmZXFWUDUzcC1Oc0N1bjVYZFhLaWFqeER0cVU2clNPd2lsdGpNYTFVUldTb0JXc2JfbHVsTlpvT0pSUTU2VFRZWVNvVEdVYXNFai14UFhDWjlYei1fNHZpMElUVUVZUlNrZUluLWh4d3JyU1ZvUUxFd3NURWxZVU1LMTVMa0dIM3dnckQ3X2pJWVg1YjVMdXVhWml6OGZkX3pGQm1LYVh3a0VOUm9VQnlMX1hkQ0NLeENXS9IBWkFVX3lxTE5LcHdlbHpLd05PQVpwMWZsdC1GRmdzZld2TVcxc0JQOVBKZ3pCVHBhSW5TWUJKdjZwd0dkaTF5VnF6S2V2dFYxcmk5VlQyTVBhOUZHbnNEcXVTdw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "Anthropic’s $1.5 billion copyright settlement approved by US court in landmark AI case",
+          "source": "The American Bazaar",
+          "date": "July 22, 2026",
+          "summary": "Anthropic’s $1.5 billion copyright settlement approved by US court in landmark AI case&nbsp;&nbsp;The American Bazaar",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS09xd3BZdHRvOEFuSk9sV1A3bjRVSDBzRXptcU4zdGh1VkdmRzdYMGtYbFZ0YVI5Ty1Od3V5NTRSbjRkcmZFbl9IcEptV0g5RVJ4R0dvZGI1U2w2OUEzb2RIb3Rtb25idENKMGxTeXdNRUdFLTVLcl9zT21OYy1yVlBDOC1HaFUzWDNQelZBSDEwd0lySFFBV1pseC00SjdFZlEzbVFBdXR5bHhHNFE?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 4
+        },
+        {
+          "title": "Law Firm Marketing Leaders Should Have a Seat at the Table",
+          "source": "JD Supra",
+          "date": "July 22, 2026",
+          "summary": "Law Firm Marketing Leaders Should Have a Seat at the Table&nbsp;&nbsp;JD Supra",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdjBVZzltenU3TjE0UWJmVFFFaW9GRERKbEZvSVE0REFFZGozY0Vta00zdXFuUVlibTI5S3I1eU1aVVZENU1yV0dlTEVCZWVNRFpiNGNzZjUzd3BSR0FlOTQ2MjRVZ29LZGdveUU1UFJSSkt1bk5tN1M5ZE52YW1uV3ZxNlgzZGh1?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 3
+        },
+        {
+          "title": "Microsoft Widens Mistral Deal to Court Regulated AI Buyers",
+          "source": "Unite.AI",
+          "date": "July 22, 2026",
+          "summary": "Microsoft Widens Mistral Deal to Court Regulated AI Buyers&nbsp;&nbsp;Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdzhpVER6eFNtY1BHQ0psamRfa3BmYmZmcDNHaW5IUkdzaEhuNnNqZ2Mtemg1TzhSaEVCMjZHR2VlMTVJNm9uN2pBQ0s4TjdkeVk3SHNaWmZ1bXNiSEp3alNIYmhzeEtvUXIxeEZYaS1Ga1dmc2R2Z3JyTlZneDZNTkRnWEFlZnM?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 3
+        },
+        {
+          "title": "Edgewater council meeting turns tense over city’s legal contract with Sabatini Law Firm",
+          "source": "WKMG",
+          "date": "July 22, 2026",
+          "summary": "Edgewater council meeting turns tense over city’s legal contract with Sabatini Law Firm&nbsp;&nbsp;WKMG",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSFFYLXo2aVdMd1VrNTlNRlNoU3Z3cGM4bUFFMXNvWXVFU0FvbGZ1a0l0S3JmUUJXNXg4bXhwVkMyQWhJYklsSUQ4SFZhNEFKMnAxdmVsUmlnVnJhZmlheVllRmpnckZxWTFXYV9nRGxCY0NuYmVYRERjTnNHMmxkS05tV2kyMFhYY3dYaTdWLWhVcXdCWFJwWUdEdGJEaXZjY0JEVnZzVlFaZnhNWVlqd2M5bDdPdTl5VFpWblhHUmVDSWF2TFNEa09yX1FWTE0ta1NKdw?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 2
+        },
+        {
+          "title": "Sony takes Udio back to court — the AI that composes songs",
+          "source": "Korben",
+          "date": "July 22, 2026",
+          "summary": "Sony takes Udio back to court — the AI that composes songs&nbsp;&nbsp;Korben",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yV3Z2amdNNEJWM1NXVFdCLUJOY3lJT3JlMV9LZEhwdGxQWE9jbUtXTE1OajRQYnc5VHVPdGg3UnVOOFhTazhDYXhIeUpQQ05qZW5FYjFSdGN3WUd6Um1wWFJVN01Dd0VaNXVLYg?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 2
+        },
+        {
+          "title": "When should accounting firms upgrade their tax software?",
+          "source": "Thomson Reuters tax",
+          "date": "July 22, 2026",
+          "summary": "When should accounting firms upgrade their tax software?&nbsp;&nbsp;Thomson Reuters tax",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVHBKMWJLTUNwd2dpeXZZV0FXUEV4REdfWXNZSHYtMkpNbEVSZnpRSmNDSWJYMEtyOGZMYkJjTzRJUllCN0xPWWlFRU9WdDJkU2M0Y09DVHZxeHJvZFA3U0JEQ3RlZ2J4RVQ2TDlMaGZpbkxLR3RyUS1KaGc2bDZ0eG5VeVRYRExZT3NqZFhQM2E3WHR1WVNrdjh2MA?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 2
+        },
+        {
+          "title": "Sterlington Adds Christopher Hurld as Litigation Partner",
+          "source": "citybiz",
+          "date": "July 22, 2026",
+          "summary": "Sterlington Adds Christopher Hurld as Litigation Partner&nbsp;&nbsp;citybiz",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUpoSzVnZElnLXJ4SmRLTnBKbEhHU25RVEJsd2VXb01FZGtnYU5Xc1hNVGRILURtcFhRX21lckdtRTVwamFkbEpsQm1LVjJHZVRDYmpJMy12VXNieE8wQUY3LU9HV1ZNQzU0ZVFkLU0wMGZOa2hWMkowZE1zbjJzNUxEUEJVdkg2WFN0TldWaU5yY2R3c2swOFZEZw?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 1
+        }
+      ]
+    },
+    {
       "date": "2026-07-21",
       "fetchedAt": "2026-07-21T18:13:59.284Z",
       "articleCount": 31,
