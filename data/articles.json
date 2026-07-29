@@ -1,6 +1,222 @@
 {
   "fetches": [
     {
+      "date": "2026-07-29",
+      "fetchedAt": "2026-07-29T18:03:24.219Z",
+      "articleCount": 19,
+      "articles": [
+        {
+          "title": "Legora Acquires AI-Powered Litigation Startup Wexler",
+          "source": "Law.com",
+          "date": "July 29, 2026",
+          "summary": "Legora Acquires AI-Powered Litigation Startup Wexler&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1FGWUFzLVAwNnM5bnZudHB0SXd4enpZTkFTN0xYVHFMY0ZVdDRudVMweVItQkZDcW1NdmpYeEhRazRCOTc4TjRkX045VklEMElZTzFhdXdDcEdBUGhWRmdqc2tQbS1VY3NrMHNGcWViZ0dYZERlNnI3VzUtd0RXcjB6eWpXd2dYVzk2NDhHWmN0UFZOZWFRcWRoTVJWMzly?oc=5",
+          "tags": [
+            "acquisition"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Legora snaps up litigation AI startup Wexler",
+          "source": "The Lawyer",
+          "date": "July 29, 2026",
+          "summary": "Legora snaps up litigation AI startup Wexler&nbsp;&nbsp;The Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40REpzeTJNVDZ5VE1NVFhtdWRjUmhvYkstUDZ5QjQ2UWdVa0g0TzZISmhqRjYzZWtmcU83WlNkR1BtV1BqU213dWh0eF9sWHdrWEpTOUtwR2owZEJMQThpZnpSbnBIaG9iaTVTXzd0OGtnN2s5cnhVN1gwOA?oc=5",
+          "tags": [
+            "acquisition"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Harvey Announces Investments From JP Morgan, Goldman Sachs Funds",
+          "source": "Law.com",
+          "date": "July 29, 2026",
+          "summary": "Harvey Announces Investments From JP Morgan, Goldman Sachs Funds&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2tCMGM0UE9EWXdzbkR3NWNYZm1FUENNUjVwWUZVSlZXWWtBdVN3N1ZOazRJemJxUzM1VXREUDcxSXNISEs5Q2lkQXV5OTE3eGtZOUUtaDhySkw5cW8yc0V6S3NDMDYxZUlMUTd6SDY3RGw0Yk13SUJhZmRhbjktSkh3T1J2Z0FNYkViNzcwVEYtMjRXYmJOXy15OHpFQXlHNTNiaFozVGVBQTg4RWc?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Goldman Sachs, JPMorgan Invest In Legal AI Co. Harvey",
+          "source": "Law360",
+          "date": "July 29, 2026",
+          "summary": "Goldman Sachs, JPMorgan Invest In Legal AI Co. Harvey&nbsp;&nbsp;Law360",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUNwaVZLdjVzdVNrNGV6aXROaWRPc0pkR1Z1a1kyLXg4VGd2MTRpdHNobVpKZ0RBYURzMGgyVTZKUWZNdUd1NURKUlk3RFJYVk1SeDRMMjVhM0RXVHpqdTRzdGN5U2J0SmdnZ0YzS3RhcGxSRVB4LXVvcFUtY0ZyOXg4S3c3bnVUVDg2dDdDNVVEVmFvUXfSAV5BVV95cUxONU9WRmFTUm42TVlIN2I5dVdxRTNaNFNEWHAtUEYyeFJPeWkxX1plb0pLVDBCczRlN3dyemtsZm51WnhyRjFkdVBOaUhrVjVjS2ZzMkh1am1RRXB0Ukxn?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "LegalOn Launches 100+ Attorney-Built AI Prompt Workflows for In-House Legal Teams",
+          "source": "citybiz",
+          "date": "July 29, 2026",
+          "summary": "LegalOn Launches 100+ Attorney-Built AI Prompt Workflows for In-House Legal Teams&nbsp;&nbsp;citybiz",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0JVa1ZPN1VISnpkQ1JCMjR2RlVuYVZxYVRCSU1MUnVEWUptZVdzR25ENllwZkZJSTJkRU10QkhDR1ZETGlUcGZoSFJ4cU5SUE14QWpRb1NDd1RVTl9Tb2dzaGRsaU9vek1BT0JaVjljdTZleU5TNzFlRGpmVWdjVGIyNURBZDlyLTZXTVRLZ1BzTG55b2ZzX3NUUFlYRk9HUU9IM1A3bG5RR0dhRzhYa0pOY3FuZnpURjVR?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Legora's buying spree has reached the courtroom",
+          "source": "Business Insider",
+          "date": "July 29, 2026",
+          "summary": "Legora's buying spree has reached the courtroom&nbsp;&nbsp;Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVJVZ2ZmdEpFS2pLaFBLdVl3SXh2ZEF2b09pcnBLNDNZYUtPa2tURF9RNG9Td1VRaS00VzY0bGhIcGpyUDNzUk91Sk0xT0Iyd1piMXZkeVpqVWJkY0IyS3o4RDM0NTVaZWRicVlKMHJ0YkxNVVBxZnQxZmIzTzYzaDUta1V5SzRocGVSQkRHLTc5MHVrY0tF?oc=5",
+          "tags": [
+            "acquisition"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Best Legal AI Tools for In-House Counsel and Law Firms",
+          "source": "Bloomberg Law",
+          "date": "July 29, 2026",
+          "summary": "Best Legal AI Tools for In-House Counsel and Law Firms&nbsp;&nbsp;Bloomberg Law",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmowcjNuZDNLVmZTRGpQeUdsRmNDTV8wNWNmSllBYl9RYS1xYTNpenkxNGhnQW5jZVdTUU94SDdzTmR1T1VSMFF1cUlIV0VyXzJoZFEzNGh1N3kyU3JpaWdBNnJmdG1ETDl5ZFNNN0dXamIxUlVnYll5YkhnYXpqWkYwM3RpVEpnd1cyeFhMYXJpYW1KLXFxdV9RSUJHTXptRnYzbXRCLUt0cnA1elE?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Google Ranks, AI Recommends: New Study of 38,000 AI Searches Reveals Which Law Firms Actually Get Named",
+          "source": "The National Law Review",
+          "date": "July 29, 2026",
+          "summary": "Google Ranks, AI Recommends: New Study of 38,000 AI Searches Reveals Which Law Firms Actually Get Named&nbsp;&nbsp;The National Law Review",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORE0yZFJPTUxKMGNIZUhwbEhpVEVLVmlvMDhSYVhobFRlZ1VSMGIyWmg4V1FvUkVadW5DSmRFNWtrazRTV3dnODlSVHNqYmVFTndTTndGVUl0ejdyYmN6T1NHZmJUd2tObzlNaG52Q2ZWMmd1WWJsZzV3b3MyaGsyb2xRRThObHBxWlpmektjMWUwQWN0cGw2VExpZDJCQndTU18taERoZENUdk9kTDFJZkN3?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "AI implementation FAQs: What legal leaders ask most often",
+          "source": "Thomson Reuters Legal Solutions",
+          "date": "July 29, 2026",
+          "summary": "AI implementation FAQs: What legal leaders ask most often&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aMlB4Y25BbVplSFMtTU04allCazZZb094d2J1VGIwc2Y2dHVfM0FOcHd2MTNOLXdNT0ROTEQ5UjNaUFEyejJkM3pUTkJZXzZqVlNBbVFlQ01RS20xTTdvcW56aTBVQ0U4VXAyekVjejVXNTJh?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "AI Is Becoming the First Call for Legal Advice. Will It Recommend Your Firm?",
+          "source": "Law.com",
+          "date": "July 29, 2026",
+          "summary": "AI Is Becoming the First Call for Legal Advice. Will It Recommend Your Firm?&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnZzcjlmTEU1ZzlLRFlxUnZ6NVNKS3IzeGZRbFBqaHJhVnozM3NYWXBkdkRycFhuVDhLaTZsTFd5blhrV2kzQmp0TjQyQjJtSnk3NEJGV2lWM0VrdFZlTXZESjFkRG9lZTNZOVZBbjRobmNWSDBOOFlyZjlmYXBfd1BaLV9fMXc3Nk1DXzhXdW5MMkdibi1MUno0WnVoTE51bjRVbEhVQnUyZjRHR2ZGMlFNWVFUTjhQOG1DZW9DMVpKQTBk?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Control is the feature: The real AI risk is the lawyer you told not to use it",
+          "source": "cio.com",
+          "date": "July 29, 2026",
+          "summary": "Control is the feature: The real AI risk is the lawyer you told not to use it&nbsp;&nbsp;cio.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWS0ybGVxRFh0SWlCWUVVY2Vvb29wT2luSTdtNDNZRlg4RnVJN3hLSUc1blFBN1NfNndPV3FKaWV1cjIxTWUwSzJsc19sOVVTNTlSRDBLcHZ0VmNIcVVMYnBHc3JDVnluUXdFTWZRQlJtZGE4Yll4MEN2R3RyWUpuczZuQXRSLUNKeHBGTnl0WGk2cnhOaUp4Zlpn?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Outsourcing the thinking process: AI, accountability and the training imperative for lawyers",
+          "source": "Cliffe Dekker Hofmeyr",
+          "date": "July 29, 2026",
+          "summary": "Outsourcing the thinking process: AI, accountability and the training imperative for lawyers&nbsp;&nbsp;Cliffe Dekker Hofmeyr",
+          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPSkhvek9PaUJ2TjY4OW1UaG1RaHFkNE1LOXBxZ0FTdFpIWWNYN3JPTHFid29fNDZmNEVwdHFyUG9SUTBXUi1PWndyaGRVOV9VT24zLXpwcEs4Y21BUU82SDA2SDZZVjBCZ1dmWkxJbTBiQk5LdWczd2RFdTJaN1pDR3I5TDc2UmhHWDdEZl9kTGJNdzlYMWhJT3FRZ2UxVFFJVnZLeFlraWFzRW5JMzZWcS11cXIyeW9sV2F2c0tOLUJsQlNrWUJWaGdBTnpmdjdMV3E4TlhPVzRWMmNDLXFfYU1rbVZEVFhCYnA0MTNsMDRqdEQ3Q05UTXRnYUlnejNHYWVsQ1dTc19BTm1Pam1OVjBsMjBQbEJtMXNxQWtqNkRfcUtrQVJrR1RnbFhlanRnbjlXSG44d3MxWTFhNEtRMmJfSHhJdFZNaURDNlR5Tllrb01VVjdYSmlxSVhKQkg4cy1r?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "AI may be a boon for contract attorneys, new study shows",
+          "source": "ABA Journal",
+          "date": "July 29, 2026",
+          "summary": "AI may be a boon for contract attorneys, new study shows&nbsp;&nbsp;ABA Journal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUlhyVlBoMG40ZVVBaTNHZ0U0WVBoMlpRWmFBZDlRVUdtVkZJX3pXYnJrOFN4MTNTb3VYUXhUaUtMaXNKMzZBMGF3d09UVGJZVk1TamtSSFAyYnNUTnFFdlVLQUdMTlRzM2FtMWdmNGxET0d5Q1NzMi1id3RpS29oQk9pTXdyamdrVDUtRXRXQkRVNzZPOG93ZGJlaFpRTXBlN09odg?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "EU AI Act Drives Global AI Governance Beyond Europe | Study",
+          "source": "Thomson Reuters Foundation",
+          "date": "July 29, 2026",
+          "summary": "EU AI Act Drives Global AI Governance Beyond Europe | Study&nbsp;&nbsp;Thomson Reuters Foundation",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNXVQTmdTdWJ4WlpkYzJYSnQzaFBTUHl0bnVGcjZQWjVTRFlCMzY0b3pZc0hrSEJ3azNPTG1OZUpwcGtmWXo2dVZlS3Q5WnBBcmhrSjY0Y0VsODIyeDh0bXJHNFVHbllIY2lDa0lhVkFUYWsyeWlvc0hGanBiZVE4emxRQVE5Zw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "xAI Takes Minnesota to Court Over A.I. Law",
+          "source": "cheddar.com",
+          "date": "July 29, 2026",
+          "summary": "xAI Takes Minnesota to Court Over A.I. Law&nbsp;&nbsp;cheddar.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lMXFpa0I0N3NBcm5nZU9Xb2hyTmpxWF96RHR2eGFoUEF1Y1YwZDN0b09oUjU1dnVDWVBkWVJNWHVwVUtRd2JKRnVRVTQzNHBCbmhSbWl3dFZEdGhJTG5TUFJWSi1qZk5oRGRmRU8wNDlCMnpjN3J1OVRPZw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "Delhi High Court flags use of ‘hallucinated’, AI-generated rulings, calls for strict action",
+          "source": "The Indian Express",
+          "date": "July 29, 2026",
+          "summary": "Delhi High Court flags use of ‘hallucinated’, AI-generated rulings, calls for strict action&nbsp;&nbsp;The Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN1RLOWlMekRlWE1IdkVrVkFJa2lTazQzaDN1U0dDMDBPODNZeklrTklRYjI2OVVEQ0RUUVlVLVJiMFpMbEJPRGVNYnB4MnFmWnlVUXpWbHlrTTRUT2Fwdk5mbUVUc3g5cUdTM1ROZTI2dnNZZHFmN2Z6cUczSlpkMkxkYUo2dGpjYVlucVFEOC1lVTBhQXBucTllQmVDeXZPYVVXWl81ZEszdml5VzJDcXZxbjdKQjFi0gG_AUFVX3lxTE42Zjh5LVpyV3ZfMFhkUVl2M3BVZVI4OGN3WWc1NDNPZDNrSFlkZV9ielNQSVpDSXFGaktleVVIbzM3MFV0THhHRm9CdGxxWkVRYl92UmViT0xnczM1SVFIQnBtVjR5X0g2eXF5ZXo3bVpBYzlZbHdTSmxkOXp0MS00c1I1RkVYWEpQUlRWN3lSeDhQZnpBX3FMOUZ4UnZRSTJyOV9BZEN2endsVDZQTVVvbUZOR3kyc0ljRG9HRWZN?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "Inetum and Ecija partner on public AI governance model",
+          "source": "Iberian Lawyer",
+          "date": "July 29, 2026",
+          "summary": "Inetum and Ecija partner on public AI governance model&nbsp;&nbsp;Iberian Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNjVreEJDY2VpTTY3Y2h5NWFsbzBRWjRrV2l3Y2xQNERNS0VWOFdXZDA5R1NvYzRsWkJhaUNndUtpQXg1TVBGdF9JV0I1SnVaRzZnUTNBVnBLUzluUkx3UGZoQ0tmeDFPemNzdjRsYk5GU2VOYmFzRm5kZi0teVl4UVl6OGlEcWVk?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 4
+        },
+        {
+          "title": "Meghan O’Connor Discusses Legal Implications of AI and Provider-Patient Relationships in MedCity News Article",
+          "source": "Quarles",
+          "date": "July 29, 2026",
+          "summary": "Meghan O’Connor Discusses Legal Implications of AI and Provider-Patient Relationships in MedCity News Article&nbsp;&nbsp;Quarles",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdXNGREY0NXJkaGJXajVGZ1lXVEFzZFV0WWVXVzZFSVhtWktFcDRXMHBxNnE3dTk2b3d4VHlYS1VvS0JUMmlpWWU4aF9leUxaUHMtalJLV0xmWDJvckh5ODhzZ3ZNY1lDOWt3NnVQUWhDdnJWUXpUV0VlNWtiOG5jdUpoTWZ2MzluTFhVWUpoTTdWVzR6OVlFTWllZ1JQc1hNVFFnV2NzLUtVWWVGMXVoT2lqN1pITzhVLUVUM0pwNjFxX01fX29CT0FQY0tRM2JXTm10U0lBSnRGdmxQYS1B?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 3
+        },
+        {
+          "title": "Google Refuses to Back Down in AI Scraping War Despite Legal Blow, Prepares Amended Complaint",
+          "source": "Android Headlines",
+          "date": "July 29, 2026",
+          "summary": "Google Refuses to Back Down in AI Scraping War Despite Legal Blow, Prepares Amended Complaint&nbsp;&nbsp;Android Headlines",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa1pTRWg5d0RBRVlFelMyekdiMGI0UjQxbjR3bDNkSkx3QlpONHh0bk9QblhyTkxBQVp4MXE0Q3A1ektMVlozWFUtUHNDeEtiR0E5UnVQVVVVbVBLRTJXejJOWmlpSGppb0xhRWs3WXFPZkZPYnNicFA3eVNsWnprakcyOFhIYXRtYnRHMGstR2o4dGtPYnNBejVJSW9XOXF4S2VwYQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 3
+        }
+      ]
+    },
+    {
       "date": "2026-07-28",
       "fetchedAt": "2026-07-28T18:10:16.059Z",
       "articleCount": 19,
