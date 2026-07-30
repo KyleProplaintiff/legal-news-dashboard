@@ -1,6 +1,343 @@
 {
   "fetches": [
     {
+      "date": "2026-07-30",
+      "fetchedAt": "2026-07-30T18:12:17.187Z",
+      "articleCount": 30,
+      "articles": [
+        {
+          "title": "Legora Acquires AI-Powered Litigation Startup Wexler",
+          "source": "Law.com",
+          "date": "July 30, 2026",
+          "summary": "Legora Acquires AI-Powered Litigation Startup Wexler&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1FGWUFzLVAwNnM5bnZudHB0SXd4enpZTkFTN0xYVHFMY0ZVdDRudVMweVItQkZDcW1NdmpYeEhRazRCOTc4TjRkX045VklEMElZTzFhdXdDcEdBUGhWRmdqc2tQbS1VY3NrMHNGcWViZ0dYZERlNnI3VzUtd0RXcjB6eWpXd2dYVzk2NDhHWmN0UFZOZWFRcWRoTVJWMzly?oc=5",
+          "tags": [
+            "acquisition"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Legora snaps up litigation AI startup Wexler",
+          "source": "The Lawyer",
+          "date": "July 30, 2026",
+          "summary": "Legora snaps up litigation AI startup Wexler&nbsp;&nbsp;The Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40REpzeTJNVDZ5VE1NVFhtdWRjUmhvYkstUDZ5QjQ2UWdVa0g0TzZISmhqRjYzZWtmcU83WlNkR1BtV1BqU213dWh0eF9sWHdrWEpTOUtwR2owZEJMQThpZnpSbnBIaG9iaTVTXzd0OGtnN2s5cnhVN1gwOA?oc=5",
+          "tags": [
+            "acquisition"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Inside Scott+Scott and Litigation Startup Advocacy AI's Design Partnership",
+          "source": "Law.com",
+          "date": "July 30, 2026",
+          "summary": "Inside Scott+Scott and Litigation Startup Advocacy AI's Design Partnership&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFVic0JwbFlxTWFyTDhYc1lZaDlWOU5VRkJuVHNIV2FiQkdjUmtpMHdvc25mQ3l5RUVvbG5yTk85Y3dxN0lGeXNmRnFJc3lkNHY2dXYtX2ItUGQySUlBU2lIb1BRa05GcnJYLXY4cmtudTZSS3ZRZENyNnZLby0yRUpwbFRwcHRvMVBqdm1qQ1VaV2l0YUg3UHZmVHAzNzVMdEwzQlZRUkwtTHNOd1lSZkpFcWF3dmxqYWt3?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Goldman Sachs and JP Morgan invest in Harvey",
+          "source": "The Global Legal Post",
+          "date": "July 30, 2026",
+          "summary": "Goldman Sachs and JP Morgan invest in Harvey&nbsp;&nbsp;The Global Legal Post",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTml2NlN5a1duQzU3QU1hemNrbnRCZEhFVGpNUWw4cDE1bC1PU29DUThhUHhjMkJpYlRfaWxseWo4YUY2eTAySEp2Z3M0cml3cUtwQWJjMGVyd294Xy1vbjhMb3ZXaEtEemdXTjFsTG9pN19Mc3lkNjF2bXZCUFI5bnY3S1VaM2hhbzJTQXh1TVRMTU5tclE?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Goldman Sachs, JPMorgan Invest In Legal AI Co. Harvey",
+          "source": "Law360",
+          "date": "July 30, 2026",
+          "summary": "Goldman Sachs, JPMorgan Invest In Legal AI Co. Harvey&nbsp;&nbsp;Law360",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUNwaVZLdjVzdVNrNGV6aXROaWRPc0pkR1Z1a1kyLXg4VGd2MTRpdHNobVpKZ0RBYURzMGgyVTZKUWZNdUd1NURKUlk3RFJYVk1SeDRMMjVhM0RXVHpqdTRzdGN5U2J0SmdnZ0YzS3RhcGxSRVB4LXVvcFUtY0ZyOXg4S3c3bnVUVDg2dDdDNVVEVmFvUXfSAV5BVV95cUxONU9WRmFTUm42TVlIN2I5dVdxRTNaNFNEWHAtUEYyeFJPeWkxX1plb0pLVDBCczRlN3dyemtsZm51WnhyRjFkdVBOaUhrVjVjS2ZzMkh1am1RRXB0Ukxn?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "We built Agiloft Astra™ to make enterprise contract AI accessible to all. Here’s why that’s a bigger deal than it sounds.",
+          "source": "TechCrunch",
+          "date": "July 30, 2026",
+          "summary": "We built Agiloft Astra™ to make enterprise contract AI accessible to all. Here’s why that’s a bigger deal than it sounds.&nbsp;&nbsp;TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOHVNaXJMUVdIZ2I3TXFfT0ZmYk9qTVppTU9EV3VySEMyaVdQalRiTUhTaVRKcFVNR21ZaFpRWThXcnM0aWowZng3MTBFY0dLc3J3WkY3WmlaTW9VUlZudWwzM1Q4UVo5V2I0cHg5Q0VwS0JmcW9mUlRBNmJwRkFNNUt0NGp1bFNzUnVnVHVTcFl0R2ZlQUI5SGpIM0FuUmlFeS1HM2QxaGNTMnVJdUVWemV3SUlweUR2T185WER2ZExnaDFDNllwdFRqWUlycDhBc0lvNXZ2RHkyeE5fakM4LUVqN3U3RnNxWG9fSA?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Legora's buying spree has reached the courtroom",
+          "source": "Business Insider",
+          "date": "July 30, 2026",
+          "summary": "Legora's buying spree has reached the courtroom&nbsp;&nbsp;Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVJVZ2ZmdEpFS2pLaFBLdVl3SXh2ZEF2b09pcnBLNDNZYUtPa2tURF9RNG9Td1VRaS00VzY0bGhIcGpyUDNzUk91Sk0xT0Iyd1piMXZkeVpqVWJkY0IyS3o4RDM0NTVaZWRicVlKMHJ0YkxNVVBxZnQxZmIzTzYzaDUta1V5SzRocGVSQkRHLTc5MHVrY0tF?oc=5",
+          "tags": [
+            "acquisition"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "The lawyers training AI to do the work they used to hate",
+          "source": "Reuters",
+          "date": "July 30, 2026",
+          "summary": "The lawyers training AI to do the work they used to hate&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ1RNQzZDalZTaHpjekhkc253dE9XbHhSMldvWm1qREZoSGZ1a1VmSHlOU1JlVWtZRlNsdnlQWGtBT3g1Z1RZVXpIbkoySGFmSk9fZnVoajhuSGl1bTIzQ0g3bU9ORHdXSzFidWJtaF9UVTd5YVRNZ3ZJSDJFLXFQM1p3VVU4dGdrMkNoTTRpQ3M5a0tMbGpOSExhazdIaGs?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "The Next Evolution Of Contract Management: How Agentic AI Is Transforming In-House Legal And Legal Ops",
+          "source": "Above the Law",
+          "date": "July 30, 2026",
+          "summary": "The Next Evolution Of Contract Management: How Agentic AI Is Transforming In-House Legal And Legal Ops&nbsp;&nbsp;Above the Law",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb1RObUNpMFhaQlRCU0VFWXlOS1BHRmJTSE1oTUZMdkJxR0Z1ZjY3YkpxYTE1aXRlMVd5bGx5OFM5LUp0d0pCWXpBVGlta09GU1NwTXRwSjJlT0pfLURyM2RvY0VCOWRxZzZNTmlsTUhnc0pwUTB3eHFtalAtSk1HU0QzUHNXblU0aERNWldXYlFtU0dJQUlNcGpXSkFpbHdHcHRRT1R0Y192bExPVWJsMzB4Z2pfWWRkM1VCUnI5TEl4MXJ4ekRYVHVULXpjX00?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Best Legal AI Tools for In-House Counsel and Law Firms",
+          "source": "Bloomberg Law",
+          "date": "July 30, 2026",
+          "summary": "Best Legal AI Tools for In-House Counsel and Law Firms&nbsp;&nbsp;Bloomberg Law",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNmowcjNuZDNLVmZTRGpQeUdsRmNDTV8wNWNmSllBYl9RYS1xYTNpenkxNGhnQW5jZVdTUU94SDdzTmR1T1VSMFF1cUlIV0VyXzJoZFEzNGh1N3kyU3JpaWdBNnJmdG1ETDl5ZFNNN0dXamIxUlVnYll5YkhnYXpqWkYwM3RpVEpnd1cyeFhMYXJpYW1KLXFxdV9RSUJHTXptRnYzbXRCLUt0cnA1elE?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "In-house legal teams get creative with AI tools",
+          "source": "Financial Times",
+          "date": "July 30, 2026",
+          "summary": "In-house legal teams get creative with AI tools&nbsp;&nbsp;Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zaTRTQXRSTDYzU2F0Wm1KMmdoaThUQ0VnZVpIeUtQeXFla0o2MF96ZVZEZndCQ1Vub1lpa3pNbE50T0ZzYUhYd0lRYzQ5MzRBTVNqMUY5cExQRERLUmVsOGlZWlZadTR5RGQ2ZXBEcTU?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Rosie Kogan, Medcan general counsel, on building AI governance",
+          "source": "lexpert.ca",
+          "date": "July 30, 2026",
+          "summary": "Rosie Kogan, Medcan general counsel, on building AI governance&nbsp;&nbsp;lexpert.ca",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2tzX21LY2ROLUlBUnNQbXoxNmdmMnI3T1lGMzBla2ZjaTdSdjBrTjJVU2ZxTzVWYWtWYzFReklqWFplSUdBYTBLMlhCamw0NW9aWE1KbVhab3hhcndlN1VzMndBQjdzOWo4bUlOUDUyd2pjSzNjM0Y5YUJoWGxhVXV2SHBnOFVHLUJHLWlQR0NaUF9DYlBQX0JSeFBSZzNqQ21lX3BQM1gxY04yQU95WmhveUJjUQ?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Five ways law firms are getting AI wrong",
+          "source": "Daily Journal",
+          "date": "July 30, 2026",
+          "summary": "Five ways law firms are getting AI wrong&nbsp;&nbsp;Daily Journal",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzByVlM3SG5OZjROandXYXNZcGRScmtOUG0xUnJJd0hKQV9oR092MlpHcTYxdE9fTkNsc1Y4cWR1ZkhqUS1reHc2eURqUGt6ZFdMYzZIVV91cTREYmZKMjFLR0ZhSlRyYWNhZGVpa2pDdjhRUW1KeTRfa0FKZG12eUpIYlJUdVVrRFhFag?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "AI implementation FAQs: What legal leaders ask most often",
+          "source": "Thomson Reuters Legal Solutions",
+          "date": "July 30, 2026",
+          "summary": "AI implementation FAQs: What legal leaders ask most often&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aMlB4Y25BbVplSFMtTU04allCazZZb094d2J1VGIwc2Y2dHVfM0FOcHd2MTNOLXdNT0ROTEQ5UjNaUFEyejJkM3pUTkJZXzZqVlNBbVFlQ01RS20xTTdvcW56aTBVQ0U4VXAyekVjejVXNTJh?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Generic AI Wasn't Built to Answer the Same Complaint 400 Times: Why It Isn't Built for Repeat Legal Work",
+          "source": "JD Supra",
+          "date": "July 30, 2026",
+          "summary": "Generic AI Wasn't Built to Answer the Same Complaint 400 Times: Why It Isn't Built for Repeat Legal Work&nbsp;&nbsp;JD Supra",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFlxdXpDekt5YkJ6X2dPU2NLU2ZjcEVGNzRmYlRpZktyVDZ6UXVHaG82dUg4RHp2UDJXWjg2UVhuaUVQN0ZacXJ3ekdPT19SX3hEOHUzUDBtOUZqQzNLNGM3RG1BRnI3Q0pXSjhPdURYbWNVbDdaVmZtcmlCRTk2S0lGNHdEeUE?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Law firm leaders overestimate their grip on shadow AI",
+          "source": "Resultsense",
+          "date": "July 30, 2026",
+          "summary": "Law firm leaders overestimate their grip on shadow AI&nbsp;&nbsp;Resultsense",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmpsUkJYNXgxdTZpSW1FZ1VjTHVtcTNGWkkyOFZiWkx0U1JjMkl0YjVFU3dDQ1lJMHFhbHBBbHBxRXBBdDlfU1VZSVE3SmFFSUd2emFkOExwNk4yX2ZVd2FNWm56U3E5QklKZ2V5Z29pYmV1OE41WEJXeDFZV3lLOFg1MA?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Court fines lawyer $15,000 over AI citations in Starbucks bias case",
+          "source": "hcamag.com",
+          "date": "July 30, 2026",
+          "summary": "Court fines lawyer $15,000 over AI citations in Starbucks bias case&nbsp;&nbsp;hcamag.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ0tBN3JxYWdKTmRSNWZmQ1BEb1ozcjhaVDVuSDUtbkRwWmp1NWQwWmhvVDNzbDgzdFJqc3dnQUZrTmVYREwxYTU1a2poQmV1c0RuY0dyLVBZSk43Q0p6ZjZmdGV3Q0NtMTlRV3VKMVBGSExOQ1dZYWpoMmQ3SWozZWRYbDBJeDRZa09PSkFwRlhsMjltZ1hXeXkxMHBYNzd4dU9nX1Ztb1p6aVZ4d3dhTW1uUFVSQU1CcTNNbEM2YU1WdlZCdGpV?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Ill. Appeals Court Says It Hopes Higher Fine Will Deter AI Hallucinations",
+          "source": "Law.com",
+          "date": "July 30, 2026",
+          "summary": "Ill. Appeals Court Says It Hopes Higher Fine Will Deter AI Hallucinations&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1lwck1GZTdDNWtQU1lTczhPTWhBSC1IOUp1S250XzJjSGsxNzRUdXhXNjAwWGpQZlFxOUR1NzVGWVRVNXM4NkdBM1RGWVlfcXFKUWdRNFRMcHprMVAwQ3U0SmFoc1cxanMtMnNyaF9sWUZTY3htNW1nN19pSHZKQ21pLXhudkdScW9nSmFqVVJyX0NDZ1dGSXVlY3UyV090VTJJbXM1dw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "'AI Should Aid, Not Replace Human Reasoning': Supreme Court on Fake Case Law",
+          "source": "LawBeat",
+          "date": "July 30, 2026",
+          "summary": "'AI Should Aid, Not Replace Human Reasoning': Supreme Court on Fake Case Law&nbsp;&nbsp;LawBeat",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFJqbUNPTHBDRVd5dkVacHFLMmhSOERuUDhnTVZIQ2xpNVBTWThyU3UxbktRSnZXX2RWbGlGeDlSQjBzM3dnbmYwX1psNFE4YUhIMmZaN09sT0JKSUxWRE9UYkFKbUZOSEl0aWpmZG9nVW9SVXgxOU81al8zQ3BYai02VzFDZmVEejJvb25QX1NpdlRQeFR1ZDJYZFlIM1FHRUY4SkxNaVY4aU5xUFN3Zl9BZnY0OU8xUDhzOTQyaFHSAcYBQVVfeXFMTnhDS3pCUnUxVF9OenB0ekZpM3RoeTRJa1ZjMnlva2tKSFBBYy1mdnVGemVoM0lnYXF3eVM5NWpZZmYxREVZcU1xajZmbHgza0FZSTcwSmZ5aDhOaXdZU2UyQzBDWXhfWDRwNGRIbElJS3pHNURaZFVHZFRJWDV5dFJwN0Q0aFZPckpPTlZUZGw3TVNVWnJaTnhMbEFOMGV4S0g1Z21BVW9BeUprampydzJ1NE5leFRXdXE4bjhidm9Sc05mNUdB?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Apple’s Suit Against OpenAI Signals New Era of AI Trade Secret Litigation",
+          "source": "Law.com",
+          "date": "July 30, 2026",
+          "summary": "Apple’s Suit Against OpenAI Signals New Era of AI Trade Secret Litigation&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazhndXJUaFBzNFJVNHdBWFhYMkIzUTRCZjJJZFg4MzF4SGRKVFZUdDFTemNqR3FOY1lLNTVvVXo5Zm9xelc4dkpNbGU0MHdCQzhfa1htZUo2d09Vd0g0YUNyT3FsbnBVd0YySU9BeGJEUVpsX04zYkVVMVNpeDlDUExwX2pZUTRWQW9IVVJWa01KTXplYW9xcU9vaWgzZklKeWJsNHZibW5WTllhUGdrMnMzOTMyUXhf?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "‘This Industry Is Going to Be Cutthroat’: Apple’s Suit Against OpenAI Signals New Era of AI Trade Secret Litigation",
+          "source": "Law.com",
+          "date": "July 30, 2026",
+          "summary": "‘This Industry Is Going to Be Cutthroat’: Apple’s Suit Against OpenAI Signals New Era of AI Trade Secret Litigation&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONk9yTDNMTlBnVEFESmR6bFZJUDFTOWVsMmRBOEhVa0lGVXBEeWYxbk9wUmx2ck5HdE5hVXRGRjZ1b1N0Ul9xWDNua1hJMkhOc3dvOWMxUDlxWTFuSnFJbEd0anROM3NxbU9KQVZpWG9fYU14Rm9lMy0yV3Q4NDB6ektpbU5mM096QmVUekQ3RVAxUnNPWGNiVm5qRlViS1JXYy0zTEJVd1huZFpfSmYxa3dQZ3VZNlhfVUh2NDREY2c0dGRxRUtjWEdpOXM5OGo2NzlyOXFsY2VmeFN3eUQ1VzBKb3FWb3Q0S2FWUEZiTkJlUQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Delaware Proposes New Legal Framework for Autonomous Agents",
+          "source": "PYMNTS.com",
+          "date": "July 30, 2026",
+          "summary": "Delaware Proposes New Legal Framework for Autonomous Agents&nbsp;&nbsp;PYMNTS.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT0VKRUhCU19KLWV1WUwzTk1aRzFkMmtMd1h6RkNBYzc5bFBVcHRnWEdJb3lpdUNNX2NWNnV3cUZ1V3JFWlVuMnYtRW4yaDZ1QjBKM09qSGFYNXpkRmx0Z2doT0VUcENJRU4zM3JxWUpjLWM1dnZvSXBPc2VXWW01ZkRzNlExZUVTd2tfQ0NnRS1rM3pXeXExSDZ2a0g3NFQ2YWkyN082Ui1vU2JIOVU0aEx5ay14WERv?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Law Firm Skeptical AI Can Help Speed Up Security Clearances",
+          "source": "National Defense Magazine",
+          "date": "July 30, 2026",
+          "summary": "Law Firm Skeptical AI Can Help Speed Up Security Clearances&nbsp;&nbsp;National Defense Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHFSVHBsNjIwanExUHJlSWs1T3V4cElzUDRseU11R0dVdXVfVnRCTllrUnJRdG5WWXN6Q18tS0xQd2NnU0dBTVZwZ00zUzR0c05hTFhhZGkxeUIwNFJYY21PODZBVGxNeVo2WmxDZHlqMVZHdnVZa0JPWW5NOV83eWpqRWJhLUR3SjdJY1ByNmxYUFByMHVjd0VTaEdBVEdvckhTSWFhUmRpQkNNVW1NX2tJbHQwMHppWGc?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "The Class Action Weekly Wire – Episode 158: California Federal Court Approves $1.5 Billion Settlement In AI Copyright Class Action (Podcast)",
+          "source": "Mondaq",
+          "date": "July 30, 2026",
+          "summary": "The Class Action Weekly Wire – Episode 158: California Federal Court Approves $1.5 Billion Settlement In AI Copyright Class Action (Podcast)&nbsp;&nbsp;Mondaq",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUkFxaHI5d215VTZRbjFnMkZjTFdTeTQwM3VwQWNadGk3NXAwQnJ0cDZ6c3J3QnpUYWZROEVpU0VvREl6MzNicmllMmFRUnFPMFlPSmpaZkEzdnpVSVJQdzUtMHltMlR0ZDI5RHd2YWtZaTJqaDBtOUxGRHlLR2hQc2ZPM3pOM1RSWUlyZVVMX0oySEdRTmIzdFVtTG01MjdNMGFGSjRsUW52cTVPelotTjZfWElwUTNmNUFfdW9BWTVpcXNpVFV0VXUzVzRadzRpWGx4OTNGN0RNYkdobFc1X3BnSm9QbTR4cTFpcmZLaV9tRDNhcGh3SXAzYjc1cldnN2NHc0xZWDRNVWxTYU13d1luWFl5NkF2YklPX280MA?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "xAI Takes Minnesota to Court Over A.I. Law",
+          "source": "cheddar.com",
+          "date": "July 30, 2026",
+          "summary": "xAI Takes Minnesota to Court Over A.I. Law&nbsp;&nbsp;cheddar.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lMXFpa0I0N3NBcm5nZU9Xb2hyTmpxWF96RHR2eGFoUEF1Y1YwZDN0b09oUjU1dnVDWVBkWVJNWHVwVUtRd2JKRnVRVTQzNHBCbmhSbWl3dFZEdGhJTG5TUFJWSi1qZk5oRGRmRU8wNDlCMnpjN3J1OVRPZw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "Potts Law Firm Announces A Second Lawsuit Has Been Filed Against xAI",
+          "source": "PR Newswire",
+          "date": "July 30, 2026",
+          "summary": "Potts Law Firm Announces A Second Lawsuit Has Been Filed Against xAI&nbsp;&nbsp;PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNenN3Y1hmVWxUOFNjMzZWMkVPdHNwSS1Hc3hRdDQxZ1owLXhLMGtaX2NEcE9vREI0dUJmcEFlTmpBQmVQVTBYcmtWRUFRbGt3a0REeWdHMUtUNFlsd2N3WG5QaFhaUDJZSGhvUVYyWm5FeHktd0lqTXF3VW5xcHdBNDdyU3VwSjQ2QndYTUFDV29RT1BJU2JVMUJNNXVUbHMxc2lFZkFnODJtZ0RJaVpaYkdwMUZxTlpuUmNOejRlRDE0Zw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 4
+        },
+        {
+          "title": "US court revives lawsuit claiming AI software fueled price-gouging by New Jersey casinos",
+          "source": "Reuters",
+          "date": "July 30, 2026",
+          "summary": "US court revives lawsuit claiming AI software fueled price-gouging by New Jersey casinos&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX1lONk9PVEU5c1Z5NzU2c1hXMXFjYzA1eUhqTHRBYzdfT0k3OGNkRmthZE8wbC1iSjYwZTM3VWRKOUhCLWJsSXE3SUVxSlFPdm56a1NtWDZhRHNHcnNWVkxWWTFCbnZrVEIyc2dwcVVHaFNnZWJHRWFEelVRYXJMUjZxaVZma3NTOEQ5eFBPT2Zla21rcURpTmZZNUd4ZEFBSXI4Szh4a3VXWG9fRTY4cnlXNlAzNlZBSXpSZFZTbHZKd0ttc3I3T3BsY0xQZw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 3
+        },
+        {
+          "title": "US Appeals Court Revives AI Casino Pricing Lawsuit",
+          "source": "Gambling News",
+          "date": "July 30, 2026",
+          "summary": "US Appeals Court Revives AI Casino Pricing Lawsuit&nbsp;&nbsp;Gambling News",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXRYdzgzOUUyLXpZcjBvVWRQVlQ3cG9aUDhuSUQzSzBVR1l2RXI0Rm5kRnVLRTBfVmE0Ml9pZFpDLVJHVXhHYlJacEItU0RidUI2VUNFOUE5NFphNlZ4bXcwM2JCNWtaN0NBM0tJbUZxbnFJSThfZEg2Mk1vb2JXVVRxTklJT0hmUkNrNHlR?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 2
+        },
+        {
+          "title": "Google Refuses to Back Down in AI Scraping War Despite Legal Blow, Prepares Amended Complaint",
+          "source": "Android Headlines",
+          "date": "July 30, 2026",
+          "summary": "Google Refuses to Back Down in AI Scraping War Despite Legal Blow, Prepares Amended Complaint&nbsp;&nbsp;Android Headlines",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa1pTRWg5d0RBRVlFelMyekdiMGI0UjQxbjR3bDNkSkx3QlpONHh0bk9QblhyTkxBQVp4MXE0Q3A1ektMVlozWFUtUHNDeEtiR0E5UnVQVVVVbVBLRTJXejJOWmlpSGppb0xhRWs3WXFPZkZPYnNicFA3eVNsWnprakcyOFhIYXRtYnRHMGstR2o4dGtPYnNBejVJSW9XOXF4S2VwYQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 2
+        },
+        {
+          "title": "How to improve your indirect tax compliance process",
+          "source": "Thomson Reuters tax",
+          "date": "July 30, 2026",
+          "summary": "How to improve your indirect tax compliance process&nbsp;&nbsp;Thomson Reuters tax",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2l5N3E0T2hRN2oxbVZETTI4S1VtSHdqNVdlSFdmRFNvNENRVGFIcnlWVFZORXR5ZXlNX0RGMWRNdmlJRktEc3A0MU95akRBNldxT3Z6dDRPd0V3N1JURlViOHVlbGt3WHNKV0FZU09TNTRULXJqVl9FUEt5cUd0bTRtamlyUExjcHhlM3pHU21rQm1LOXpIVFVMdFZKYU1QRkNVYTBoWFRNVkxoczZEYVUtQXgyTnJOR3lDRw?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 2
+        }
+      ]
+    },
+    {
       "date": "2026-07-29",
       "fetchedAt": "2026-07-29T18:03:24.219Z",
       "articleCount": 19,
