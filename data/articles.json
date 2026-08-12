@@ -1,6 +1,332 @@
 {
   "fetches": [
     {
+      "date": "2026-08-12",
+      "fetchedAt": "2026-08-12T17:54:37.849Z",
+      "articleCount": 29,
+      "articles": [
+        {
+          "title": "Columbia MBA Founder Takes AI Legal Tech Startup Regbase To Y Combinator",
+          "source": "poetsandquants.com",
+          "date": "August 12, 2026",
+          "summary": "Columbia MBA Founder Takes AI Legal Tech Startup Regbase To Y Combinator&nbsp;&nbsp;poetsandquants.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjNTa0RXYXNNVTc5NjNadTNVaGVKekFKMHBYVjhQUzV6UTBFX19fa3RZM3FuaTlRcEs3aHY0bVRGMVpDZmtpdDF4YldZaU1fTllUaDNxaVpiWkRZc2ppdXNvQTNYX1Q0dG1aY2I0YWkySVZ4NDFtRnd3Y0tYWkFocnJxLWsxMGx3YjYwRng5ZUZRdkNheVhXYVFRamVBajB5clRzNVFmOFNVUmVSYnVRaQ?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Stockholm produces another legal AI startup as Aloi raises €6.1m - Non",
+          "source": "Non-Billable",
+          "date": "August 12, 2026",
+          "summary": "Stockholm produces another legal AI startup as Aloi raises €6.1m&nbsp;&nbsp;Non-Billable",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oblJORzNfaXVGS3Y3SFU2aXIwa1h6bm9MVHgwSDNtMlVyN2toN3Q4bmt5NWpaVWJaelFRbFZ3ZkxRWF9XeXVJSmpRc2JiVGdONTJzM3Q5X0pWZ3lqd2lGNmstREJjckRfY3hyMmg2dG9BU1FhdDR2MW5iSmxIb0U?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Closed AI Platform Delivers Fast Answers to Lawyers During Trial",
+          "source": "Bloomberg Law News",
+          "date": "August 12, 2026",
+          "summary": "Closed AI Platform Delivers Fast Answers to Lawyers During Trial&nbsp;&nbsp;Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGdLcGNIMW1aS2VLSXRUQWQxbnd6NEVfOXRsdnFVazItaEcwNldMR0dDcHRZT24td1ZJZFZiM0NYUmZybXhEQkpsM21zd2o1SWxiRUFBbXdNcS03Y1RNanhBd0VjUmNOZWVubTlGQ1RmWGpGeWRVVy1HandjaHhoNHIwRUtCMDZQY01SWGxfemtMVG81S29UYnBQVkNJcWZKd0l2UEY3QlVfeEZDMVpNdGN2MEdDWjVkSldjRFZMM2Iwenh5NVMtek9fVVVNdw?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Relativity Announces New Conversational AI Interface for Attorneys, Relativity claiR",
+          "source": "Law.com",
+          "date": "August 12, 2026",
+          "summary": "Relativity Announces New Conversational AI Interface for Attorneys, Relativity claiR&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRlBsZDgxdW9xNlpETE5iUXBpRl80TFZMUmFHS3hsT3U2UVFIR0syVkpSSFJHQzRqd3NkZEdjTGh6b0RzOGtoWjI0b3F6Q2FEclJMU09lelJ1cDhtN1J6N0kxM3BuSWdSZllob0tMX3dlTkJRbzlOWmYxTksyMjRXTEFjSkh1MWw2MERONExOSUlrVjVJam5zRlc2TmRFMHRmWHBZZl9XdGJuOXBPV2JrVm9BdnJHRFBUTmFVaWFVazNoUnBYZzluTQ?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Relativity Announces claiR, A Conversational AI for Lawyers, But You’ll Have to Wait Awhile to Chat with It",
+          "source": "LawSites | by Robert Ambrogi",
+          "date": "August 12, 2026",
+          "summary": "Relativity Announces claiR, A Conversational AI for Lawyers, But You’ll Have to Wait Awhile to Chat with It&nbsp;&nbsp;LawSites | by Robert Ambrogi",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZkdUODVmYzl6Z28yV1ZpZk5LV2djWjVhLTVnanIzcHBQcmhmMUkya2lvS2dIRHYwZnR2Wm9JY2ZPcW92NlFQQVY2YkdlbXZsM0g0WGcxdktZdHhKOTBfN2hzLXl3TGVlSDh3dHRQWGt6a1VGMldXZXhqTThieFRlMnpvMUQtYlFFdTFIVnZBYnZ3cnFoY0NkTEdGaUI5YnpDaVV6em1ESWl0cDQ5Si1hQnBsS1RJTHBvOC1BVHZ2eGdXNDFIVEhkUm9FRC15MUlNTU5tZEhZZ3I?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Relativity Develops claiR Conversational AI System",
+          "source": "Artificial Lawyer",
+          "date": "August 12, 2026",
+          "summary": "Relativity Develops claiR Conversational AI System&nbsp;&nbsp;Artificial Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm9QTVFjV20wMjVWWmxKZWRvTXFkZzFZVVhyX01RN3FHcWtaZHg3NDM4czFYdDFYZkxZSnlISmQ0MjN1ekw4WlZLRGh2SmQtUk5ZZWhtSGpQWkpfTnQxeGtENXJqZ2cwV1lwV3ZhaHNDOGM1YXphSl9IZkpBQ1JOTGk3aTdnNGtXVlQ3cXh6YUg1WUNXOG9XSXdxZw?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Relativity launches beta conversational AI capability for lawyers",
+          "source": "Legal IT Insider",
+          "date": "August 12, 2026",
+          "summary": "Relativity launches beta conversational AI capability for lawyers&nbsp;&nbsp;Legal IT Insider",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0ZLcTdvWnlpazFhNkZvcHNIN3Q3Q2F1bm5tLXpHUmJaQTJlUDFvWmFFOFhaanROM0FaWFZqalE1RnVzckxnYnpCTVJ6OXZlUDVYUTM2SEJUeTFFcC1XY1dnS2dlX18xY0s3dmM5WU1qZExLdDJTZ0RHenZqWWZaM3lQLXkzcmd3aW0wSGtuWm9YZEFNYmhqQ3hR?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Relativity Launches claiR, Giving Lawyers Conversational Command of the Full Depth of Their Legal Data",
+          "source": "PR Newswire UK",
+          "date": "August 12, 2026",
+          "summary": "Relativity Launches claiR, Giving Lawyers Conversational Command of the Full Depth of Their Legal Data&nbsp;&nbsp;PR Newswire UK",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNUZYS1htbzlpaVVLeUh5NmJnMWNKNjlVZE03eTN5OS1ZZnpydG9vZUtBcFU0eUMwZHVPYTNqdGdtc3hMbTNGT1FWcFhxSWdlcWsyRnRZbjZfYnQxb3VGcm5uSTI5X0RmTkZhb2Z5enZNbzlXdERnUm9HazNfWHRDMEpOV0Y2NlNQLTZRS01waTFoX2JDQjRiZTBRMnFaazZxNVhwbkZvajk4OUNpSUVDLUE4RmVTWlNzNFlzZ2ZsdlNVQUdPcGlNU2xHOEYyYlgzaXhiYTFxcVl3Q1pZUmZwYkl5d2Z0Zml1LXg4S1RGZDM?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Fiduciary-Grade AI™ for section 101 patent evaluation",
+          "source": "Thomson Reuters Legal Solutions",
+          "date": "August 12, 2026",
+          "summary": "Fiduciary-Grade AI™ for section 101 patent evaluation&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2hmUW5WMUtELUM2cVJIT21xTVZvWXVnci1tT2hBUFZkMVFDcnhWN3N6Y1A1S250SGtyZ0pTV3E3NkpfenZlS21rZENtMnhYeDhKalFXNGRFeWRIamVTRVNTalN4NF9lWGluSGVCTWNXbUhpMlBsX25oenlKVlh5amVoTDV5UFlKZTJrbTd5WE1iUUZwZlRiLTNkY1A1TUMxdFB6MVltZGhib2gwY1BLVHgya3U5NllsdUlMOVRMUmpCUQ?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "How Harvey built a legal-AI research lab on a budget",
+          "source": "Dealroom",
+          "date": "August 12, 2026",
+          "summary": "How Harvey built a legal-AI research lab on a budget&nbsp;&nbsp;Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbjA3RTRSdW0wNzhURnY1OHk3NkR5QVJORE1jZjlra1h6d2lqVGRhRUtIMkl6NUxFRjhqRXZHd0Yyalk3cmNQN0MxYjVyU3ByQ2tmQkdhRzVsRGR5YjRfU3dEZmREZkVPbHd1Wk9Hd0VnNGt5QU10eWJ3elBQVFd6NGhrQl9UakRoTFpBNHMyWQ?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Chinese LLM takes top spot in Harvey Lab-AA legal AI benchmark",
+          "source": "Global Times",
+          "date": "August 12, 2026",
+          "summary": "Chinese LLM takes top spot in Harvey Lab-AA legal AI benchmark&nbsp;&nbsp;Global Times",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKaWFZV3NoSG93YlMwdG5Ici1rRFlDbnpwWFdnMkhoTEVaVGVoSW40X2t1ZUtOM3hrV2dzWC1yR0d2Z2V6M2lUSnc3TUx1UUIyajlCX1hCb1VMajB1ZGNCMEd3?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Gabe Pereyra: Harvey's Playbook for Building Frontier-Grade AI on a Budget",
+          "source": "finance.biggo.com",
+          "date": "August 12, 2026",
+          "summary": "Gabe Pereyra: Harvey's Playbook for Building Frontier-Grade AI on a Budget&nbsp;&nbsp;finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sb084ZkV1OFZ5Wkc0aUppX1VHNGRFZTh4UWI5ZEtGUWlPbFNva2dNR2pldnA4Z09iSUNrZU5QejZmQzBfb2hiandsbDVhdlpBR0RPWHctc3RVbDA?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "The L Suite: Inhouse Community + Legal AI",
+          "source": "Artificial Lawyer",
+          "date": "August 12, 2026",
+          "summary": "The L Suite: Inhouse Community + Legal AI&nbsp;&nbsp;Artificial Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLUM5WEhzbzV1VnAxZTBpUzhFb2tLcmxtM3hCMkxYcno3MDBlamtwLVpXdlRmOHFSaU4wWkdNdVJHMy1KdjNpT2JlNFNtaW9pQmRxMDFYa2pmMmR0RXpibGMzbGlJYW9wdmRlb25uanNGSzloWjhYb3pZUGV5dmFySGM5c3Ytb0Z0eV9B?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "How AI Will Impact the Future of Law Firm Excellence",
+          "source": "Law.com",
+          "date": "August 12, 2026",
+          "summary": "How AI Will Impact the Future of Law Firm Excellence&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMFdLRXhvTmswRmlPWUxkWDg0dFBrdHZ2Q1lGOUFnZTBSM1lsVkplR05NRXpDYzlJWk1hejd6SUJyOVAyUU0ycjlSTEpsLXNyclZEQU9oMXR3WFJBblkya0xRQmtXWVNMWVVNbV90R29QQm5mT1dxNjNLemxaYVY2NV91SVNLTjNQV0FJSzBScVJJNHc4TVNUT2dKem5PdDdz?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "US firm Akerman appoints director of AI governance from software company Highspot",
+          "source": "The Global Legal Post",
+          "date": "August 12, 2026",
+          "summary": "US firm Akerman appoints director of AI governance from software company Highspot&nbsp;&nbsp;The Global Legal Post",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcDBnSTFJODI3YUZHRlVNVnBXUlhZd05yMUI5alpNOTdheS1EODhMZ3ZQOEtRN3VxeFRKS0hNZmltTFlzcUdUZHZlcVZvbXlJZXdrNkl5ZmI1ajMxc05QUkllcXcwNFVvM200eUViMlh6T01RV21wMlE1QnhsWDQ2NmxOeUZ3V0ZuWGtTcGZ6QlBXMVRPcEFTSDA5Ymw5U3h3YVJjaVBYckcyeVROcEVUeXNWWFp4bW9PVm41VDBRdGd6S3hNdWVYZg?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Law Firms Don’t Have One AI Visibility Problem. They Have Three.",
+          "source": "Above the Law",
+          "date": "August 12, 2026",
+          "summary": "Law Firms Don’t Have One AI Visibility Problem. They Have Three.&nbsp;&nbsp;Above the Law",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQjZQUnFhNFdaOHdtaktHa2NaNXZHNlJEUTFuc2c5WjVybktiWEw5UFpDaXF2WDktbnB1bHA5ZTJtZGZFUExPYkY0QW9SV0NjZEdlTUhSRHpEWk1ubXktaFY4TkhGMlBEcVZJSlZKWTZuT3AwZU1DZzF6dk1QNlBKLVZNTzFUNWIyMDdJbi1nNDNkcWRPZ1NKNUxn?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Confidentiality, Work Product, and Privilege in the Age of AI: Lessons From Early Court Decisions + Practical Employer Takeaways",
+          "source": "JD Supra",
+          "date": "August 12, 2026",
+          "summary": "Confidentiality, Work Product, and Privilege in the Age of AI: Lessons From Early Court Decisions + Practical Employer Takeaways&nbsp;&nbsp;JD Supra",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORWtZdHNNX3VRTXYxQjJtY01YbW5rVU81MmNBSzBpREZHcEl6Zk1SYV9scmNZd1pVRk9oZXkzeVI1NkpBVEg0WHJSZTFoNHF2VXN0OWhPMlNXZDNnTFkzU0xNRlExQlBMY3VVbHl6a1pFZWZacUlhYmtfbmpCMGdmaQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Rising AI expenses could hinder BigLaw performance, new survey shows",
+          "source": "ABA Journal",
+          "date": "August 12, 2026",
+          "summary": "Rising AI expenses could hinder BigLaw performance, new survey shows&nbsp;&nbsp;ABA Journal",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWkFTbnF5MDNzcEhfVDVuYWlKb0E0MVJwdk9VVXptc25lMFNjaVpwT1FfR0FidXBqUlpqcG54WmNrRGJtaWJYY0xabmdVem1nSWVKT3ZrNDFsTExqdEZZeDJpWjVnbi0zbGpVb1JtT2tBSEJnT2lkSkFaZVRxVmNselJNdE5QSkE1MFc4ZUxiQjIzMjZla2tYSmhCMU13MlBJOV9HSDJFeElIblU?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "How to Make Legal Content Easier for AI Search to Read",
+          "source": "Best Lawyers",
+          "date": "August 12, 2026",
+          "summary": "How to Make Legal Content Easier for AI Search to Read&nbsp;&nbsp;Best Lawyers",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUFmQVNWb3F3b0VfSHZlanRkUGVVTWJVbXJOa1NnOXIzQlhIMXlKeVZMdHF0LS1DMllmeG8zdjY1Zm9yaVhkYkxqZlpwM0FJS3pGQVJBMnV5R24wYldtSkVJR051enZaaDJyVWZoMUwwRlFGdTVfTG5jWHJpMGx1ZjlkcHZmRjdJSnE0Z2diVFo4SFlYS3VxVnk1aw?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "The AI Reckoning: Companies that skip legal guardrails now are taking a gamble",
+          "source": "Business Alabama Magazine",
+          "date": "August 12, 2026",
+          "summary": "The AI Reckoning: Companies that skip legal guardrails now are taking a gamble&nbsp;&nbsp;Business Alabama Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmlsOHR5blljNW9oaUJIRVBicVZXSHFFc1JQQmN3ajM2S2pvTEd1N05xLUluV3VDRExMNzVnb2VGUVlsTUhpeHRJNm5oWDc3NUVjRDZLRDNEOWNGdkhpNDBUMTVJUFFJVmxrbGgwSjdBZVhYMnFGSVpmaU51R1dOVmVhLWdCNzJ4WVZQeTk0dDJFd0JyZTlFVU8yN0JjVEJtaElycUhUME5uUQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "AI Won’t Fix Your Law Firm. It Will Reveal It.",
+          "source": "JD Supra",
+          "date": "August 12, 2026",
+          "summary": "AI Won’t Fix Your Law Firm. It Will Reveal It.&nbsp;&nbsp;JD Supra",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSmpLbjZFRGJyY3BPMlVsQ25XQVppRXBNXzd4UERUeEZ3SE9oN3RONHVIZnZUQnFKeHJSQ0I0cWtzSUFlQlp2b1VSQjFfeXVuUVBQaVBYRlVxNEthbUpsTFBMR2JUTXdwUDRjSkI3N3RqYTRaTF9YWlJQdGRxbTFhck55RQ?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "10 best legal AI tools for research, contracts, and legal work",
+          "source": "Hostinger",
+          "date": "August 12, 2026",
+          "summary": "10 best legal AI tools for research, contracts, and legal work&nbsp;&nbsp;Hostinger",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4MXJZREFNTTNDM2VGUHVGTzdLb3Z6U3BqUTJxN3VuenJodC1VdHZhbXN0MVVmUDY5VndGS3ppemhFQlY4aWo4ZVlMbTdOV2RQTUtaY2tvY1h2UGx1NTNPVlVoaFM0OG1PUm5Z?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Legal Tech Startup SmartEsq Expands Fund Life Cycle Management Platform",
+          "source": "Law.com",
+          "date": "August 12, 2026",
+          "summary": "Legal Tech Startup SmartEsq Expands Fund Life Cycle Management Platform&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUGhEWmxmZXhsSkF5bFBWNXpVSDhWVXFFc2tyTkpiZm5tbVhZZjZwWUFPSWF0R250WHI0NE5QQTNiOWhRREVabDNSRDRGY1pfckhEb0tDNlJLZFVyeDF2V2FRdWhZSTE4TlJ4MHhyeHVaSHFHZURSVWl1LWptUGliZGgwWC1VM2Q2Xzdma1hDNE91NVc0UUx3a0s5MjVGMjd0ay14cHJ3bmZHQ280eWVsYW55V0dvVjRH?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "[Webinar] AI, Privacy, and Employees: Understanding Legal Risks and Liabilities for Employers",
+          "source": "JD Supra",
+          "date": "August 12, 2026",
+          "summary": "[Webinar] AI, Privacy, and Employees: Understanding Legal Risks and Liabilities for Employers&nbsp;&nbsp;JD Supra",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUZ5MXQ4UjlnR09RNzh0b0cza0JRVUV6dEN2QVcyOHZ0UkJ6TXN1RU9nVVpsZm1GZThodTI4SUQ2MnFlZlQwTUJTVVNuXzNaU3JQenNaTGstaXp5dzlubWY2czVzZVJ6Z3VvX05rcGgyaVY3ZERTbTlGeEliRW1PTg?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "Top BD & GM Execs to Watch in 2026: Everlaw’s Allison Patrick",
+          "source": "washingtonexec.com",
+          "date": "August 12, 2026",
+          "summary": "Top BD & GM Execs to Watch in 2026: Everlaw’s Allison Patrick&nbsp;&nbsp;washingtonexec.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUZLWU51T1BUcnVRZTM4Z2cxRHRCN1ZqajdpSGl6djRKTVo3aGJuekd2YU92bWlBTFNoNDhWanJEbEpYME84cFd2MGl6ZnBwY1Bnb1VBRnBOdW1tUGg4bDJUeXgxdDhXbDdUbjExLVpmdWhhYzdSQVVNTmN2dTE1TnkwMWNNSmFKblBzMmk5U0FFbVJqcTFMTQ?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "Miss. Judge Declines New Sanctions Over AI Citations",
+          "source": "law360.com",
+          "date": "August 12, 2026",
+          "summary": "Miss. Judge Declines New Sanctions Over AI Citations&nbsp;&nbsp;law360.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTJmQWJqOWZTQ29YS29HX2oxWF94WTZNaVlaRHFnN0lkUU1fMmh6M0p3TnJCREQ5ZVowd2R0LVQzVU5NUHloeVQ4bUR0VHZKZkdSdzdpUVktMl94RkNRWFZmRDduaUcyYy0tRzAtTDZwb1RSQVphOEFPd3ZHaWZFSmJkbWxidkVoLUF2TG55MnhGdmwxeVlBdzBneEpLd3BUdXZoNWRBZENkNzZG0gFeQVVfeXFMT1Fockt0ZkRZaDdoelJ6VEo5TkdxOF9iR2NLVUZla2tORzQ2M2kza0lSOTRsenowd29uQ3Vtd1d3WXBUeUk3R1hqWXg5bkQxQ0Z3dTBwZG9FNGZ4NlRiZw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 4
+        },
+        {
+          "title": "Globally Ranked Flexible Legal Talent Company Latitude Opens Denver Office Led by Former Public Company General Counsel",
+          "source": "StreetInsider",
+          "date": "August 12, 2026",
+          "summary": "Globally Ranked Flexible Legal Talent Company Latitude Opens Denver Office Led by Former Public Company General Counsel&nbsp;&nbsp;StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUXR5eU9qSG9qWDljdnZkTFR2UjBXclJfVXdVblNzblJDMGhkZ2dUdFRyZ2dyelQ3RWJfYWFyMnpvNmw2SGUyZEFWV1pHSHZkbkF1RzNFcHpLZldWM3BmU3lfMUgyUnVlWUpVMVIxdnd5NzQ2TWgyY3MxN0hWYnNhSF9kM2VXOXBXVWVmYlRid2VfWEFQNXRBWDJkUUgwUnB4R25nMU4wVXJwUTgxLTNuWndJb2N5c1Zwa29hN2VrVl9wTDdpYzRnaWtFRjNvV3VGWm5XY1g2UFNvdzA4UkhmS3h2aUx1Tm81SkRoaU0xY3pubUU2SnVqR0ZpS2lkNUJfOE95LQ?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 4
+        },
+        {
+          "title": "HSF Kramer, Mayer Brown Targeted in Latest Law Firm Data Breaches",
+          "source": "Law.com",
+          "date": "August 12, 2026",
+          "summary": "HSF Kramer, Mayer Brown Targeted in Latest Law Firm Data Breaches&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQWVGZlA3ejNWbUZZYjFCVzBublB2dVY5dWNmNzJYNC10UjZqQllsNzJyaWFRN2ZCb2FXZVRsRm5EWEp4SDBwM2RvdC15TkE3UFI1T1lDZzR5RTdvSEpsZlB2TzBUZml2YXJ6VEg0MHJ6MDRELUdTb3NSb2J0dTRSV3loT1RIYk4xSElHaVNrQ0dmWWVEcW9FTDl2dnhXakUzdHFhVnRjZmQzWUxCT3ZzMW9hcjNFTXoxTmc?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 3
+        },
+        {
+          "title": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle",
+          "source": "New York Post",
+          "date": "August 12, 2026",
+          "summary": "Rippling hits back at NYC AI startup’s trade secret lawsuit in messy legal battle&nbsp;&nbsp;New York Post",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1ZKejczd2hOSHhiNDJHWjdacENKQ1RuYThpbDlSaEI5WUFCdjZNMEs0WTRINXd4eERFWDRXOHlIbkFfU215Y0NRcmJnX1daSG9JdzdTUnhmM0VUVFJiazFJWjR4NWVDbW10SklSSjlnV0FMN2dxc05YM041WEMwUi1mdVBGOE5Md2pRdnNuZzhsam00a1Q1RldQOThaOF94RWoxU244Xzk4VkVuMDhLNVR5ZmNlUW15YkMzbw?oc=5",
+          "tags": [
+            "acquisition"
+          ],
+          "heat": 2
+        }
+      ]
+    },
+    {
       "date": "2026-08-11",
       "fetchedAt": "2026-08-11T17:54:57.088Z",
       "articleCount": 24,
