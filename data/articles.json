@@ -1,6 +1,222 @@
 {
   "fetches": [
     {
+      "date": "2026-08-31",
+      "fetchedAt": "2026-08-31T21:43:23.134Z",
+      "articleCount": 19,
+      "articles": [
+        {
+          "title": "Gemini Enterprise brings Google's AI to law firms",
+          "source": "Inspenet",
+          "date": "August 31, 2026",
+          "summary": "Gemini Enterprise brings Google's AI to law firms&nbsp;&nbsp;Inspenet",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GTG43ZEtiTkdyaUlxd3k3dm14RFpoLVVsUEFmdWZlVUZfRm5LdEVpZlNwM1RtM2xBWmc4dDR2Ukw4WllfNzY4OVNwMldEeXNEWjNMVnBtUlhBcmExYndsYWVjeUZsY09mUHQzYmhSbm1WbTBN?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Relativity Brings Powerful Legal Data Intelligence to Microsoft Copilot, Expanding AI Assistant Support for Legal Teams",
+          "source": "PR Newswire",
+          "date": "August 31, 2026",
+          "summary": "Relativity Brings Powerful Legal Data Intelligence to Microsoft Copilot, Expanding AI Assistant Support for Legal Teams&nbsp;&nbsp;PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPN3BlWUFmUFpEeVRobVVzVWRCalp2c1Zvc29DcGtyUHJ2Z3JRdXZZb1oyODhFYlREVmxfby0tdzg0YlhOSUVlYXJzNWJydGJwb1JPcGh1aVNpWi00d2hET3h4VDFUdnlkRjdnVFhZX1Q4X1p2UnUzR3ZkNmtNNmxKaGZrdlpZQUVqb1BpRXo5cXduS2pYa0QtbFIyNjBtT0FMeWYwZFpjdWFpLUhiYnhIcmRNRUtGX1pWZjNFY3BCUlg2SWdUaF9hV2JReURZXzMzQTlHMG80bmhBRU1sT2NuZFNxYzBLbjA3eGIzRDVvNnBrMmcyVXNFWDhzdlBJSGVXMlo0TA?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Duquesne Law Partners With Law Firms to Refine AI Education",
+          "source": "Law.com",
+          "date": "August 31, 2026",
+          "summary": "Duquesne Law Partners With Law Firms to Refine AI Education&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVmZYTXgwMmZfb2V4b2ozWWhlRlFqbFhYazBGdGtzbHpvUk1WS05jd2VFOWNFbTFTZVhNTElHc3E5eFhSQlViRWNKN3dUVXBTZFQ5eWxzQ240dlBfWnN4TFFGaWtpaUpCdzgtQW52Y3NtbjVGekZKWmxuTUpEd0l0ZENzWnpnZHhKZVJhSHp1eFUxQ1p4NURr?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Legal AI Insurance Exposes That ‘Practice of Law’ Needs Defining",
+          "source": "Bloomberg Law News",
+          "date": "August 31, 2026",
+          "summary": "Legal AI Insurance Exposes That ‘Practice of Law’ Needs Defining&nbsp;&nbsp;Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHduUFdXTHRfUnh6N2I5X2pFTVhhTG1HMWVmMVRUZHg2Y0V4X096YXhXWnAtTkpNX3Vvd2VtYncxcGJFaWFjTmZPQlFlMTJITWtjbEtTY3NaUUF0SThpQ1ZHMGc3cTlvSFk0Mlhrd045RjF1bEo2dVc1TEhOOGNlU2JJVEdta25JWTUwVUhZQ2JQODRodW9nNWhQMUp3aHN6?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Legal AI Needs An Escalation Layer",
+          "source": "Above the Law",
+          "date": "August 31, 2026",
+          "summary": "Legal AI Needs An Escalation Layer&nbsp;&nbsp;Above the Law",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAza0V2T1BZeHpfbUpLYjNMYWloNjhKdXhIOVExdVpvSTRRYlVPUHQ0Q21tUEJManVGWXZZMXBULUpEazNSWkQzSVN4SmI0NzBXaDV3Z2txS25vR2NKdHY1Wk0ySGFsQlpLNkhITTlWV2N4N0lpUXc?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "'Serious Matter': 5th Circuit Weighs Reassignment After Judge Used AI to Draft Ruling",
+          "source": "Law.com",
+          "date": "August 31, 2026",
+          "summary": "'Serious Matter': 5th Circuit Weighs Reassignment After Judge Used AI to Draft Ruling&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUVVrTVQwU0Nva3BTeUZILWRsd3ROaDVYOGx2a09sVmdacnlrSmR1eDNPLVNGQ2laRW95SFdHb2dNclhrTGY3blZDSktobWYwUmROcnZIS2lmb1NfN2daazRKWWoxbEpjN0hoOG1IZnNrVnhscjUzUGZ1b0VEbnNGQ1hqTGh6cWdva21Va3M3Ymdrek43Q0xSZUhnSmRpMVFaazlGSFA0cC04cmpHazZvQVZjQkNMaGxFWDVwMUtiaFpyV3UtOXNnRy1uYmR5QQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Mississippi asks appeals court to reassign judge over 'error-plagued' AI-assisted ruling",
+          "source": "Reuters",
+          "date": "August 31, 2026",
+          "summary": "Mississippi asks appeals court to reassign judge over 'error-plagued' AI-assisted ruling&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd2dKR3hMUER1SDlsSnFaTUpyM19FZjF0N0hWaDFXRTNublVRS0RKUGs1NmZhZUg1R2ZVVUJIUEJQbmcxckc5Y1o5TDRHalQtNkJ1NV9FNmZGd0E5aE5OVHVpMEhxejFLcnY0YXNjUkEwOXBTVG9iZWtxS1plU2ZTUkxwVWJpSmNzeFJkaFJPTkl6TXdqbWgwcDh5X1R5ank3Z3ZxbTh2aWVuR2tZQS13Zkh0V1dkOVpTS0FQMzFzVFpTY3JIV3FIdw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "State Farm attorney admits to AI hallucinations in California court filings",
+          "source": "repairerdrivennews.com",
+          "date": "August 31, 2026",
+          "summary": "State Farm attorney admits to AI hallucinations in California court filings&nbsp;&nbsp;repairerdrivennews.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTTBCRm1MWmVtanlNV0c2a0R6Z0xHdk01UzQwcFNTV0lPc1R4ajhnMmRPeUJOM3FNTFJPMEFadnBtVENJRmkteHJMUmFVOU1GRXNTTFNXemdKSmFqV1h3YjhwanF1LU5MUFdoT1BJdy11eEhTaXFqWXc4N0o3bjk4RHpmRkRtYmZESDBXSzREM2R0QzUzUXFYaE1MMkZ3Tl9GTVo1eXNzWkdxazB1RUVEZUJKTkxIRXduMkp3eElJUQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Scura, Wigfield, Heyer, Cammarota & Gonzalez Highlights Responsible Use of Artificial Intelligence in NJ Legal Practice",
+          "source": "The National Law Review",
+          "date": "August 31, 2026",
+          "summary": "Scura, Wigfield, Heyer, Cammarota & Gonzalez Highlights Responsible Use of Artificial Intelligence in NJ Legal Practice&nbsp;&nbsp;The National Law Review",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTFp1b1kxTnJmX1JTSHdTMW1QUzZnWEFyZDFYbWlVMW5MV2R3cGwwRVh2MlpnZnp3MmV2bHFfV3lIb004dU5RY21XZ25HUDlDWTA1QWNOMFNYeEgwQ1JpaGlVbi1VWG9NTFZ3b0I0bmg2a0hxSW9IMzMzZUpHVDRaRTBjTHJ0TnBHODlNamZvUmdkeTNLUnZCTGdZUlpDeVJWbGlWeFFuT3JGZw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "“AI Will Make Top Lawyers More Valuable”",
+          "source": "법률신문",
+          "date": "August 31, 2026",
+          "summary": "“AI Will Make Top Lawyers More Valuable”&nbsp;&nbsp;법률신문",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ETmNnTzBHN1lvR2Q3ekZPY3hRYXhJMFRnYWw2cVZWdTRFbWZxbzFQN1NvTmVSYXRTSTVjYlhtT2lDN19KdzZFZmdPdDhGd21HbVhVSXhFN3ZrYnFyYlBSbGU5cFg3c21LQU92X3hEa2dOQdIBckFVX3lxTE5ETmNnTzBHN1lvR2Q3ekZPY3hRYXhJMFRnYWw2cVZWdTRFbWZxbzFQN1NvTmVSYXRTSTVjYlhtT2lDN19KdzZFZmdPdDhGd21HbVhVSXhFN3ZrYnFyYlBSbGU5cFg3c21LQU92X3hEa2dOQQ?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+          "source": "TechCrunch",
+          "date": "August 31, 2026",
+          "summary": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’&nbsp;&nbsp;TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFlGbHJieW9QQkVNOHJoODVrQWRVSTY2RlhJTWdtUjRpUzJwLWVzdkg3OGZ2d1pZWUd1ZklLUnRmS2JvcGNMc0tqUUVlUjNTbElNTHBKQV9tNzMwX2lpQUpPQjVzVmdlMWJrUWZZMVpVb3NEbWpFdDRQQnozUzZhRGxOQlJTZE50UkR4U0dTUDQyX1JXbENNQ3NIekZuUmJmcjZ5MjhIc3dKamh0OXVDVUc2NUhPd05f?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "AI chatbot conversations emerge as court evidence",
+          "source": "Minnesota Lawyer",
+          "date": "August 31, 2026",
+          "summary": "AI chatbot conversations emerge as court evidence&nbsp;&nbsp;Minnesota Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNlZjcmN2eTJpQ3FRY3NVb0QxYkt0MXdyLTNqTXQ5dWMyZXBLN3I2WGtwWXdYR0lwQWJXcmlEQ3lxSmtfS1lodTZvZ1g2dGp5cnpIZzhXWEdxcXlPQmtfVGZqRXROU0k3TENKWGpteWxvWHdabFBldnRBcUo1LVB0Y2F4cS13UWV3MzFyOXl0MUdxNVYydkE?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Law Firm's Calif. Claims Stayed Over AI Comms Co.'s NY Suit",
+          "source": "Law360",
+          "date": "August 31, 2026",
+          "summary": "Law Firm's Calif. Claims Stayed Over AI Comms Co.'s NY Suit&nbsp;&nbsp;Law360",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1BMYko3VUxFZktqZmhJUzRiZnNabmt5OGZKQmR2Z0lMeV9DTkZwNzFqUWRLRjBmS01nck85aGVLU2lMbGlhRjk3dnhVMnhwVGxDd3NtNDRpS0w0Z2EyNENvMTgwSGw0UjZwS3EwTlFSNXBIY2dac0dYZ282aVp3ZHY4UkN6UVExYWt1Q0pSdG1QRDNKa1RpNjh2RmZjd9IBVkFVX3lxTFBVUHZoeTVQTkliRXpjZEpSaktzLUs4UnhHSWhDUzJIay1uWGIyNHZWeEdaMDNtNzRORGEzTFVkWXJEdi1LZldwNzk0MDZGQ3ZidllwVWR3?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Legal professionals feel ‘miserable’ over admin tasks, new 8am report shows",
+          "source": "ABA Journal",
+          "date": "August 31, 2026",
+          "summary": "Legal professionals feel ‘miserable’ over admin tasks, new 8am report shows&nbsp;&nbsp;ABA Journal",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOXNfRkd2UThCeGJ5bDJHSXdOMUktb21YY1pNcXpSTW9oRG9jaGZick9SbjdFOFZad0V0eWdHRWJqN2I0RHNYSlFjNVF6ellpQVJ2emU0V1puSGRRcTZlaGVrajZ5WWVrUVJidFlqazRuSzVZbzZ4VmlPX1pObktRT0MtTGM5YVNKZ0c4YXBmMWU5NFRYVTVPLTNjUkZHWmJUUDEweXJJZFNMQV8w?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Why ChatGPT's Legal Research Won't Survive an Indian Courtroom",
+          "source": "Legal Wires",
+          "date": "August 31, 2026",
+          "summary": "Why ChatGPT's Legal Research Won't Survive an Indian Courtroom&nbsp;&nbsp;Legal Wires",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sX1FBSHEtRnFCQVgtOEd4a3E1UzNXNkltdllKa1pVNzlIM0FEMXRWMGtLRG15S0NRV1pnTndzbW5JbEFRdHhqWHZkUDZiSDRUaHZ1dEJfYlBPQVMxNmF2c0hpaFJuWGE4elNOWVJSMkxRdXM5d2l3Mg?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Thomson Reuters Stock Rises 1.67% as AI-Powered Professional Software and Recurring Revenue Support Positive Momentum",
+          "source": "kalkine.ca",
+          "date": "August 31, 2026",
+          "summary": "Thomson Reuters Stock Rises 1.67% as AI-Powered Professional Software and Recurring Revenue Support Positive Momentum&nbsp;&nbsp;kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSS1aazViaFBPUHhMSzVOaEVmd2FZREI3MktYSlNYSjdwZEsxY3pYMkVjQ3Q5bHlFQ2p6dlVMMjJ5V1RmZnQyczgwNWlueUotSERwd0NkcHRKa1dGSWNWUzRKTHU3MXd2UlgtYU5zQnFnMHhUZHZZMEdYVGIxU09zWXpYR2FvYXR0bEthbzJPZnFsRjRDRDNabEg0MFFBR01OcUw0c0g3ZUp2VE9qTDU2UGx3Wm1DR3FULWZTWC12N09pbkFFMHJBQ0hOR0p2SjhLdWJBMGE4RVJfeG5acUljWG5tSTY?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Energy biz SSE smacked around in court by a guy and AI",
+          "source": "The Register",
+          "date": "August 31, 2026",
+          "summary": "Energy biz SSE smacked around in court by a guy and AI&nbsp;&nbsp;The Register",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmh0b29GbUpfcklvRG9DU2dVVXRiU1F4dmFQOXNGdlRVaHFBZVhRa1dpbzlFWlVBMHZQWEg1OVNfOE1QWU5NeUdxOHhQQmNOV0FjWWF0TjBSaXNleW16VzBhZVpUZmJnYVRhV0pyWEtXdHJ6ODJaaXMyNEtYWmc2WjBjc1NXb0pjaE9HRl9KU0wyYkRaYmdrQS1aNFdaelVvRHJkbE14NkVuSDZrUU1UZg?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "Federal Appeals Court Blocks Charge Over Private Possession of AI-Generated Child Sexual Abuse Images",
+          "source": "Law Commentary",
+          "date": "August 31, 2026",
+          "summary": "Federal Appeals Court Blocks Charge Over Private Possession of AI-Generated Child Sexual Abuse Images&nbsp;&nbsp;Law Commentary",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZmdtcmtkT1dKX19tQVpmbVlpMHBjUlcyU0dxQ1BIX3hIVnFrYXlTWnI4Z0pUYWl6NW94U2pXck93czJScTRCQTczUDFPX0N5WDRPYlh2SldGWldWTzJ6alJVZDcxekVkQzJydW9jU0xNeFh5UTdpSXpGeG5ybEZiZ3JReUY5VTZwaklMdEtKUXFSdzc2U2lDVTlub1FFc0JpVVRNcXdiamVsQXgtTkJvU3ExYWxkLVdEMU5RdFBQVWhORkhPNEgwRGRxdmNuNW1pZ1hxRTVsbw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 4
+        },
+        {
+          "title": "Judge ruled certain AI-generated child sex abuse material is protected by First Amendment. Here's context",
+          "source": "Snopes.com",
+          "date": "August 31, 2026",
+          "summary": "Judge ruled certain AI-generated child sex abuse material is protected by First Amendment. Here's context&nbsp;&nbsp;Snopes.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zajZwcjJoekZTc0RQNktIUDk2NlZpLThBcTBKb0RhWFJaT2I5QmxzWEZURGRhbndjaGJFYnUtUU1LODItNnVjWjIxMHRWbmVtYWYyZmpUTlhaTVFWVG1aS3pQNHg4NHdKZlJLQ042WkpzRmhW?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 3
+        }
+      ]
+    },
+    {
       "date": "2026-08-29",
       "fetchedAt": "2026-08-29T00:50:22.211Z",
       "articleCount": 37,
