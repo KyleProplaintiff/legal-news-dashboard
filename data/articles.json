@@ -1,6 +1,189 @@
 {
   "fetches": [
     {
+      "date": "2026-09-07",
+      "fetchedAt": "2026-09-07T20:20:27.779Z",
+      "articleCount": 16,
+      "articles": [
+        {
+          "title": "AI-aided law firm intake tools are leveling the playing field",
+          "source": "Wisconsin Law Journal",
+          "date": "September 7, 2026",
+          "summary": "AI-aided law firm intake tools are leveling the playing field&nbsp;&nbsp;Wisconsin Law Journal",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNUJ6UkhnclN2LWh0YVlZOTBwYzE5dW1LejgyX2xSWk51XzRmZGVZdVh3R0NabGdEbTNuNzRxd1V1Tk9RcjZNeUZidnR0UFlNVWxHZUhucnI5S1liTnJ0WXRFcHpWU3pVUmhDODRDUFRmV3BsSDhqTVhCZDJjY3RaTGlNQzRTalVjWFlobklnblNhSUlkSGtyZEM4VmZKRGpv?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Harvey + Legora on OpenAI’s GPT-6 Astra",
+          "source": "Artificial Lawyer",
+          "date": "September 7, 2026",
+          "summary": "Harvey + Legora on OpenAI’s GPT-6 Astra&nbsp;&nbsp;Artificial Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHhNVlVSb3g3X3BRUG9YODhqTjlMeFd1OW43T3oweVRYTWdHVUZZUzlyUEdTWUY0eTVpWmJaeDhUZkhoeElTTDdqX0dJNnJrMzVLZnY2X1RINXFKU1lzQlpmRktWNkVrUER4QUxud0xMQ0VScXdvWUk4RFVSclBWSTUxY3U4aFh6?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Grupo Financiero Inbursa Adopts Harvey Across Its Legal Organization",
+          "source": "Unite.AI",
+          "date": "September 7, 2026",
+          "summary": "Grupo Financiero Inbursa Adopts Harvey Across Its Legal Organization&nbsp;&nbsp;Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnJLSjltWHhXQ2NuNmMxRmM0dEh4Z3RNT2JwUXhYZWQ0cC1TSGQtS25OTDFlcDl2bzk2cUFjcDlJYnU0T3FLU0RyYWdYVTlSWXh5TGF1SzBVWlV1UXZmQTFSYllmdU5kWmdXM2NkTXZUeF8waDZudElBVHZPTW5DVkJHSUV1LWFwUG9HYmh3UzUwYWw4?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Belgian legaltech start-up LegalFly launches AI-powered Contract Intelligence tool",
+          "source": "globallegalpost.com",
+          "date": "September 7, 2026",
+          "summary": "Belgian legaltech start-up LegalFly launches AI-powered Contract Intelligence tool&nbsp;&nbsp;globallegalpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVGtaZ210d1FxVXRPdmJLUkRGcUF5QWFoQW9pZU9fXzk5eTV0THJRVVFoUjhGdXpTeXdZa0FXbFpGaHVTUHFna21XdDRZMXIyd3VmOTVEMHRQblNodk9iVWM2NEtHRVBMMXN6c3lWNHd2MTdjWlluaWFtT3ZIaktTZlZBWTdHNnZXMXJ0MVVtUW90U1VsT3pScWZ2WVlBdXNYR0hZcG5tME9MRW9HdUVJTWpxM2xoMDVRNFhsSTBQRUJWcXNiS05xdzJn?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Your attorney probably uses AI. How the tech is reshaping law practice",
+          "source": "The Tennessean",
+          "date": "September 7, 2026",
+          "summary": "Your attorney probably uses AI. How the tech is reshaping law practice&nbsp;&nbsp;The Tennessean",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSW50REtMYWQ1U2UxYkdTSDFqQlRLZVBBTUpSd1cwODdtSmtCTzYtRFZDWWx3alFURXE4UVB3ZE9nVExGSHFfT0tXb3Z0N05TWjZoanZBUWhtTEVFVW52U3NiZFlfNHloQy1XRk5RaHpvdWs5NkdLbVVWUHZwemt4SWoxWXEzVllWVkFIak5zanNBWU9CamI5YVdkVFhMUVZfN0N5SE16R3kxR0xXa1lGaDRR?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "CT employment lawyers launch AI startup to help companies manage workplace issues",
+          "source": "Hartford Business Journal",
+          "date": "September 7, 2026",
+          "summary": "CT employment lawyers launch AI startup to help companies manage workplace issues&nbsp;&nbsp;Hartford Business Journal",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMXNmMzFoUEZDM1lPZmVMNWUyaUhvQldoSEFiWE9FWmc1M2ljWHNHc0NCcWVobWJqZkV3Y01jWWVJRnpBVHJaOHJHcVVNaGpOV2MzcU9QUklGYzdiUTJqUTJwdjh2VkhRU24zR19QMHpPVmhFNzlNWWZOTXViVDJZMDhVWlZLZnVVYXl4Zi1TeDRrVHFNQkp4d3FlODRTRWdHN0p0T0lwQ2NBUGxvWnZFdnpKbjlsRTJUUEUw?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "In the UK, a lawyer was stripped of their license for the first time for using AI - Судово",
+          "source": "Судово-юридична газета",
+          "date": "September 7, 2026",
+          "summary": "In the UK, a lawyer was stripped of their license for the first time for using AI&nbsp;&nbsp;Судово-юридична газета",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1NtMG5Qei1BMmZiY3JjUDJpb21mZ2hJODg4ckluQmJoYzRVYm5kd1VPbXpZWks5Y0FLNWtJNnk3YWRDYzdIOWlqNVpCdUc1Tkc2SjU5RU1vNDFTdF8zZzRJc0lVaDczbFg2UkNXT04tenRwY1BHYW00ZkVKYjNoMUdJd2hFWVBnay1pQXFHOWdFd2U4U2EwNkNrdlByYXNyR1QzZ3RUOGdHREZXLTZGQnEybw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "When the Machine Cites a Ghost: The Supreme Court's ₹425-Crore Warning on AI Hallucinations in Adjudication",
+          "source": "Legal Wires",
+          "date": "September 7, 2026",
+          "summary": "When the Machine Cites a Ghost: The Supreme Court's ₹425-Crore Warning on AI Hallucinations in Adjudication&nbsp;&nbsp;Legal Wires",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlNnNnhVbWVtYnZmTXQwbHZqSk9PZWVqYVAtMTRwczUxZXBZRFZWbkY0Mk04THJJQlEwUG5Ub0RUY0dmWV9LeFl3LWRKazdNRTdwRUVtUEFyX2FIY2daX0Yxd2FsMWtpQWxwQW1STHY4X1NYd09melRnTFFJSURibnBsUjlYUHFXeVlV?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "AI Hallucinations in Courts: Supreme Court Warns Against Fake Case Law and AI-Generated Judgments",
+          "source": "Legal Service India",
+          "date": "September 7, 2026",
+          "summary": "AI Hallucinations in Courts: Supreme Court Warns Against Fake Case Law and AI-Generated Judgments&nbsp;&nbsp;Legal Service India",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREt5ZkhyVXUxd3VOOGQtVXhodVlYVlZVQ0lSQzVGdjFRcm9mQkpkVldjLXVKdldoLWp0VXI0eU1tTHpFdjZWWE9NbGZkN1NkeHJTZXR5MlVHZ2FDSzJuSUJCM1REbW5meXNON3VtQWxXMk1mNTlMdU1ibTBpdDh2NzUtOWNXaVZtVVJhOEJ3S09BZUtmdktfZWhkZFpHUGdkeUdZTWpWRDU?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Law firm warns AI legal advice can waive legal privilege",
+          "source": "Resultsense",
+          "date": "September 7, 2026",
+          "summary": "Law firm warns AI legal advice can waive legal privilege&nbsp;&nbsp;Resultsense",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLW5fTFFHbFlHZ0xfcjNjYklROTA4VHF5MEtzMmFVb0Y0ckdIdC0wT205M20tMUtLdXFVNkluNC1oRjctLVRkMEF3bG43THRfaFFRdW1zUDF6bXVyWDh3c1FSRzNjZnhuYVk4YUktT0tORlZvbXdDc1J1WG83QmswSg?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Why+account+setup+matters+more+than+generative+AI+tools+for+lawyers",
+          "source": "North Carolina Lawyers Weekly",
+          "date": "September 7, 2026",
+          "summary": "Why+account+setup+matters+more+than+generative+AI+tools+for+lawyers&nbsp;&nbsp;North Carolina Lawyers Weekly",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORG9kYjJaWDFMV1lqdHhlRnhvLXE5cjdJM2RWS19lNnNuLUZRTDI4QXpuZ05aa0F2TFI5RFBwTF9RZXZqdHRSUTM3aEZSZ2psSlJHVl9DdmJGbm9xZW1YSmRtV2pINHJIYk1jZHZCdW4wWWRMMGVPMGZCa1Q3RVBOQVFGWmtZeVZVbENKT0FPQ1VlREZLYmZOOVRHWmQ0Tjl0bklkbDkxaW40d0dFOGc?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "China's Supreme People's Court Issues First AI Ruling Rules: Deepfakes, Voice Cloning, and Doxxing All Constitute Infringement",
+          "source": "finance.biggo.com",
+          "date": "September 7, 2026",
+          "summary": "China's Supreme People's Court Issues First AI Ruling Rules: Deepfakes, Voice Cloning, and Doxxing All Constitute Infringement&nbsp;&nbsp;finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fbGV4Ql9nYk5EX1hpeFV0VWx5WDBFek9uWVZScVV1Q1p1b2JZUFFOeEpQcFJoeUdPWXpKSkg5d21JY2FUakV4N3JoZ1Fpc0tTM1BvRF9qckk4ZWNTY0lKdFRrRk5MSEN4bG5KbWQxSHNlTUtPMEE?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Customs Officer Believed AI and Imposed a $45 Million Fine: Supreme Court Overturned Everything - Судово",
+          "source": "Судово-юридична газета",
+          "date": "September 7, 2026",
+          "summary": "Customs Officer Believed AI and Imposed a $45 Million Fine: Supreme Court Overturned Everything&nbsp;&nbsp;Судово-юридична газета",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnNReE1CQ3BRampYZ3lDN1BDM1puUUZKTmRWWmtRRGd5Vnh4dnkzUWFaUXB6M1RzeExmTGxSaGV0R2c0MFpvUEFubHFNS211Qk9mMk5xbW9oRndzZkVmQlU1eHFrd1VXcVVjeDNod3lnNnlwR2lfSkphTzNUcGZMSVBHMlN5Nm1yRE5tMV9zYUdlOHJ6T0tQc2xzcy1VNlktTFJ0N1VRdi1VYnZScVdZ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Top court sets rules to protect rights from AI misuse",
+          "source": "China Daily",
+          "date": "September 7, 2026",
+          "summary": "Top court sets rules to protect rights from AI misuse&nbsp;&nbsp;China Daily",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUd29haUFiUFNVQzhnbzlFLUxLRV9TbjY1b1VrNVJzR0lBTnFMclhJYVhqc2djcklMTlUxVHQxbUFqOWFaZUszNFEySFppUVN0XzhTRmRIaFpmVzhrcVVqeTA0cDFkZGZ3Ti1uWHF3NTFHbzY4QkJlZjU5YlpIdw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "China’s top court clarifies liabilities for AI face-swapping, voice cloning and smart driving cases",
+          "source": "globaltimes.cn",
+          "date": "September 7, 2026",
+          "summary": "China’s top court clarifies liabilities for AI face-swapping, voice cloning and smart driving cases&nbsp;&nbsp;globaltimes.cn",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NQkNZeXczZW9rMHhJTkxlWDcteVZEY2R5LWhSTFFQQllWVzBYbkUxU2VSd3NIRk16RFB6VFdzeXpkQlJuS1dzYnpSNEJCYXZVQ0c0UUdmUldDU21MdmpsQVpn?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "China’s Top Court Issues Rules For Deepfake And AI Content",
+          "source": "BusinessToday Malaysia",
+          "date": "September 7, 2026",
+          "summary": "China’s Top Court Issues Rules For Deepfake And AI Content&nbsp;&nbsp;BusinessToday Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFFCeWJUdDFpUzRkMm9zamEwV2VpZDdmT3lkbk13M3Rvam5lbjNfeVNMZkhYSkhDVXYwQy1KbnA5cHJqRXZJMkY3NjE0a1R6dW92ckU2MHpwM0prTTQzVmpzTk1NQWFOdTVLWHF1elBnSHNoOWlDM0N6ci1PbDVOLThaQ3QtRDNZdHhfb0t4SWFrQm5VMkNPZmxDWXYzNDY3dWY0eQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 5
+        }
+      ]
+    },
+    {
       "date": "2026-09-04",
       "fetchedAt": "2026-09-04T19:15:54.371Z",
       "articleCount": 44,
