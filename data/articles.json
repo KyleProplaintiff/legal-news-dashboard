@@ -1,6 +1,398 @@
 {
   "fetches": [
     {
+      "date": "2026-09-08",
+      "fetchedAt": "2026-09-08T19:42:56.765Z",
+      "articleCount": 35,
+      "articles": [
+        {
+          "title": "Latin American Legal AI Startup Magnar Announces $8M Seed Round With Law Firm Backing",
+          "source": "law.com",
+          "date": "September 8, 2026",
+          "summary": "Latin American Legal AI Startup Magnar Announces $8M Seed Round With Law Firm Backing&nbsp;&nbsp;law.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWkcyNkpDWUxzRHY2UXp6ZjdyRmlhbjF3aEdsTXFtaTU5RFVUcEo0NEpuNlEyTjVDd0RtQTFoX05hS2NnWjZTTGZ1Y3kxTEhZMGs4MzNuS2VMWnFIT0dJTEN5MFJxTjRxY3FISXg1SzIwdDlXTkxOTXAtZXVXX0p2TmVxVFBYWmJ5UFRVMWE1dTlnZmZqNlVTSG0ta2x3eVYxRUJpYm5LVmJiczVMa1FEUkpGU0x1ZlhrOThnS3FqWmFIZ0NpeVZqbDZYVQ?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Litigation Tech Startup Concorda Announces $3.8M Seed Round",
+          "source": "law.com",
+          "date": "September 8, 2026",
+          "summary": "Litigation Tech Startup Concorda Announces $3.8M Seed Round&nbsp;&nbsp;law.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT0ZCeWdHN0RoSlZRdTVYdExrNk9qam5XVDdFSkdxaXZqWGppOEl0UDBNUWRkdGw0RkhhM3Q2RnctY3VwQWo3Tzk2VDlqRS1OUE05ZXJPQ0xsekk3UzdrbzZNVTBzXzZNQWV0aWs3T2VMbFZBZjNqb3U4VnVyUlpIZXpQZVYyNGhlLXM2UExmc292T2pIS3B1Q04yX2NQclRJbGc3N0s3QQ?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Harvey + Legora on OpenAI’s GPT-6 Astra",
+          "source": "Artificial Lawyer",
+          "date": "September 8, 2026",
+          "summary": "Harvey + Legora on OpenAI’s GPT-6 Astra&nbsp;&nbsp;Artificial Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHhNVlVSb3g3X3BRUG9YODhqTjlMeFd1OW43T3oweVRYTWdHVUZZUzlyUEdTWUY0eTVpWmJaeDhUZkhoeElTTDdqX0dJNnJrMzVLZnY2X1RINXFKU1lzQlpmRktWNkVrUER4QUxud0xMQ0VScXdvWUk4RFVSclBWSTUxY3U4aFh6?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Fox Mandal: Harvey AI Adoption Enhances Legal Counsel in India",
+          "source": "Wansom AI",
+          "date": "September 8, 2026",
+          "summary": "Fox Mandal: Harvey AI Adoption Enhances Legal Counsel in India&nbsp;&nbsp;Wansom AI",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZmExUzRfQndpZ3RaUE1GR3gteXJPdnVsQjd2b1UwaFkwQTZkOVVOMDVlSWhwclFnTEZ3U2NiN05wVHN5d2pvbnEydzJxSmN3YlRrdTNoLXJYUnRIcHJzdm9paGZleDFYYmtkbW5ONmpWWGI0YlJHbjNhZmRQN0wtbFpGeFIwSExEUC1KeVFFcWxIRzBUQ3ZTdVV5OTRzNTIxV2lFSmdPZkhUS25XSGttbjlVc2VuMnp1TVc2VHp3aGNQQXU0ajJVeDV1Ql9QNzgyWEpkNU5vQU1IM3VvS0VWaEc1NA?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Grupo Financiero Inbursa Adopts Harvey Across Its Legal Organization",
+          "source": "Unite.AI",
+          "date": "September 8, 2026",
+          "summary": "Grupo Financiero Inbursa Adopts Harvey Across Its Legal Organization&nbsp;&nbsp;Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVnJLSjltWHhXQ2NuNmMxRmM0dEh4Z3RNT2JwUXhYZWQ0cC1TSGQtS25OTDFlcDl2bzk2cUFjcDlJYnU0T3FLU0RyYWdYVTlSWXh5TGF1SzBVWlV1UXZmQTFSYllmdU5kWmdXM2NkTXZUeF8waDZudElBVHZPTW5DVkJHSUV1LWFwUG9HYmh3UzUwYWw4?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Fox Mandal & Associates adopts Harvey",
+          "source": "Bar and Bench",
+          "date": "September 8, 2026",
+          "summary": "Fox Mandal & Associates adopts Harvey&nbsp;&nbsp;Bar and Bench",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMVVPLVdDSi1hNGJ0VE15Z0ZQaVdaamN0d1liQUlTdHNkT014LWhBOVd1MXFUUl8wTUdYUjlQYmZCT3Zhdmx5S0FZVm9hLTgyTWZUcE91TmRyUjNqbDljX1d2QmJ5YWdicURCSGVMMlFyVDU1UlJYVFZPaExVeE5kak84ZE9GUU00MkVYOE1ocVNiakdZNUVyQXNvVW05dGFBSEt4cHpzZW5PVFhVWkhycEM4RVpPR01mZEgw0gHIAUFVX3lxTE1GbEg0ZllGM0pPR290X0pLdmJ4ZzNlMzNmSEVxNG96TU1NckdtT2NibUFYYWtybG5VVjA4Ymk0X2poM3REZ2lWc0J6a0ZuSzVyVWFzUllnQldSSlFHYnpKSFRJOHNqNVBMV3VkYVAxcWlEaC1iX2c2QXJRSjVDdHpHTGFlZlg1dEhWMGhWQ3N3WFZYcUJDLXo1M01SWnJkM1ZwLUhybmo0a08xWGtpQVFMdlZpN0FqTDhEaDJNR0xpNTMwcXlVMzdh?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Belgian legaltech start-up LegalFly launches AI-powered Contract Intelligence tool",
+          "source": "The Global Legal Post",
+          "date": "September 8, 2026",
+          "summary": "Belgian legaltech start-up LegalFly launches AI-powered Contract Intelligence tool&nbsp;&nbsp;The Global Legal Post",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVGtaZ210d1FxVXRPdmJLUkRGcUF5QWFoQW9pZU9fXzk5eTV0THJRVVFoUjhGdXpTeXdZa0FXbFpGaHVTUHFna21XdDRZMXIyd3VmOTVEMHRQblNodk9iVWM2NEtHRVBMMXN6c3lWNHd2MTdjWlluaWFtT3ZIaktTZlZBWTdHNnZXMXJ0MVVtUW90U1VsT3pScWZ2WVlBdXNYR0hZcG5tME9MRW9HdUVJTWpxM2xoMDVRNFhsSTBQRUJWcXNiS05xdzJn?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "We built Agiloft Astra™ to make enterprise contract AI accessible to all. Here’s why that’s a bigger deal than it sounds.",
+          "source": "TechCrunch",
+          "date": "September 8, 2026",
+          "summary": "We built Agiloft Astra™ to make enterprise contract AI accessible to all. Here’s why that’s a bigger deal than it sounds.&nbsp;&nbsp;TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOHVNaXJMUVdIZ2I3TXFfT0ZmYk9qTVppTU9EV3VySEMyaVdQalRiTUhTaVRKcFVNR21ZaFpRWThXcnM0aWowZng3MTBFY0dLc3J3WkY3WmlaTW9VUlZudWwzM1Q4UVo5V2I0cHg5Q0VwS0JmcW9mUlRBNmJwRkFNNUt0NGp1bFNzUnVnVHVTcFl0R2ZlQUI5SGpIM0FuUmlFeS1HM2QxaGNTMnVJdUVWemV3SUlweUR2T185WER2ZExnaDFDNllwdFRqWUlycDhBc0lvNXZ2RHkyeE5fakM4LUVqN3U3RnNxWG9fSA?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Lexroom Acquires Bulgarian Legal-Tech Startup Praven Intelekt",
+          "source": "trendingtopics.eu",
+          "date": "September 8, 2026",
+          "summary": "Lexroom Acquires Bulgarian Legal-Tech Startup Praven Intelekt&nbsp;&nbsp;trendingtopics.eu",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQk9yNkVIS2ZOc1ZPWnB4d1ZkZ3ZiQTFpbEk3LTdzMGRKekVQenpMNUlxQVhMenEzakRlS0toT2FuYnJFdWtzY0hPVDBib3RaMU4yRGgwVms2Z2JMbGpFTHRhVWhRZkFoYTcyN0w5WTcwTjB5YTlSVUExVzNpd1JwaUtoXzh0TUZuNWhjYkd5cUgtQkRVN2JJ?oc=5",
+          "tags": [
+            "acquisition"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "The Legal Industry’s AI Scramble Is Changing the Lateral Market",
+          "source": "Bloomberg Law News",
+          "date": "September 8, 2026",
+          "summary": "The Legal Industry’s AI Scramble Is Changing the Lateral Market&nbsp;&nbsp;Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFN2VmlIbmlpbTZqamphZE50ODh0Mm1OemwwaG1VNWsxc3BkMXo5dWtxUWdCdGVEM0JOeFpoNnpKZEVscHg0aHB4MGs4Z2ItTXFsU1drY1JUUkFrQmNwVjhDcTNoUmw0QjBfM0RTMVp0WC1xZ040cGxnZk80SlIweXpFb21zaG9KUHVGX3d5dVh3X1lhRUpwOVFIWUR3UmpL?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "The AI Pricing in Your Legal Research Contract Is Being Subsidized. It Will Not Last.",
+          "source": "law.com",
+          "date": "September 8, 2026",
+          "summary": "The AI Pricing in Your Legal Research Contract Is Being Subsidized. It Will Not Last.&nbsp;&nbsp;law.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkRKOFdubENkYkJEWXRYaDVIenJLZGhNLWlPUkhodXlzQV9lQWsyOEVGZndLSW16WUFURzMxTm5vQkM1UHBDREs3V2Vrc3c4V3R0VnA2TEk5amF2ZG10SnlXbHhRUDZxRHBFRThRcUFvT1A1N3pBUDVtYVFVdzhDLTlhNDl1QVpoWTNBdDdUS2ZENlhGM3RtVXBiam9Dd1FMOWYwZmQtank2RS12M3BDM3VOaC02ZEZUZEs3MFFvZ1lhOUVLUVJJSg?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning",
+          "source": "lawscot.org.uk",
+          "date": "September 8, 2026",
+          "summary": "Big AI v Big Law — Jude Law, Harvey Specter and why the legal AI arms race is only just beginning&nbsp;&nbsp;lawscot.org.uk",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dndHk0NjZaYkQwdjF5Sy1KN2doNzRSc3Q1anFiOVJRc3RxME81NURrOGt3WjNsbVVzNVlnQ1NaUmZBT0J4ajlYOS1CemoyRWJpY1p1RTJQODVHQ0xwZ09EUzZFYzVUUlhOckROTG1EOWVTR3MycFdXVXlkUXRyUUIxaFBseXEydlVkNkg2MHVMcVVvLURHS3U4Z0loZ2wwLWNfUlpOSlhuemNYVUcwelNDVkd6M08zUExNN2RkTWpObWJkZ0d0c0lmQUM5bGJMbWQ2Uzk3M3d6SWw0VUhxaF9ZdzZjZw?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "‘AI adoption could lead to more critical thinking’: How Harvey is reshaping legal work",
+          "source": "Lawyers Weekly",
+          "date": "September 8, 2026",
+          "summary": "‘AI adoption could lead to more critical thinking’: How Harvey is reshaping legal work&nbsp;&nbsp;Lawyers Weekly",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOenh5TTlpcDhOaEt6N2JfUnRLSUJybjZ0MEVSR21RcnBULXIxbjRrZjF2dFNrSHh1NDlpRFlUX2hjYjY1WU1EdmRMb2pNdnV1UHZwSExJaS1VMDd2REdJTHB1dERBVXRtNmdSUVBBd210eHBCSndfNnhrTEtWZ2Rkc3NWMHpOSEtnMWxfSm1MVGVJYXZ2STRrMWl2Y0hZaFh2Z3hPenVpRElfSzRyZS1rR05fT3JaOExRTmtja3NhRzRQRnV6WDc3MQ?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "AI for lawyers: what’s your AI implementation plan?",
+          "source": "Canadian Lawyer",
+          "date": "September 8, 2026",
+          "summary": "AI for lawyers: what’s your AI implementation plan?&nbsp;&nbsp;Canadian Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM3JyMEYzS1h4ekYwbmtVUnlOQ1VOTy1POThFc0JYSWNGV0FQbkNSUmlxTTR5NVlMbUpaeHY2QTBmZmc4dWtCOE9kQ2phd0JLQzYwREdNZmM1S1F2MDFVVzZpdnhuQ3k1MDMyVGd3Um5kc3BBMnRodkpBSjdtd1BFc21GR0xDV2ptWGJ6LUtiUThmMmV6TDZ3TVgyc0JjN2xTTG1yV1Fqdnc1by14ZWNuZjE3Wkc2NElqNmNwMm55WkM?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Optimizing Use of AI in the Provision of Business Legal Services",
+          "source": "The National Law Review",
+          "date": "September 8, 2026",
+          "summary": "Optimizing Use of AI in the Provision of Business Legal Services&nbsp;&nbsp;The National Law Review",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR0toMHBCQTRSOHJ6N2k2TTZDd0dnMjljVnVlZG1XQ2hVZHBnZkpRczU4WUhReFZpZGMtR29HUU45NlVjVWdCSlZVb2N2U1NVNEtsMk5XRG5CaFpJRTFTUVhlc2lWOWJsUXNKYnhXU0NDN3dzNDFHckYxdFZjNnFLZW1Dc1lINXMyclRLb9IBkgFBVV95cUxNVmg2NEprQWhsTEkwTUs2SXdZRkszODVFTXp1VU45WjlsUHhmRGFydkhkdWlKMjdjTXh3RXpWNEFROTRCZnY2OFBjRlNPb05jZjltN1VyZk9lSmNEd1BoUmhyVVllT2NoSlhuVHpZMjNPZW96aG56Sm02UkRzenZjYlZWVkNwQ0VvMktQbFZzc3ktdw?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "AI in law firms: opportunity, responsibility and risk",
+          "source": "howdengroup.com",
+          "date": "September 8, 2026",
+          "summary": "AI in law firms: opportunity, responsibility and risk&nbsp;&nbsp;howdengroup.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFdTZktzbElGcGdWSzNYenZRalI0N3NSNE5acXdTeWI1bXR3R0dmNnFCbGtsOHVyY015YjRMOTgyREdRek5UYlhId1M1Yi16ZVpSdlNldGJLeUxNbHlvTnhBRk15NkpDemlxaHRSVGczazhEeThKc180VUpNT1dOOWVKdDg?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "China’s top court sets out new AI red lines with rules on deepfakes and privacy",
+          "source": "South China Morning Post",
+          "date": "September 8, 2026",
+          "summary": "China’s top court sets out new AI red lines with rules on deepfakes and privacy&nbsp;&nbsp;South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdTdMQWx6TTEtMG5pbHZfQmF0aDJGcTRSd0Jienkyd0h0WkVhS0drU3JGeGZKWVRJeWdiVzFrWDYzcjZEX2J5d1hXQWw1aXpTZWkydTN4S2FWbG81MFNPV1hzZ003OS0yODhBN08yR1g5T2hUVmk5ZEJQTUdPUFZTcmRId3hfMC1wVzJBMndBcldHQVlkMXNvX19BNHpOQWRONlNmT0JIX3gxTUlqbmJhbzNqSVBocEJ2bkxmRUNSQjJ0NUlsa0FaSlZqONIBywFBVV95cUxQMTNFX3hGUm5hUmpFa050NGctVl9BOUZCV243ODNiZFpzS3k3LVZmdWRVZ3B4Ymw5RVRUenpkMGRCdzBuenNfenZFcVNjcjI5dWM2WmloOTgwZW1KeFRZTU9IOXlKUXJTUTYxNldJaFBkQ29ETTlGdlYtVTYyQWFFOHRYeW9vRUNIczRBeWZWa0c2b0d0bzFnS3oyZlk5UU1zdjE2RHBralREZUsxVm1kTUZ3MGxrdVpQRGtta3Jmc2F0UEp3Y3BNelVIVQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "China’s Supreme People’s Court Issues First National Judicial Rules on AI Disputes — But Sidesteps Copyrightability of AI-Generated Works",
+          "source": "The National Law Review",
+          "date": "September 8, 2026",
+          "summary": "China’s Supreme People’s Court Issues First National Judicial Rules on AI Disputes — But Sidesteps Copyrightability of AI-Generated Works&nbsp;&nbsp;The National Law Review",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMlhuUE03UUg0OWNFRUoteHRaNXA1Y2ZUanMzamVLZ3JfaS10S2pzTHRjTW8xRHZ6UGtLS2d0UHpOU0FoYzZOcnl2dDRBWGpGSE9pS0NCYXBJbHRIRU9ONDZMWlpvMXpZMjVXYVRmY0VCbjhOR3lZSURycVZLYk52U3hVM0l5WE9rX1hUYmlaanQzQVNwZWJwT3ZzaHpnOThfcjZfcXlKZlRfSkJsTTgw0gG0AUFVX3lxTFBKNjYxSUdPNVBJOGd6aXlpX2FZbHhhQUNyazJnMEIwSDJWWEREZzMtaHRtdkt5aGNmWHB1SF9pU1I2YmtEZnJhVzB5N0JnTUd3cjBuOWEtR3dkS1M0T1pCazNwMEtYWDJsblAzMFJPLWNONUFEYXFRRDhmV05VaUhMT0xGczdxcUQ4RDhwLU1lUjlQX29iRzRpSzVRYjIyOGZSdzNHSWd6UVBDd01UTmx0eEwtNg?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "China's Supreme Court Sets First Legal Rules for AI Deepfakes and Lies",
+          "source": "Startup Fortune",
+          "date": "September 8, 2026",
+          "summary": "China's Supreme Court Sets First Legal Rules for AI Deepfakes and Lies&nbsp;&nbsp;Startup Fortune",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSUR3aXRDUUVzQ2hOSGhhVU4xYlVVei1LeWJ3NnJBZTI4aVROODBZWFFySHM4TjYyNXpuX2RNSkN1RWdMbTZmdWZEejI0aUw3bjFPeGU4ZGZSQ3ZxUkJ5MXFXZzZtVjVZcjRXb253a1lkYkV2T2hWZEhkTnVhSGZGUVRIS1pTU2JpbTNYWURFSWUyT05tcmpvaEVyU1NqZw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Your attorney probably uses AI. How the tech is reshaping law practice",
+          "source": "The Tennessean",
+          "date": "September 8, 2026",
+          "summary": "Your attorney probably uses AI. How the tech is reshaping law practice&nbsp;&nbsp;The Tennessean",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSW50REtMYWQ1U2UxYkdTSDFqQlRLZVBBTUpSd1cwODdtSmtCTzYtRFZDWWx3alFURXE4UVB3ZE9nVExGSHFfT0tXb3Z0N05TWjZoanZBUWhtTEVFVW52U3NiZFlfNHloQy1XRk5RaHpvdWs5NkdLbVVWUHZwemt4SWoxWXEzVllWVkFIak5zanNBWU9CamI5YVdkVFhMUVZfN0N5SE16R3kxR0xXa1lGaDRR?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "China’s top court clarifies liabilities for AI face-swapping, voice cloning and smart driving cases",
+          "source": "Global Times",
+          "date": "September 8, 2026",
+          "summary": "China’s top court clarifies liabilities for AI face-swapping, voice cloning and smart driving cases&nbsp;&nbsp;Global Times",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NQkNZeXczZW9rMHhJTkxlWDcteVZEY2R5LWhSTFFQQllWVzBYbkUxU2VSd3NIRk16RFB6VFdzeXpkQlJuS1dzYnpSNEJCYXZVQ0c0UUdmUldDU21MdmpsQVpn?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "China's Supreme People's Court Issues First AI Ruling Rules: Deepfakes, Voice Cloning, and Doxxing All Constitute Infringement",
+          "source": "finance.biggo.com",
+          "date": "September 8, 2026",
+          "summary": "China's Supreme People's Court Issues First AI Ruling Rules: Deepfakes, Voice Cloning, and Doxxing All Constitute Infringement&nbsp;&nbsp;finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fbGV4Ql9nYk5EX1hpeFV0VWx5WDBFek9uWVZScVV1Q1p1b2JZUFFOeEpQcFJoeUdPWXpKSkg5d21JY2FUakV4N3JoZ1Fpc0tTM1BvRF9qckk4ZWNTY0lKdFRrRk5MSEN4bG5KbWQxSHNlTUtPMEE?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Iffel International Releases 'The Reimagined Law Firm' Framework for Managing Partners",
+          "source": "The National Law Review",
+          "date": "September 8, 2026",
+          "summary": "Iffel International Releases 'The Reimagined Law Firm' Framework for Managing Partners&nbsp;&nbsp;The National Law Review",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV1piYXpaYW5qcUdhWEt3bS1hYTJ0OVRoMFk5LVc1bGYtbGxsd2p4a0lGTlJrOUFFM1hseENya2RYZUhkMHphSFRkbWpDc2lIVGRDLWpxcDgzc0hSQUdxVGZDTW1KQVE2UmF5VURxZGZGWlBPT212dXJrV01mTFB3b29YekJFSDBaV2I5UVJjWjcwZklQV3ZtYUZDVnVDM0hBbkFIU01ucERlRDZMaWRrNzFWZDg4UXM?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Judge's AI Error-Laden Ruling Faces Appellate Scrutiny. Are There Lessons for Lawyers?",
+          "source": "law.com",
+          "date": "September 8, 2026",
+          "summary": "Judge's AI Error-Laden Ruling Faces Appellate Scrutiny. Are There Lessons for Lawyers?&nbsp;&nbsp;law.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS09JX0NPcXhGWktOOFdFMHVDOGRqTFN6aGw5UklPdTVTQk01MktHTzBfVFpHY3BXSlh4QS1mZmZFNmlqc3oyYlNBMVFjNlp4VDJIRTE2NzVBWHZJMFhvS2o4ZmtRcmc2VGMyYmFWVFpDcVh2UUhOZk1lWVYxclhZbmpJVWZfaW41Zl8zODgtS3ExZFJwS1otNDNQSjZtR0F3R1lJOGtlbUhKWUNpd0lnVTFRZ20tRDRvWlFCTFhLRURDZkxMUG1nTTBtOWQ2VFU?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "SPONSORED: AI Is Turbo-Charging Cyber Attacks. Is Your Law Firm Ready?",
+          "source": "lawscot.org.uk",
+          "date": "September 8, 2026",
+          "summary": "SPONSORED: AI Is Turbo-Charging Cyber Attacks. Is Your Law Firm Ready?&nbsp;&nbsp;lawscot.org.uk",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeXkzeE9SY3BYUkJZS1VTWmt3Q3dtRVpjTy1Fa19EdWpNLVVadXpadzdWaFBTNVBWMUxuR2FPMGQ4SGZUdU93U2g1YXVzN2dtX29TaFNKdnBkTmlhenhtVDJ0d2ZKcW9DcmRza0k5dmZDSjFENC1oZDk0VldQSmo1ZXU4d3JvZW9POGl6d3NFYkZWaW54VVNPTUZIdk1vSFA0UDhmWl9CcDVzazJtcVh6VWM5azMtVnIxQXQ2TEM0WkFPQQ?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "China’s top court sets rules for AI deepfakes to regulate booming short-drama industry",
+          "source": "Global Times",
+          "date": "September 8, 2026",
+          "summary": "China’s top court sets rules for AI deepfakes to regulate booming short-drama industry&nbsp;&nbsp;Global Times",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VWGIxdFlGSHIxNEY5RzVzYll1UmlFd0pUZXRyUE9ZeUdtbUFQZ1E3ZXZjdTNzOXZGU1dubkp6Uk9tWnpTTVJpaHk3cHhIUjNuZldZSVBkQkpJQzMzRkhySEZB?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "China's top court posts guidelines on deepfakes, AI disputes",
+          "source": "Tech Xplore",
+          "date": "September 8, 2026",
+          "summary": "China's top court posts guidelines on deepfakes, AI disputes&nbsp;&nbsp;Tech Xplore",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3hKNDg0UlJvd2x0ZkNwRjFjM09uYzlhV2JlRjlDbTZfSXg1MnRUSnhLSTY1bXBVa1ZWVksyOFNWRGNwNm1qc05WeVc3RG9lR1ByajR0RGRTc1RmdnZrVlktMkpsV3RUVmtsbDdCZHVydjBGcFhHTFE2aTVQcEFWT3J3?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "China's top court sets rules for AI deepfakes and other disputes",
+          "source": "Global Times",
+          "date": "September 8, 2026",
+          "summary": "China's top court sets rules for AI deepfakes and other disputes&nbsp;&nbsp;Global Times",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5odzRWalBHNnZ6alZCV3BEOWFXclVLTVYwSmFONGdZNXp0Mmd4cDFQbGVNcjd6MVVnTnkySGFUYUpOcG1NMnFBd0gxNWphdXdMcVFPYmdOamdpamJsa0Uxa2Zn?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Top court sets rules to protect rights from AI misuse",
+          "source": "China Daily",
+          "date": "September 8, 2026",
+          "summary": "Top court sets rules to protect rights from AI misuse&nbsp;&nbsp;China Daily",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUd29haUFiUFNVQzhnbzlFLUxLRV9TbjY1b1VrNVJzR0lBTnFMclhJYVhqc2djcklMTlUxVHQxbUFqOWFaZUszNFEySFppUVN0XzhTRmRIaFpmVzhrcVVqeTA0cDFkZGZ3Ti1uWHF3NTFHbzY4QkJlZjU5YlpIdw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "In China, the court determined when AI human doubles can be grounds for liability - Судово",
+          "source": "Судово-юридична газета",
+          "date": "September 8, 2026",
+          "summary": "In China, the court determined when AI human doubles can be grounds for liability&nbsp;&nbsp;Судово-юридична газета",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMU84czlNTEs4cm5Mam1nbUVUcmFaZndTdFBfUW5wSUtDRWFDNWN1VERXdVpGRFR1alM1VDZURkNyUVNYZkRSRElKN25IamNoakZaVThsRUliOXJXSUFfVnhETEJobnZ3bWRNd3VqcExkdmpBVzJjVG9oRFpZS2MwRmZRWU5xY1lKb1BwRnRLd2ZCQzlpLVJaazdrWGFhRGNLdG9OQmdkT2ozRFVieXV1blRFTFpFUmxVSjlRczVHaU5xa0dHUzI0?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Exclusive: Google's general counsel says AI can't replace human judgment",
+          "source": "Axios",
+          "date": "September 8, 2026",
+          "summary": "Exclusive: Google's general counsel says AI can't replace human judgment&nbsp;&nbsp;Axios",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVkN1a2MxU1h2Y3dnY0NXcDRBMUswRXBBZEJ4cDZ5Q29aSk9WM0hoN0pFWnFuQ0RYazdtdWk2a0NyRVg2RmNKMjNFc1JObGZQWVJBVDg0eW9sM3hWdk8yZjNTamd5QTgxMTBfQUtWM2ltN1R4dlBVel9iQ1ptaTFFZ1lpWDJDbmhUanBwcUxzMA?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Law firm warns AI legal advice can waive legal privilege",
+          "source": "Resultsense",
+          "date": "September 8, 2026",
+          "summary": "Law firm warns AI legal advice can waive legal privilege&nbsp;&nbsp;Resultsense",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLW5fTFFHbFlHZ0xfcjNjYklROTA4VHF5MEtzMmFVb0Y0ckdIdC0wT205M20tMUtLdXFVNkluNC1oRjctLVRkMEF3bG43THRfaFFRdW1zUDF6bXVyWDh3c1FSRzNjZnhuYVk4YUktT0tORlZvbXdDc1J1WG83QmswSg?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "AI Training & Copyright Part 3: Recent Case Law by the Regional Court of Munich (“GEMA vs. Suno”)",
+          "source": "Freshfields",
+          "date": "September 8, 2026",
+          "summary": "AI Training & Copyright Part 3: Recent Case Law by the Regional Court of Munich (“GEMA vs. Suno”)&nbsp;&nbsp;Freshfields",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNEJCaVhvaUJ6MXZCTVA0Z1A3aGRUcjc0dGVIU0p4UXpROU1FT2pzV1RrMXBwOFNjSGZUM29oSDBDb1dTaHZMaFRmeFotUmUzSE1zODJ3Njc2MWFWMVlLdDN1b1ZwcXR1cVNMUmg4a2YtWlM0MnhuOC0xbnZ2SlRLWUdITno3RGpETE9fd3V2TklRRGV2RFhERUFHTEVOMkZKN1owbVVobVRuYjN0cGZsR1YzeUtXWlpxWVBybGwzMjNPZEl6MXhfLUd5WkRVQUJYNTVhMmpVc0Q3dk9KNm0xVlNpd2JhQUNySXc?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "UN Human Rights Chief: \"AI Threatens Human Existence…Ironclad Safeguards Needed\"",
+          "source": "finance.biggo.com",
+          "date": "September 8, 2026",
+          "summary": "UN Human Rights Chief: \"AI Threatens Human Existence…Ironclad Safeguards Needed\"&nbsp;&nbsp;finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ScU5DYzlkcXh0Zk9JcWhHeU5FeFcwdVNUWDFPaVJLOElqYjhnYlB3UWJLUFVhaGN2MmdJQVZiVnVmbFQ0MzN3ZTk4SjdRRHctVlV0R3I1RzFQOUg0T0xtQ1QxemtMbXZ4c0ZSbk5LeVJEZkk3dFE?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 4
+        },
+        {
+          "title": "Willy Wonka’s In-House Counsel Is Back And Handling Jurassic Park’s Legal Problems",
+          "source": "abovethelaw.com",
+          "date": "September 8, 2026",
+          "summary": "Willy Wonka’s In-House Counsel Is Back And Handling Jurassic Park’s Legal Problems&nbsp;&nbsp;abovethelaw.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0ZRcVdLY1Z5b0dKYkJXX01UWlRwaFMtSk1FZVB2dnAtc1lYU0xsc3BCem8yamhxcTRpREJFaHBLNHN4SG9GZTVyNG0wdTkzdi1aQ3l0bFNpaTBHenpMc1hicWQzZTRmM3lUaWxObzJpVWNjM0lLTEtObGxPc25DZjJTaDVGY1NVRXpDRV9oakh5cGpFOFV5SkNLUHBGeG0tMlVpcl9rM3BHdFlWMERBLU0xUQ?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 2
+        }
+      ]
+    },
+    {
       "date": "2026-09-07",
       "fetchedAt": "2026-09-07T20:20:27.779Z",
       "articleCount": 16,
