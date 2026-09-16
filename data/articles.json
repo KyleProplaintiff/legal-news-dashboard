@@ -1,6 +1,453 @@
 {
   "fetches": [
     {
+      "date": "2026-09-16",
+      "fetchedAt": "2026-09-16T19:49:52.117Z",
+      "articleCount": 40,
+      "articles": [
+        {
+          "title": "This startup is putting OpenAI's AI to work inside law firms",
+          "source": "Business Insider",
+          "date": "September 16, 2026",
+          "summary": "This startup is putting OpenAI's AI to work inside law firms&nbsp;&nbsp;Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTZCNTBSWXJYYUlJTkJ3R0dNU2RiY1M4WlY4TnhuZk05QWtrMzg4bWtsT3diT3d4R1BFcVF5LXBRX2dSQzhzMl80a25EeXoyUGN3SEt2Mk9ya1A4NkFMd2JEWXQyN0MxX1FPaWhZaW9RR1RIYTgtUXNuTmVDUFM1SHNLNlFGVnoyZnJsaTdyTFBOcmVr?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Legal industry vets launch AI-powered employment firm backed by MSO",
+          "source": "Reuters",
+          "date": "September 16, 2026",
+          "summary": "Legal industry vets launch AI-powered employment firm backed by MSO&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOG5VRWZNaTloYndkWDRNSmMwekw5QTdqMkNVVFpQQmN3RGtzakd4STNpUWozOW1TTWFCS2dmRGx4b0dVOXNfN3dzeS00eHhEaEJPTG1ZVlBiVE1paGJ6VlVjWm5IbVM4Yml4SlFLQzlkLWRBbGlQZ3NIdl9semhLYjFKTmFNYlBUVXFFZkZENWtwWUstSWQ2WGt6N2l1czlvbDVaM1p5bzhmTEo1YWJwUFhZNWhKOVJfQUJXMFkzcVU?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Law firm Morgan & Morgan touts $1 billion AI investment, plans to sell platform to other firms",
+          "source": "Reuters",
+          "date": "September 16, 2026",
+          "summary": "Law firm Morgan & Morgan touts $1 billion AI investment, plans to sell platform to other firms&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT0U0ZHRTbGpJTjh3ZTZfajhoakthRWotLWxFUk9YZmNkVHpQQjVhWHIxamw5OVo2QXozMnNlakZUek9EdnFKQnIwTG05SC1CTEl0MVlpcDdDaENyREFpM21lR1A4RHlDVjVFYXFubHRoc3FTdUpqR1RwajZyWWRaSm81OW1RYVFVRWVsUDFmMWl5UjR2TjJuXzhXVGI5MER5OVItNmZpV1BrLUpFRjg2NnJyRTh5NFJhdXpHUlVaSlV5RXc3cVhaaC1HYVFMQQ?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "RelativityOne Is Now Relativity aiR: The AI Platform for Legal Data Intelligence",
+          "source": "PR Newswire",
+          "date": "September 16, 2026",
+          "summary": "RelativityOne Is Now Relativity aiR: The AI Platform for Legal Data Intelligence&nbsp;&nbsp;PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzJTcEVoZ20yVUpQOTd4VDc4YzNDOF82LU14d1RMY28xbjY5MVdrMHdXQ3hENTF1UlRUOVctMmlaTS0yU1lIYzcxRHBRU1BoSmQ4Vms5cHdkemk4aWlLZzZqcGxDQzloSEZleEJZNEZXQTNyRURHMFFPUnkwRXJaRUdXZmRMLUh1bzZkZW5OdGV3Nk42WVVXMXpYaldQMTl5WHF5LU90Y3NLQlpXNTc2Unpza1lWUXVUX3U0QWdacFpUUzV3Qzd6Z1REUk9JeGNs?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "‘AI Native’ Immigration Law Firm Alma Announces $17M in Series A Funding",
+          "source": "Law.com",
+          "date": "September 16, 2026",
+          "summary": "‘AI Native’ Immigration Law Firm Alma Announces $17M in Series A Funding&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaGhEYXZYLWoyZUYzemhIZlJBWjVZMEFWX2ZZcHZjTHh1TmRHU1J3TVliX2RhcG9ZSlE0LVN5b2xYVGwxUS1Tb0NOYmNMMlRKNlltYk5HNW5EdFUwMjBKS0VWbkw0Tldvdm1GZEE3OV9ydGEwSVdINTNZY19Lc1lSVnl2a09oc0NnUGNnLXNVd3VzNGFVYUNxXzN5VVBpMXZNUjdWYlAzLWFHZmRwc0t6WFZxN3lYdWd0TDUzZzF1R1IwYTk3dm9vNmNR?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "QUICK SPARK: Legal AI Startup Harvey Hires Chief Research Officer From Microsoft",
+          "source": "Benzinga",
+          "date": "September 16, 2026",
+          "summary": "QUICK SPARK: Legal AI Startup Harvey Hires Chief Research Officer From Microsoft&nbsp;&nbsp;Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVENkRTZHOTFVRWRxNldsVjVyNWhPcHpnR1dUOFFkVkE2WXpLazNueXNua2thOUVVb3JVYnktWFpJdloyeHQ1aVBjLTA4NGhnWlJEWm5CT2dJZVpIYXdPOF8zeTN3YmVPTDNVNVRFakxoZkVzeExhYmtJYW54UWhPbnZpUlZoaUx3TzdkRGIzT3diRkhoQWxnNG01M3h2VDFKaVM2S2xFb3E1cVNnQVgzT3F1YTUxNXA4MjFrZVVCeXdyY1EtbmpnWmFMbw?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Quillio raises $930,000 without VC to take on legal AI giants Harvey and Legora",
+          "source": "Dealroom",
+          "date": "September 16, 2026",
+          "summary": "Quillio raises $930,000 without VC to take on legal AI giants Harvey and Legora&nbsp;&nbsp;Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSmNfYlJDUjRadFRRUFZiT250SUVBNDNrQ3VoblBCUjA5MEJiMU1Ta0RGSVZlREIyZklEV3dzUkdUTnRxZDRzS1FaNWtRck1vVy0xdFFkMlpfN3ZWYXpucms4OGVJVmdGVHlrZE1jT1UtZVd5YlE1dHEzOFBOOFdXMTNGOUJXNjBiMVhoMXBoSGUzbzgtZnVsR1c5QkRKWHNhMEQ5cTJuWVE1TnlsNHdBazVn?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Checkbox Launches ‘First Pass’ AI Contract Review",
+          "source": "Artificial Lawyer",
+          "date": "September 16, 2026",
+          "summary": "Checkbox Launches ‘First Pass’ AI Contract Review&nbsp;&nbsp;Artificial Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0F0VGtSRUhWR3dVMHJVbXRzVmhHYWM5NFRRdjdGX0xZRE4xaXMwTno0Ul9paWpzMUk1N0xIbDFyeld0QWY1SDhEVkxfdzA2M1B6WlpzRWVYUDBHRFVCM01KMGdXNzZ5Slk5bkZaUjFHc3ZkY1BYUDloVXVKNkpuWnU5YnZyVDZWREluZG5MMEVEdW5jb1FZ?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 9
+        },
+        {
+          "title": "Law Firms Tighten Data Controls as AI Adoption Surges, With IP Work Facing High Stakes",
+          "source": "ETLegalWorld.com",
+          "date": "September 16, 2026",
+          "summary": "Law Firms Tighten Data Controls as AI Adoption Surges, With IP Work Facing High Stakes&nbsp;&nbsp;ETLegalWorld.com",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT2FLb05QT0dCQTZuSy1JWmJ5NXVGN2hXMjV0Z04tczdlRHJwUVpVdmlhOUkwalFuX1otY2pQamlMWWRoczNfVkpTT0c1eVIwbjgtNVBNaVhCek8xeHMtVFc4UFdibDFnQURjcFJaTGF0UE5QRkttQUVoYVZqR0wyR0I5SG5FR01NaU1mRFVZTXpveWdSMlJ3Z082T012VWVmejk3TFY0Z05WUHlBUDZGQnppZHB6SEI1WmxBaVM2VzVIWkNWWGlYLVFZdzh6VFlEeUlMMjF2Ulh3RWNoSllzUm5JYXliRXBmejg00gHwAUFVX3lxTE9yLTRRMHBISi1qVDE3ZFhGRDg2ZmpYa2U1NFV2NGU1SWFQbF8yZnBXU3ZkVWFDQjdYUnRyUl9SV2g0cVo2MmxMdWt0VW9aN1NpNmdTaGtSbllXSGdMemNSZWZiRDZoR2k2dUgxYlU1VTkxQXFRUEJ5RGFBODl5SUpVMkd5WVNmQ0o0NHJ2TlNfbVk1QjFjeUZGeDhPSjRUdHhBTUZ4Rmhyemh1WURYVTNHNHpfQkx0SjhxU0FnYlVvellOYXEyUlR5cmRyaDJwcW13bGh4X2ltRTJlSHFEMXJTTkl4QVVMX2FjdUxxYklXXw?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "‘The days of throw the latest and newest at every problem are over’: Legal AI’s shift to consumption-based pricing",
+          "source": "The Global Legal Post",
+          "date": "September 16, 2026",
+          "summary": "‘The days of throw the latest and newest at every problem are over’: Legal AI’s shift to consumption-based pricing&nbsp;&nbsp;The Global Legal Post",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSVFhNVRWZmZONDRLRW9TRlhvZVEteUJFMnZKZHNRVWdfMlU4SWcwUDVETFRoeEhuUnBkMXFyQlFET3libDk1THZpRHFOdHNYUmlQU3ZIZGE3ZHMya21CVm1XRVZDdzJldjlFWkstNHZEejI0bE5lcXBUR21wRUpUOVktMWk3NHJMRE94TGlnMlVQeFdJVmFsZE5wUEtqRnNfSmxyMEpQS3lXTmt1STdSNnM0b0NpSmZydXRnZXJ5ckE1a25OLWhzVTVtNnhPbmI3UzN6YXBZNEI1NkxWNW5CS1VzaFJjZ2F5blZ2ZDdR?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "GESSEL Deploys Harvey AI Across All Practices",
+          "source": "globallegalchronicle.com",
+          "date": "September 16, 2026",
+          "summary": "GESSEL Deploys Harvey AI Across All Practices&nbsp;&nbsp;globallegalchronicle.com",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDSkR3NVNFdXBMNWxGVTVMYUJscEJxdS1GbmNBYzE5ODY4MzJHdURUM0Z1T2ZyLWxzOVpaZUN1UDBybDJuNlBYaDB6TG5ZTTU0a1hvWVhQMG4?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "The Sydney legal AI startup taking on Harvey and Legora",
+          "source": "Capital Brief",
+          "date": "September 16, 2026",
+          "summary": "The Sydney legal AI startup taking on Harvey and Legora&nbsp;&nbsp;Capital Brief",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNGxGY2lUbVhvbXV5djBHWW1TVzBxSDhHMmRGalV1eVRKT0pQZmRwdG9CcC1ibm03TFlYeTl4Sm1Ya0tIdjZ2Zk1kZEhUOVBibV9QM3ZwNG9OdDNjcXFFaUJaYlJ2MXlQZ3dxQVp4dHVGckRIYWw0MTNKYUNRWVE1MF91MDBaWEtSZmU4WGFPTkVCWHc3TFBPaE5RX0tQaTMxYVZzQWNBb0Q4aVJOc0pkeDQyRm15ck1Kbkl1N1hBZmI2cG1zS1RVc0NR?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "RelativityOne Gets A New Name To Reflect Its Increasing Capabilities Around AI and Data | LawSites",
+          "source": "lawnext.com",
+          "date": "September 16, 2026",
+          "summary": "RelativityOne Gets A New Name To Reflect Its Increasing Capabilities Around AI and Data | LawSites&nbsp;&nbsp;lawnext.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYl9aWlhCNmdTZ0x3Z0k4V1RJX3VPYkVFN0VYOHlMdEhfelYwRWpmb3NscGJmUUlpV0NXdVZWQzhWZTFRNGpSRHVTbGgwTTh6VEp0bUVnUDgyU2JtOVBZY3l2c21VSVBZRHdEOFhaZlNtZmFUNVo4aDVrcjQwLVB4RjlqcGE5akwzWTZrSlpEWWRWNHAtcW9DM0Qwc1ZneXdZbUxfeXNXVFBDUnNtckRwdEtvYmhydF9BbmF6ZXRCYmdFdw?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Why we built our own AI model — and why that matters to your legal department",
+          "source": "Thomson Reuters Legal Solutions",
+          "date": "September 16, 2026",
+          "summary": "Why we built our own AI model — and why that matters to your legal department&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1R4OTBBWWt2WlpFVjBPaENmbkk0R0k2VWdvQnhUM191Wl9zc2g4TTdpSWIyOWxZMEhjTXBQbVkwRndmOGFVRXhLcnhFdFZXNFY0ZzRlZ3FkT2NpRkZ5b1czaVVfcVAzWVd0XzNod2xsWDByU2NQSmt0Wno0aTBSbU5vRVN1cE1qeFM4bElpRE90ZzFINU05UWlubmNuMWVSWkxvZDA2WG5ZS0RGMWFKZzNxcFA?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Wolters Kluwer launches agentic AI outside counsel management tool",
+          "source": "The Global Legal Post",
+          "date": "September 16, 2026",
+          "summary": "Wolters Kluwer launches agentic AI outside counsel management tool&nbsp;&nbsp;The Global Legal Post",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdk1sa0N4V0Nwd3ZvOHFhNjJfSmRpekpIRW0td1UyWjVXWlRFekprWEI0NjRDUGx6SUZ2aFJ2WFgtaXk3cFh2YmxpNDQzSmxnRGFqRUI0M1d1MzV6bjhJMERGWDNQR0hVdW1pTVFjcHppTjRNeDhpc1VaY292RlJsV1hwekVIWlp3VzVoR1dJOXdjMUljX3NNeGIyajV3dlJOdVp1R2l5WWRuUnVvanU3Zy1wRmk?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 8
+        },
+        {
+          "title": "Orrick adds new executives as AI changes law firm operations",
+          "source": "Reuters",
+          "date": "September 16, 2026",
+          "summary": "Orrick adds new executives as AI changes law firm operations&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR3NqazBWckZ3SC12X1F0ZDB4OWdoNGdhTWU0T2Z4SG8yMTcxSElTcEhUUWNreS04MDVOMlBTblZ6RUpCc0ZoSVh3RkIzX2xuNUx4eFpCTkp2N1lQd05uNExfdklKV1I5eWRuOWE5SzI1ZEl3cVdDdFBSWDZpQUNPNlJwN0Nsd2hfOGpiZXlJLXNWYTBGVm5XN3htaDVVNzJVSkRYazZKNW1DV1lJRWh4ZjREYw?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "The Lethal Trifecta: Why AI Tools That Make Outbound Calls Should Worry Every Law Firm",
+          "source": "Law.com",
+          "date": "September 16, 2026",
+          "summary": "The Lethal Trifecta: Why AI Tools That Make Outbound Calls Should Worry Every Law Firm&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVThSQ0R1RlJLSnRCMG1rV0pDbDNfWDQ1OHJKVU9CY2NSTWtza1Q1UUlfWHVUeTZrV3FuV2c5YzVRbXh6WFZlWlpVVUVTNmdyY2l5RVRmRmFYdFVMYklrNWFHVnFKdklOQ0xTOVl6MVVhb1NkOUtoWTFmVWVNS0t3SGFPVS1GcEdyc0t2cEV3UUhDX1FLV3JoNmJVXzgtaG9zaDZMQ0NESGNBeGRGbW0wUWdKaEpUNGk2?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "How upstart law firm used AI to beat the taxman",
+          "source": "AFR",
+          "date": "September 16, 2026",
+          "summary": "How upstart law firm used AI to beat the taxman&nbsp;&nbsp;AFR",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeDFocFk5dzdVUVJuMFVBbzdnUlBvR1dfOGNGajZyQjRjTUhsOV9fMEpVYUZTMEhfcEJkaGZjQ1R0Rjk5enpsS19meW5RWXh1WVNfdGVDV0RUbUpjN3VkcjdVc3o1SzZ1NHE4V1BjZ2lJUUpFencyQUNHeWZiLU5ad1hueGV5aHZIZWNHZGM3M1FrS25UVGFJemozZmhxWUpmUVk1TEtxWXpfRkMtWEpZa1pRUDFDdw?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Lawyer for State Farm fined over AI hallucination in Los Angeles lawsuit",
+          "source": "Reuters",
+          "date": "September 16, 2026",
+          "summary": "Lawyer for State Farm fined over AI hallucination in Los Angeles lawsuit&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzhkYi1md1B1bFpWWFZNMXBPZHJIYTZKZE9xWlliVjJkc0F1WkFENmpmb1R3NzlKa05NbFdVc0dlcmZRNUxfbjg0TWhZT1dRcGFXNkJ2Wjh3UUozZkpLQ1dBUlBtaDczdVdtZVFNVWV3VzNHTkdzR1ROUVFaV0RUbGR6dm9XNlhXbFRZZmkyRWhCelNFYlA3Um9QaFAyRmlNTHdYV3Y5Q0tKT0V5dHBoWW11QTRpTW9sSEE?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Why Thomson Reuters developed its own proprietary AI model",
+          "source": "Computer Weekly",
+          "date": "September 16, 2026",
+          "summary": "Why Thomson Reuters developed its own proprietary AI model&nbsp;&nbsp;Computer Weekly",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaWczS2R0eUpmVEVZUDVka0h6VUZlN0VOYXZqLVlPM0FGbDVoR18zb3ZYNDdHNHpMQjhvS2M5eVlxRVJ3S0VGaHdsc09nc1B4d0RuY3BDQm9nMkM4VnZLclZVLXFaTmZtd3BqU1JZU3BwWVdNZTdXaUpSM3RZUm8zYUdBMElrZVdqTzh1X1FEM0x0UWxlSE1meG8ydEx0QzJ5ZjJFVFVGMA?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Why Parker Poe Hosted an AI Workshop for General Counsel and Corporate Leaders",
+          "source": "Law.com",
+          "date": "September 16, 2026",
+          "summary": "Why Parker Poe Hosted an AI Workshop for General Counsel and Corporate Leaders&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMm1Ub2pEYkxvUThiQ3JBcTgteTFUeVZmdkt4bGY5cVBxd3EyV1Z2S1VBWDRZbGlhbnJJRXdUWUd3TXJXazZLN2tNSDFIOVR3OE5iRWNVUWJzMzRhMFJWMGNha3RNQmRxNW11Ml9YOWxOa0xrQTZpc1I1VUxkMGpacDE4SW15VTcwZWVydldUQW0ydzRDMFhpbGtNNkN0LU9SWXFoU2I4YTBPWEpUOWd0enFWZWw1ZndRWkFEdUFJYlNjUQ?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "In-house teams urged to lean on law firms as AI reshapes legal costs",
+          "source": "Lawyers Weekly",
+          "date": "September 16, 2026",
+          "summary": "In-house teams urged to lean on law firms as AI reshapes legal costs&nbsp;&nbsp;Lawyers Weekly",
+          "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOZkJyaFU1d1lKWFRMQ2QxNDJyMmNEN3MyS2htaE9KMkdVX3ZCQk5PamJTRmRiUWhxRGw5MUlPN0U0SnZtMndHNDA1X2oxOEZQSVpQeDFqR1hKQ3lNd2l2NjV3SkdUekxuUWpLNG1haGdnaUxRNDg1SEZrZjlrdnFxOHZWaEllM05pS05ZTGxlaTZXUUdvVG84VWhqVG52elVUQ3g2dWcya1pPNGt0cE05cTlYUWhHYkZmVEc5TkxMYnZmQ1E3bVQ0MDcwY2JYR01MMFFaRXFqbXRKSmFrZVBzNVZJWHlFbm9JdnNqNlFNWlAzM0VmUnhESkxBYjlkb2tsdmV0OTM4UjZnZUIwclNqY0FNLS1WSHNUUU9Eb283RnhxUnJlZGJ6RV9Jdmc4Z05hNGxCdTF5UnI0cHpOZHVlYjVKM0c2c2V0ZGVpWVc5dTJqRHRZakFpSEJCWVhvQWpRQnpMZnZBOTlzTWtXT3hpWjNaemhXOG1sMHNaekxyQk45Q3Z5dU80MzQ3aFJhRGlYMF9jR0hYeGVXSDQzbXo2V0pqVEdWTklJRHZHcS01YjFkb1NZVzRjQ1pKZTYyZDVHdi13SmlZaHFZYW5HbWRnRHlMS0d5VDR5OGZodENPYTllWDg3akhjOWxlQ0Q?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 7
+        },
+        {
+          "title": "Investors Chase Law Firm Back Offices as Arizona Interest Cools",
+          "source": "news.bloomberglaw.com",
+          "date": "September 16, 2026",
+          "summary": "Investors Chase Law Firm Back Offices as Arizona Interest Cools&nbsp;&nbsp;news.bloomberglaw.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN21xWDFCdG95bGJjUHJsd3ZWWnl5WUNSUENJbHJuaWlUc0h6amJZTmtrTExsd3lqZmFfd1lGblhrSVJPM0hwZ3poMzYzRVBvM0lyUE5DMC1US25MWnN5NDRZT0pHd3ZTblNwWElwNXZXV2VjSmwtSTNsa0ZYbUxRcnFRRDZqbFN5OGI0dUJteFJmeFYxeHBacEtJaVQxdTcxaHViVThaSC1YS0VTa1liTmw3U1Bjdw?oc=5",
+          "tags": [
+            "enterprise"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Your AI-Drafted China Contract Says It Needs a Lawyer. Listen to It.",
+          "source": "Harris Sliwoski LLP",
+          "date": "September 16, 2026",
+          "summary": "Your AI-Drafted China Contract Says It Needs a Lawyer. Listen to It.&nbsp;&nbsp;Harris Sliwoski LLP",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOGdMWFYyWmUxX0VWOGF6YW41VTZfNHdKYXhGeWVKNGlDV0ItVHEya19SdGt2T0xkNmM3VGhGZ25xZElmdlFhend4R0YzMVBjaGoxT0xMZzlvLURaUHozeTJDS2ZaLU1pZEJ6V0ZxbkNZNlFoVXVaNTVFMEl2Z1g0dDBZaGYxZTg?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "In apology to court, senior associate details how she will avoid AI mistakes going forward",
+          "source": "ABA Journal",
+          "date": "September 16, 2026",
+          "summary": "In apology to court, senior associate details how she will avoid AI mistakes going forward&nbsp;&nbsp;ABA Journal",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1hqQWJyY043N1FPbXFKRk9jbkJXR2xGeU8wZVpmSlZGaUMyZ054eUZ4Vm1ZTUR6dDZKWnpSQlpKWWtmTkptV0hwckpsdXhlQkk5NFlWN2l4eDUxZ2RlSkwyb1IxamxjUWc3aWVDa20tS0JGMnFEVUtGdkZPNTczSHhxdm9hZV9oMGFvOU4zRkJDaURURDhORFUzNDdRY1Z6VW05TU90ZVBDRFhlQkhrMkxSUlRORjBCazFOZG9vRQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Justice minister says UK must embrace AI now for use in court and takes inspiration from Singapore",
+          "source": "The Law Society Gazette",
+          "date": "September 16, 2026",
+          "summary": "Justice minister says UK must embrace AI now for use in court and takes inspiration from Singapore&nbsp;&nbsp;The Law Society Gazette",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc2MwRVdHbjFXS0cwellMVkpfYlEzbEd6OURKa0lzZHVsT1hwclZFM2dIZ29MUTF1OExoNTAtTWVMM2tGN1llWTdWWWdxMXhqVWdDR1BsWmQwN1BZeEN6d3djSkE3Z2xiQl9oVXpjb0VWM1NsVVR0LWtPQVpGeGY0dWJEVG14aXlQNEo1NkJTNkI5T1V3aFJJcWN4UzJnMWVpY0R4LWZR?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Attorney-general demands explanation over AI court blunder",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "date": "September 16, 2026",
+          "summary": "Attorney-general demands explanation over AI court blunder&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdXVaeUNYLTFpSFNtNi1jaUl1RHJiTUx2VklXLUdJWjFpVjE3ZVZ4UWpUdm5JUUxlWWlRTDl0WkQ2czBXbVlwZ2NCUUlkcTkybGVnalkxOXd1aG1nZlJXZ2dNNU1BVW9ySWcxV01qLWRWbnd6bS1vd2pxbDlNZTJlQUJsdWhKeU9jRGhfZ3lTUTdKV1lXQXZHODMwNE1zOThCZHM0WEU4WFQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Smarter corporate investigations Part 1: Insurance fraud investigation in the AI era",
+          "source": "Thomson Reuters Legal Solutions",
+          "date": "September 16, 2026",
+          "summary": "Smarter corporate investigations Part 1: Insurance fraud investigation in the AI era&nbsp;&nbsp;Thomson Reuters Legal Solutions",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2liYUZ1VEQ0R3QySEFGRlpXem9SVlg4NXNsWFBaTmxmME4yZnJPZDVLWGdQQXM0Qlcxc3lBanp2RXJJQWExcEhHeXpfdjlnR0ViV1NjeER0UjBQYWg0am5oYVJHb3hZMUJXbm03dzNYRTJHeDhIVnVwam1mZWpiaGhwMjR1YTRKa0t3UGo1ck1leC1tUVpqUzRleGZteGdjR0J5aS1VeUFlY0gtM0Nlb09PU1R3MHdBVE5NS0JrQQ?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "How Thomson Reuters (TSX:TRI) Is Building Its Next Information-and-AI Growth Chapter",
+          "source": "kalkine.ca",
+          "date": "September 16, 2026",
+          "summary": "How Thomson Reuters (TSX:TRI) Is Building Its Next Information-and-AI Growth Chapter&nbsp;&nbsp;kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObEpwMlJORWZNSWtFTjlqMHJqeWM4WU4xNmVBSC0wb2dPWWctNHFwRHVQUzBIOWwtaXY4NWRzUG5WQUVwRkxaRWZNODM1NjBkMkVrZENNRXlwY3dhc0JuU0xXa3QyYWNLTW16V2kxWmJqWk5heUkyQ3BFZ29QV3YxYmNaQ0I2b0xDaHdfTGpobHk1dWJCSGd0QXZGUXRwTlhLVkJMUHRpcWpkNWE5UFZOd0IwcjVPNFE?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Thomson Reuters Corporation (TSX:TRI) Gains Momentum as AI Expansion and Professional Information Growth Strengthen Investor Confidence",
+          "source": "kalkine.ca",
+          "date": "September 16, 2026",
+          "summary": "Thomson Reuters Corporation (TSX:TRI) Gains Momentum as AI Expansion and Professional Information Growth Strengthen Investor Confidence&nbsp;&nbsp;kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcHMwanRJb3FZNWloX1FDNnI0Tm1XekVtT3FrNkZfQ1JiWkozN0J1YXh1X0t4dmdMMk9zX2xUSjNRX2ZYNVpTS0pXSjNmTEw3dmtvZFVJR2xYeW5oeXZrdjJZZUJfRXJRSzZpbVJzejBoMGN3NERucHY5SHRyeUQwaklmT3ptSUlWV1RGV1JPZ0xpbF9uc2NROUdzY01sSXNKSjdYd0c3NnQ2djBYS1VidkVGM080UWxrNTBxQjhNOGgxbHFjaUdVcHdpZGJWRjg2eENOajZpc1JjX3J1bjB0djVyZjgzZFU4MlJiMmZMb2pYSW1PTjdWVTJMNktoQQ?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 6
+        },
+        {
+          "title": "Trump races to appoint judges before midterms, new AI-powered employment firm, AP sues over restricted access to detainee lawsuits and more ➡️",
+          "source": "linkedin.com",
+          "date": "September 16, 2026",
+          "summary": "Trump races to appoint judges before midterms, new AI-powered employment firm, AP sues over restricted access to detainee lawsuits and more ➡️&nbsp;&nbsp;linkedin.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVZoUjNxd0RDZXJLRWQ4WE9YbXQxT3JENHJra05LWGliQUdQZTVFd2cwYUJnS3E5cTRUWU5VeDdXRHdxT0RqeXZNRE9Xa0hZNEFldFRyM0l0TmgxVGE2OXhEY3d0bkhwR2Jva21DNTdnYWU0MFJvZzZwa2UyWVNGUU1YekM0eVA3cFA4Nk5uemZRVTQtaFVrTFVn?oc=5",
+          "tags": [
+            "funding"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "Hays County approves first payment on Axon AI contract, requires court approval for future tools",
+          "source": "KVUE",
+          "date": "September 16, 2026",
+          "summary": "Hays County approves first payment on Axon AI contract, requires court approval for future tools&nbsp;&nbsp;KVUE",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQUthUVlYb0pnWjZwNEdYaTl0WmtSSF9Ec1c3ZkhYYkNyMDlKTk5NOTRvQjJxZDZMbFJUVGJNTmczcC1aMUhRZGdQenBZVmRyQmN3MlBUT1dRNDZiNUEwakdBd3p4S2ZpdW02ZTE1MG1hdUlsMzBERm9Mc05kYnBjNkJlSWs3Q0F5cW1PYi1NMHBlTkdfOUs2bjdtLThub2loR3lPWkMwejhtSjY4NGZRMExzeDhETzNJOFhUajdnNXlsWW0ycnRBemFyQ1oyR3ViUjJ2MkI0aXNwcXNm?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "Shanghai court's transparent AI Screen impresses law experts",
+          "source": "news.cgtn.com",
+          "date": "September 16, 2026",
+          "summary": "Shanghai court's transparent AI Screen impresses law experts&nbsp;&nbsp;news.cgtn.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSmxBU29LNndDSnBudjRnNFhCa2dUSHFlVmpsUl9WcjRfUDU3dlNEMHJaMjdOdFRhNzdxTnZWNFd3WlVObmFTQ2s5UG1QMUJ3S2lOd1Q2M3dINmpON3dhY2ZDbUxib05tWnB3QkwyMGxVYTdhVlNiRGJiVGlHRFN0LTNtU1FFWHNZZHZjNHg2TUZ4YUMwdS1lSUcxM2c2MGJ2T0hCUmgtd1hVUUw1bG8zUWJpa3VCNnk2Wnc?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "From case memorisation to legal reasoning: how AI is transforming legal education",
+          "source": "The Hindu",
+          "date": "September 16, 2026",
+          "summary": "From case memorisation to legal reasoning: how AI is transforming legal education&nbsp;&nbsp;The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS2xHeFVlZmE0VG8zWml6bHNQTGMzY1NWQUJTbVhDU3hkSmd1UTR5ZHJncDhkWUx0bUo2Z0FVS1FhM1Z0UlpoQXBJY1F5dWlDZmwzWWltY19kOFdSRUR4dnJJM21VVnE1ajdKYVJ2WVhqYmRsekVUTkZHdjNENkdyYlk0aWEtOU9KSjhKak15aXF1RnBDNmczaVNreDV6cXUzM0tuVC04NEpIREJCRi1CZ0FWSy12Rkx2MHFsQzhWRVdjQlA5SzJ1M1htT2hlSGdh0gHXAUFVX3lxTE1Xd093VG9KVEttelVrMkFHT3dFVFJNMHI3bkl5UnphS2tPMzZpOEJGWTRJa3lCZl8zdndod2FLaXk0dzhsX0dJOEUxNWt3dnd4UnV2UlBZVE5LVXY4TGNOaTBQbFpqNTlXVGZhbWs4QzdKd3YwUk9rekdyZ3hLazBmbzNZT2RpQWlRSUotQ0o0eGhtSjU1QWFjUk1XanpqSmRyb0lwXzRnNmVvekJITWNqeXBJZnJoSEFIeFV0TGpRMWM1VWJKMGREZkYtSWN3NzVjQWlJZDA0?oc=5",
+          "tags": [
+            "research"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "Thomson Reuters and Suralink Team Up to Connect Client Collaboration with AI-Powered Audit Workflows",
+          "source": "CPA Practice Advisor",
+          "date": "September 16, 2026",
+          "summary": "Thomson Reuters and Suralink Team Up to Connect Client Collaboration with AI-Powered Audit Workflows&nbsp;&nbsp;CPA Practice Advisor",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWDVUODFGQnloeVlwcThMNUZaSmVlUUZyRHZxRWhJZkFrU0ZZZTlZLU91Z1lOV0lPclBOV3RnZVJVYU9sc0l4X21SVVJ2WTE1elN0dUR4ZGdDSnIza1JXNDNjZUFDbDdXTVo4UjdJQ25FMzd1ZTlEbWxrTVVRNk1lVnhGdlFJNEFzaUkzN2dSRTRTZWt2bUNSOUs1QXpORExVSzV2LTNrR293TndnbERSYWpvX20zUW9CdV9ZOGljSFV5OHhNQnFGSElCSDJsLVctdjM2TFVRSmVHRXU2QlJ4UGFNYkFvRjlvLVE?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "Thomson Reuters and Suralink Partner to Connect Client Collaboration with AI-Powered Audit Workflows",
+          "source": "Thomson Reuters",
+          "date": "September 16, 2026",
+          "summary": "Thomson Reuters and Suralink Partner to Connect Client Collaboration with AI-Powered Audit Workflows&nbsp;&nbsp;Thomson Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSG01em5PQ1kySXNfa2d1Um9uZXZGM09heWY3cUtabEk3RmNISFM1NjdUOTBQTkVRZEtOZkc3Sk1RQWZSUEVUZEtpTk1RRUxGbFdyc09yV0pUYW9QV0tYNVFYNjFtVEVPeXo5aUZyUTBSaHROb0RwYUFFOHNQeFk5a253d19MbTF2NHcwR2dvbFNzVnpwZmo0N0hpU081R2lYNUI2NWU2bzYzMHFwWUxsRU9RMVZ2OWhFTXJTMDlKczk0REVsNXRJNzM0RHJURlhjVWU1bE80UGEwSnFJOGtSVUtMbDZ3VUlxSGo1LUppTWllcWN1d19J?oc=5",
+          "tags": [
+            "product"
+          ],
+          "heat": 5
+        },
+        {
+          "title": "‘The responsible thing to do’: Attorney for FSU shooting victim welcomes AI safeguards discussion",
+          "source": "WCTV",
+          "date": "September 16, 2026",
+          "summary": "‘The responsible thing to do’: Attorney for FSU shooting victim welcomes AI safeguards discussion&nbsp;&nbsp;WCTV",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXFlWEhBY2l2am9PNWxBb0dWQnI5bDhLd2w2dldCUG9JTnUxa05qQ1RtSVNoR254TkhfLUFKcHBnd0ppd3BzemdCSnFSd3daQVM0WEJ3T3ZiMS1UWXJIUXJHWW1rUnluSjBlYU1uZDdSZ2FENUIwQkJiN3YwYnVpWGczUlBlODJfVm92ekZpVk1Mc3NHVVFMRE9qZG43OXVGaVJvU3FXWWNDUzFtRXo1ZW1qSVVBZw?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 4
+        },
+        {
+          "title": "Three Wood County judges to discuss use of AI in court",
+          "source": "BG Independent News",
+          "date": "September 16, 2026",
+          "summary": "Three Wood County judges to discuss use of AI in court&nbsp;&nbsp;BG Independent News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUHdWTGFiYWVYRzhtWVVnZnY4RXR2YmxWdGJmcVdXZThtdmIxNTVOZnVzVW0xekowNXhNZkptT3dDUERIRURsdjFWVmQ1VmRyN0JoOE5hS3lXVFR0RDNWemFyYi1QN1VLM2o3UEpLSEJOeVNkM3NqWWdTNW9VcHk1MzA5anZRbjBscm9qd3BWSQ?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 4
+        },
+        {
+          "title": "A Federal Court Asked for Help on AI-Generated CSAM. Congress Is Ignoring It",
+          "source": "Law.com",
+          "date": "September 16, 2026",
+          "summary": "A Federal Court Asked for Help on AI-Generated CSAM. Congress Is Ignoring It&nbsp;&nbsp;Law.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWl0eFU2cjhpSVpkZ0g0ZXViaG8yRUgydGlBOUdUN3lnMlBJc0JYRVlqSGNCOXVIQkRqb1VVLWNPZGhabEl6QkRTbHh3OEEzU2RrMmZ2QWJubHo1Qk5rd1Rfd2pKTVI0VjJXQlJCOWpGOFhSenF0SWJrX0w1ODdmbm5VcmVWbkloeXNBbmlZMkIzRDJkbi16MVY5eWp1U1ZIX2Y2VTg4ZjBueFFaVHRLbFhneEZhVWRaU2RZRlpMWGFKblE?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 4
+        },
+        {
+          "title": "Elon Musk’s xAI Asks Appeals Court to Block Minnesota Law Targeting AI-Generated Nude Images | MinneapoliMedia",
+          "source": "minneapolimedia.town.news",
+          "date": "September 16, 2026",
+          "summary": "Elon Musk’s xAI Asks Appeals Court to Block Minnesota Law Targeting AI-Generated Nude Images | MinneapoliMedia&nbsp;&nbsp;minneapolimedia.town.news",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOazVZdWxaTE1zWEdqTlliN1pvOXhMdXBZcXZ2OFlyTEFSV0ZmcmFYWnc3OUQzUjFuVDk5cVpzLWlIV0hqOXFRT0xNU2V5QjVSRXl2eHpyMVBwLWgyNE5DM0JJbW9LTl95UzZZMHBfaWcyQmE3QS0yVjF1U2ttRy1xZmxsMk5PZDktRWE3eVhCOW1zRHpYWnYxSjA2aTRLajVHWnNkTlFmRExvYmJ4VjAya1FaWmtKS1k5VHZqZkFNcS15X2g4Y0dhY0NB?oc=5",
+          "tags": [
+            "regulation"
+          ],
+          "heat": 4
+        }
+      ]
+    },
+    {
       "date": "2026-09-15",
       "fetchedAt": "2026-09-15T19:57:36.295Z",
       "articleCount": 31,
